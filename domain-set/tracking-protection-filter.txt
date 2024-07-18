@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.api.publytics.net
+.shoelace.com
+.pixel.nudgify.com
+.t.mm-uxrv.com
 .sec.webeyez.com
 .michiganrobotflower.com
 .uid.mediacorp.sg
@@ -39714,6 +39718,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.stats.habr.com
+.analytics.qs-apps.com
 .cnt.web-apps-prod.wo-cloud.com
 .akn.analytics.autodesk.com
 .marketing.dropbox.com
