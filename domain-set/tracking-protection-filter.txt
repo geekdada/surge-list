@@ -23,7 +23,6 @@
 .adtrack.adleadevent.com
 .metrics-fe-na1.hubspot.com
 .pixel.mintigo.com
-.api.sardine.ai
 .au1.qualtrics.com
 .siteintercept.qualtrics.com
 .dmp.one
@@ -39718,6 +39717,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.trackid.globoid.globo.com
 .stats.habr.com
 .analytics.qs-apps.com
 .cnt.web-apps-prod.wo-cloud.com
@@ -39835,7 +39835,6 @@
 .analytics.verfacto.com
 .log.dzen.ru
 .flask.us.nextdoor.com
-.ev.indianexpress.com
 .aa-metrics.beauty.hotpepper.jp
 .aa-metrics.hotpepper.jp
 .c615.denverpost.com
@@ -42655,7 +42654,6 @@
 .an.batmobi.net
 .analytics.any.do
 .m.vpadn.com
-.api.instabug.com
 .sts.batmobi.net
 .pps-log.op-mobile.opera.com
 .tktracker.aotter.net

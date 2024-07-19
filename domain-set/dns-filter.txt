@@ -3903,6 +3903,7 @@
 .alfasense.com
 .alfatraffic.com
 .alfelixstownrusis.info
+.alfionecasave.com
 .alfonsino.top
 .alfpair.com
 .alfredpoleshipwreck.com
@@ -11621,6 +11622,7 @@
 .dummieseardrum.com
 .dumpaudible.com
 .dumpconfinementloaf.com
+.dumpilydieted.click
 .dumplingclubhousecompliments.com
 .dumplingdirewomen.com
 .dunderaffiliates.com
@@ -26791,6 +26793,7 @@
 .plotlibyodler.top
 .ploughbrushed.com
 .ploygunline.com
+.ployingcurship.com
 .plpuybpodusgb.xyz
 .plqbxvnjxq92.com
 .plrjs.org
@@ -33197,6 +33200,7 @@
 .swiftlylatterdilate.com
 .swigdomable.com
 .swigethinyl.top
+.swiggermahwa.com
 .swiggrazer.life
 .swimmerallege.com
 .swimmerperfectly.com
@@ -38465,6 +38469,7 @@
 .yaefddu.com
 .yaeigtmhvsibf.com
 .yafabu.uno
+.yaffedtwindle.com
 .yafmqibivbuu.com
 .yaggergiher.top
 .yahuu.org
@@ -40659,6 +40664,8 @@
 .veoxa.com
 .verified-extensions.com
 .vertismedia.co.uk
+.viads.com
+.viads.net
 .vibrantmedia.com
 .videoo.tv
 .videoroll.net
@@ -40958,6 +40965,7 @@
 .api.localadswidget.com
 .apps.media-lab.ai
 .assets.sheetmusicplus.com
+.audioad.zenomedia.com
 .award.sitekeuring.net
 .banners.livepartners.com
 .bc.coupons.com
@@ -42558,6 +42566,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.ahoy-internal-ads-hv.b-cdn.net
 .ad.iwhop.cn
 .s-odx.oleads.com
 .mediation.unity3d.com
@@ -43189,7 +43198,6 @@
 .adtrack.adleadevent.com
 .metrics-fe-na1.hubspot.com
 .pixel.mintigo.com
-.api.sardine.ai
 .dmp.one
 .dmp-ai.ru
 .dmp-one.ru
@@ -46661,6 +46669,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.trackid.globoid.globo.com
 .stats.habr.com
 .analytics.qs-apps.com
 .cnt.web-apps-prod.wo-cloud.com
@@ -46775,7 +46784,6 @@
 .lp.spac.me
 .analytics.verfacto.com
 .flask.us.nextdoor.com
-.ev.indianexpress.com
 .aa-metrics.beauty.hotpepper.jp
 .aa-metrics.hotpepper.jp
 .c615.denverpost.com
@@ -49374,7 +49382,6 @@
 .an.batmobi.net
 .analytics.any.do
 .m.vpadn.com
-.api.instabug.com
 .sts.batmobi.net
 .pps-log.op-mobile.opera.com
 .tktracker.aotter.net
@@ -53239,6 +53246,7 @@
 .exchange.informer.ua
 .hdvmyo.com
 .adsy.mail.bg
+.baglanbize.net
 .cdn.cdnhipter.xyz
 .kingads2.org
 .ad-service.shop
@@ -60751,6 +60759,14 @@
 .vxdrfr.xyz
 .mkscy6.cn
 .mikka.app
+.ieymhkx.icu
+.bdipsumv.top
+.juznlx.xyz
+.molpmh.xyz
+.hjrcjz.xyz
+.baijs010.xyz
+.doujs09.xyz
+.google-js-08.xyz
 .gkypgw.xyz
 .lyislol.top
 .tgrpzl.xyz
