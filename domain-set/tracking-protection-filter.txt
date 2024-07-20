@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.scmn0di.com
+.cdn.defractal.com
 .api.publytics.net
 .shoelace.com
 .pixel.nudgify.com
