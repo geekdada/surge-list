@@ -39719,6 +39719,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.test.torrentfreak.com
+.datum.jsdelivr.com
 .trackid.globoid.globo.com
 .stats.habr.com
 .analytics.qs-apps.com
