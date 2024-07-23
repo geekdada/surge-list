@@ -1,3 +1,4 @@
+.consent.nitrocnct.com
 .ucookie.app
 .collector.appconsent.io
 .cdn.cookiesuit.com
@@ -1374,6 +1375,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.qushad.com
 .quickalert.org
 .ziwelatum.com
 .adpush.com.tr
