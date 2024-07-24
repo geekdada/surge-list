@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.insights-mxp.coursecareers.com
+.api.sprig.com
 .scmn0di.com
 .cdn.defractal.com
 .api.publytics.net
@@ -40142,6 +40144,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.a.visme.co
+.events.framer.com
+.static.runconverge.com
 .test.torrentfreak.com
 .datum.jsdelivr.com
 .trackid.globoid.globo.com

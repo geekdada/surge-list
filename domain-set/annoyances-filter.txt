@@ -136,6 +136,7 @@
 .cc.silktide.com
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.frogator.com
 .soundstocking.com
 .flourishinginnovation.com
 .oxygenfuse.com
