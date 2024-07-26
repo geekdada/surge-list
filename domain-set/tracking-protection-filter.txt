@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.sumatra.ai
+.nkdyzf.com
 .b3mxnuvcer.com
 .insights-mxp.coursecareers.com
 .api.sprig.com
