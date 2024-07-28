@@ -136,6 +136,7 @@
 .cc.silktide.com
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.superchichair.com
 .tranquilveil.com
 .gluedpixel.com
 .frogator.com

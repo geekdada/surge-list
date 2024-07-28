@@ -42651,7 +42651,6 @@
 .log-verify.mob.com
 .app-analytics-services.com
 .sg.log.ulivetv.net
-.kr-col-ext.nelo.navercorp.com
 .events.funnelish.com
 .analytics.app.funnelish.com
 .analytics.starmakerstudios.com
