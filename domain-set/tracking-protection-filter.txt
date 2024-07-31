@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.api.receptivity.io
 .static.target2sell.com
 .sumatra.ai
 .nkdyzf.com
@@ -40073,6 +40074,15 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.telemetry.stytch.com
+.stat.le.com
+.fe-go.letv.com
+.dc.letv.com
+.c.webp2p.letv.com
+.s-webp2p.letv.com
+.banana.le.com
+.sst.thebanker.com
+.cllctr.roistat.com
 .analytics.mailmunch.co
 .tracker.adsales.rakuten.co.jp
 .revengine-tracker.remp.dailymaverick.co.za
