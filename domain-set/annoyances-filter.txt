@@ -1,3 +1,4 @@
+.service-cmp.com
 .consent.nitrocnct.com
 .ucookie.app
 .collector.appconsent.io
@@ -1342,6 +1343,8 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.pop.devil.services
+.web.telemetric.dk
 .pt.wisernotify.com
 .ex1tp.com
 .getresponse.com
