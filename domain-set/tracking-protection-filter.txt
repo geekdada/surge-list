@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.umami.aigenerations.net
+.brilliantcollector.com
+.flag.lab.amplitude.com
 .pop.devil.services
 .pixeltrack.clientgear.com
 .event.clientgear.com
