@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.yatr.ru
+.analytics-fe.digital-cloud.medallia.eu
 .umami.aigenerations.net
 .brilliantcollector.com
 .flag.lab.amplitude.com
@@ -40080,6 +40082,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.tracking.aws.judge.me
+.analytics.rev.iq
+.error-tracking.reddit.com
 .c1-stats.shopifysvc.com
 .telemetry.stytch.com
 .stat.le.com
