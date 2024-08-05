@@ -41215,6 +41215,7 @@
 .8b71e197.xyz
 .8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 .8eef59a5.live
+.9354ee72.xyz
 .97496b9d.xyz
 .977878.xyz
 .97b448.xyz
@@ -41237,6 +41238,7 @@
 .b82978.xyz
 .b903c2.xyz
 .b9f25b.site
+.ba0bf98c.xyz
 .bc0ca74b.live
 .bc98ad.xyz
 .bcbe.site
@@ -43641,6 +43643,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tr.dec-connect.decsuite.com
 .yatr.ru
 .analytics-fe.digital-cloud.medallia.eu
 .umami.aigenerations.net
@@ -56401,6 +56404,7 @@
 .adjusts.info
 .adm.phunusuckhoe.vn
 .adm.phunuvagiadinh.vn
+.admin.giaminhmedia.vn
 .admin.phunusuckhoe.vn
 .admin.sothuchi.vn
 .admin.voh.com.vn
@@ -56412,6 +56416,7 @@
 .ads.568play.vn
 .ads.6svn.com
 .ads.admatrix.vn
+.ads.alobacsi.vn
 .ads.autonet.com.vn
 .ads.baoangiang.com.vn
 .ads.baobinhduong.vn
@@ -56432,11 +56437,13 @@
 .ads.cungcau.vn
 .ads.fpt.vn
 .ads.fptplay.net.vn
+.ads.giaminhmedia.vn
 .ads.gosu.vn
 .ads.home.vn
 .ads.homedy.net
 .ads.ictnews.vn
 .ads.inetgroup.vn
+.ads.ketnoitatca.net
 .ads.kiemsat.vn
 .ads.lamchame.vn
 .ads.laodongbinhduong.org.vn
@@ -56483,6 +56490,7 @@
 .adv.anhsangvacuocsong.vn
 .adv.autosurf.vn
 .adv.baoangiang.com.vn
+.adv.baotayninh.vn
 .adv.baotintuc.vn
 .adv.baovemoitruong.org.vn
 .adv.thuvienphapluat.vn
@@ -56842,6 +56850,7 @@
 .tracker.phunuvagiadinh.vn
 .tracker.thichxemphim.net
 .tracking-web.smobgame.com
+.tracking.10gb.vn
 .tracking.appwifi.com
 .tracking.cystack.net
 .tracking.dantri.com.vn
@@ -56852,6 +56861,7 @@
 .tracking.hongtinnhanh.com
 .tracking.meta.vn
 .tracking.phunuadong.vn
+.tracking.saostar.vn
 .tracking.tekoapis.com
 .tracking.tinxe.vn
 .tracking.tuyenquang.gov.vn
@@ -59164,6 +59174,7 @@
 .quydoichuyenkhoanquocte.weebly.com
 .quydoitienquocte24h7azx.weebly.com
 .quytiente.com
+.r01lacou.azidp.tech
 .rategicstrai.cfd
 .re0y7d.cyou
 .reallkeys.com
@@ -61273,6 +61284,7 @@
 .ynefefyopqvu.com
 .youtuber-cash.buzz
 .yunduofei.xyz
+.zSmhlV.zgbv.tech
 .zalorashop.com
 .zeroshop.cc
 .zingmp3.pro
@@ -61285,6 +61297,10 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.letlwsl.top
+.twerilxi.top
+.eyyngo.xyz
+.tzyzlow.cn
 .script302.top
 .vecggfp.icu
 .ubeaui.xyz
