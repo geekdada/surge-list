@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.data.media-lab.ai
 .kapetracking.com
 .tr.dec-connect.decsuite.com
 .yatr.ru
@@ -40027,6 +40028,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.ylog.huya.com
 .ax.amnezia.org
 .web-analytics.lastpass.com
 .tracking.aws.judge.me
