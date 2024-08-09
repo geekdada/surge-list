@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.app.kuvio.io
 .data.media-lab.ai
 .kapetracking.com
 .tr.dec-connect.decsuite.com
@@ -40028,6 +40029,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.pixels.spotify.com
 .ylog.huya.com
 .ax.amnezia.org
 .web-analytics.lastpass.com
@@ -40514,7 +40516,6 @@
 .stat.gc.my.games
 .1l-hit.vkplay.ru
 .1l-view.my.games
-.apptics.zoho.com
 .cdn.smlog.co.kr
 .collector-statistics.nhn-commerce.com
 .insight.danawa.com
