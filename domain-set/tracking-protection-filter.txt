@@ -40029,6 +40029,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.fresnel-events.vimeocdn.com
+.evt.ilovepdf.com
+.beacon.adelphic.com
 .pixels.spotify.com
 .ylog.huya.com
 .ax.amnezia.org
