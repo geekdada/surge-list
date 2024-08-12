@@ -11,6 +11,8 @@ DOMAIN,makersuite.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,googleai.com
+DOMAIN-SUFFIX,notebooklm.google
 
 # Others
 DOMAIN-SUFFIX,perplexity.ai
