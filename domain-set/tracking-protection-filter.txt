@@ -40031,6 +40031,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.applytics.nordvpn.com
 .d.analyticsmania.com
 .gtm.lercio.it
 .gtm.mandesager.dk
