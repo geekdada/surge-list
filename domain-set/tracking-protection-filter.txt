@@ -39072,6 +39072,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.event-router.chime.com
+.t3.cdnpure.com
 .counter.wikiwiki.jp
 .applytics.nordvpn.com
 .d.analyticsmania.com
@@ -41622,6 +41624,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.stats.rustore.ru
+.vk-analytics.ru
 .tracking.iwhop.cn
 .push-api.topaz-analytics.com
 .analytics.wildlifestudios.com
