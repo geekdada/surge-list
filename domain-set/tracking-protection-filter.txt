@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.collector-pxebumdlwe.px-cloud.net
+.collector-pxebumdlwe.px-cdn.net
+.s2s.adjust.com
+.view.adjust.com
+.engagements.appsflyer.com
 .pageview.click
 .viaklera.com
 .app.kuvio.io
