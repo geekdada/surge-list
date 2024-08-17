@@ -13,6 +13,7 @@ DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,googleai.com
 DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
 
 # Others
 DOMAIN-SUFFIX,perplexity.ai
