@@ -1,3 +1,4 @@
+.cmp.dreamplusgames.com
 .service-cmp.com
 .consent.nitrocnct.com
 .ucookie.app
@@ -137,6 +138,7 @@
 .cc.silktide.com
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.chivalrouscord.com
 .consumerzero.com
 .safetybrush.com
 .melodiouscomposition.com

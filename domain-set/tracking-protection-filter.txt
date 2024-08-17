@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.fndrsp.net
+.positional.ai
+.positional-bucket.com
 .collector-pxebumdlwe.px-cloud.net
 .collector-pxebumdlwe.px-cdn.net
 .s2s.adjust.com
@@ -39077,6 +39080,12 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.stats.browsertrix.com
+.sgmnt.beacons.ai
+.track.lc.quark.cn
+.nsclick.baidu.com
+.ipgeolocation.abstractapi.com
+.trace.mjyx.com
 .event-router.chime.com
 .t3.cdnpure.com
 .counter.wikiwiki.jp
