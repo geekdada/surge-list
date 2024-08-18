@@ -40364,7 +40364,6 @@
 .dsb.yahoo.co.jp
 .dtch.brunel.nl
 .dtxtngytz5im1.cloudfront.net
-.dynatrace.att.com
 .e-stat.huya.com
 .e.tw.cx
 .e.viously.com
