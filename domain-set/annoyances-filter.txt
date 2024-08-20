@@ -98,6 +98,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.tiq.espritshop.pl
 .cookiewarden-content.teb.com.tr
 .lahar.com.br
 .consent.wko.at
@@ -138,6 +139,13 @@
 .cc.silktide.com
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.astralhustle.com
+.monacobeatles.com
+.proofconvert.com
+.freakyglass.com
+.lyricshook.com
+.tuneupcoffee.com
+.etherealpinnacle.com
 .lonelyflavor.com
 .chivalrouscord.com
 .consumerzero.com
@@ -1354,6 +1362,7 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.bot.agerun.jp
 .pop.devil.services
 .web.telemetric.dk
 .pt.wisernotify.com
