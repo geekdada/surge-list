@@ -1362,6 +1362,7 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.webwidget.shanon-services.com
 .bot.agerun.jp
 .pop.devil.services
 .web.telemetric.dk
@@ -1959,6 +1960,7 @@
 .booster.webtradecenter.com
 .gacraft.jp
 .api.popin.cc
+.widget.hireaiva.com
 .chatbro.com
 .chatbase.co
 .support-widget.userlocal.jp

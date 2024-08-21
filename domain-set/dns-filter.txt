@@ -37587,6 +37587,7 @@
 .adteractive.com
 .adthrive.com
 .adtival.network
+.adtrafficquality.google
 .adtrix.com
 .adultadworld.com
 .adultimate.net
@@ -40579,7 +40580,6 @@
 .tnc16-alisg.isnssdk.com
 .tnc16-useast1a.isnssdk.com
 .app.adjust.world
-.app.adjust.net.in
 .ads.feelingtouch.com
 .ad.tencentmusic.com
 .ads.iosappsworld.com
@@ -41066,7 +41066,6 @@
 .sec.webeyez.com
 .michiganrobotflower.com
 .uid.mediacorp.sg
-.exacttarget.com
 .analytics.launch.bz
 .qobuz.surveysparrow.com
 .srvr.dmvs-apac.com
@@ -44545,6 +44544,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.ninja.data.olxcdn.com
 .ocular.mydealz.de
 .tiq.espritshop.pl
 .abc.espritshop.pl
@@ -44556,7 +44556,6 @@
 .trace.mjyx.com
 .event-router.chime.com
 .t3.cdnpure.com
-.counter.wikiwiki.jp
 .applytics.nordvpn.com
 .d.analyticsmania.com
 .gtm.lercio.it
@@ -45125,7 +45124,6 @@
 .cdn-redirector.glopal.com
 .storelog.kode.co.kr
 .ampltd2.medal.tv
-.l.bfmtv.com
 .analytics.dugun.com
 .report2.iciba.com
 .report.iciba.com
@@ -51191,7 +51189,6 @@
 .medyanative.com
 .61ads.net
 .apptospace.com
-.aybereklam.com
 .publisher-network.com
 .dzypro.xyz
 .storj.cloud
@@ -58726,6 +58723,13 @@
 .dqlrfmwp.icu
 .cewrutf.top
 .grihaith.com
+.dabajd.xyz
+.miycoc.xyz
+.hewrutu.top
+.jyjrbz.xyz
+.kjxhd.cn
+.doujs08.shop
+.baijs08.shop
 .uloscw.xyz
 .gahejiao.com
 .nbfsvreu.icu
