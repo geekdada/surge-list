@@ -36242,6 +36242,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.analytics.floris.amsterdam
+.suchanalytik.hideandsec.sh
+.tealium.cbsnews.com
 .ninja.data.olxcdn.com
 .ocular.mydealz.de
 .tiq.espritshop.pl
