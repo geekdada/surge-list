@@ -36242,6 +36242,12 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.plausible.pronouns.cc
+.umami.subdavis.com
+.lptag.liveperson.net
+.sks.mrkhub.com
+.measuring-pixel-service.alza.cz
+.analytics.valotool.com
 .analytics.floris.amsterdam
 .suchanalytik.hideandsec.sh
 .tealium.cbsnews.com
