@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cartx.cloud
 .confiant-integrations.net
 .traxex.gannettdigital.com
 .events.getmodemagic.com
