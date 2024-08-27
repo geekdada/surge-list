@@ -1,3 +1,4 @@
+.hrabos-gdpr.aira.cz
 .cmp.dreamplusgames.com
 .service-cmp.com
 .consent.nitrocnct.com
