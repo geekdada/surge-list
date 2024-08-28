@@ -35710,6 +35710,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.services.haaretz.com
+.track.hydro.online
 .analytics.raenonx.cc
 .analytics.vixcloud.co
 .plausible.pronouns.cc
@@ -38279,6 +38281,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.insights.zennioptical.com
 .proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .stats.rustore.ru
