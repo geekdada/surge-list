@@ -35710,6 +35710,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.sapi.tremendous.com
 .services.haaretz.com
 .track.hydro.online
 .analytics.raenonx.cc
