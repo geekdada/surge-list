@@ -35710,6 +35710,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.collector.superwall.me
+.tracker.grupanya.com
 .sapi.tremendous.com
 .services.haaretz.com
 .track.hydro.online
@@ -38127,6 +38129,7 @@
 .yourblocksite.com
 .collection-endpoint-prod.herokuapp.com
 .collection-endpoint-staging.herokuapp.com
+.essential-apps-analytics.herokuapp.com
 .d10vy5gom1ed53.cloudfront.net
 .um-public-panel-prod.s3.amazonaws.com
 .dygassets.dygdigital.com
@@ -38282,6 +38285,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.analysis.vesync.com
+.log16-normal-useast5.tiktokv.us
 .insights.zennioptical.com
 .proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
