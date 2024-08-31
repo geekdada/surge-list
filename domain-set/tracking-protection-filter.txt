@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.eu-1-id5-sync.com
+.octotracking.com
 .cartx.cloud
 .confiant-integrations.net
 .traxex.gannettdigital.com
@@ -35710,6 +35712,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.chocolatine.apexlegendsstatus.com
+.prod.tahoe-analytics.publishers.advertising.a2z.com
+.x.trvdp.com
 .collector.superwall.me
 .tracker.grupanya.com
 .sapi.tremendous.com
