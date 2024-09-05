@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.joinmassive.com
+.cdnweb2analytics.com
+.notix.io
+.pub.pixels.ai
+.data.tm-awx.com
 .eu-1-id5-sync.com
 .octotracking.com
 .cartx.cloud
@@ -664,7 +669,6 @@
 .browser-intake-datadoghq.com
 .analytics.superstructure.ai
 .cdn.raekdata.com
-.felix.data.tm-awx.com
 .imzahrwl.xyz
 .gae.karte.io
 .script.anura.io
