@@ -99,6 +99,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.utiq.t-online.de
 .tiq.espritshop.pl
 .cookiewarden-content.teb.com.tr
 .lahar.com.br
@@ -1415,6 +1416,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.personaclick.com
 .qushad.com
 .quickalert.org
 .ziwelatum.com

@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.trackdesk.com
+.adlc-exchange.toast.com
+.ad.aceplanet.co.kr
 .joinmassive.com
 .cdnweb2analytics.com
 .notix.io
@@ -2917,7 +2920,6 @@
 .persianstat.com
 .persianstat.ir
 .personyze.com
-.petametrics.com
 .phonalytics.com
 .phone-analytics.com
 .photorank.me
@@ -35039,6 +35041,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.track2.tprg.ru
+.metrics.camsoda.com
+.to.torrentfreak.com
 .l.premium.naver.com
 .chocolatine.apexlegendsstatus.com
 .prod.tahoe-analytics.publishers.advertising.a2z.com
