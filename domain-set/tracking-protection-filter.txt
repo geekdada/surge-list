@@ -35041,6 +35041,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.log.bloodppressure.info
+.log.pdfreaders.net
 .track2.tprg.ru
 .metrics.camsoda.com
 .to.torrentfreak.com
