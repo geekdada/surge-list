@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.events.baselime.io
 .trackdesk.com
 .adlc-exchange.toast.com
 .ad.aceplanet.co.kr
@@ -35041,6 +35042,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.a-da.invideo.io
+.pixel.clutter.com
 .log.bloodppressure.info
 .log.pdfreaders.net
 .track2.tprg.ru
