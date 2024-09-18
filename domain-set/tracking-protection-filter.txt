@@ -35063,6 +35063,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.ivstat.indavideo.hu
+.stat.indidata.com
 .plausible.paimon.moe
 .stats.allenai.org
 .logperf.vnexpress.net

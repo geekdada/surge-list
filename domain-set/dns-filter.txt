@@ -1,3 +1,5 @@
+.iv.hautboyhellen.com
+.cfusion-internet.com
 .s0-greate.net
 .alaudrup.net
 .shamnmalcwob.com
@@ -44321,6 +44323,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.ivstat.indavideo.hu
+.stat.indidata.com
 .plausible.paimon.moe
 .stats.allenai.org
 .logperf.vnexpress.net
@@ -47503,6 +47507,7 @@
 .ct.corpusapp.com
 .ct.itbusinessedge.com
 .ct.thegear-box.com
+.cta-service-cms2.hubspot.com
 .cts.businesswire.com
 .cts.vresp.com
 .curated.fieldtest.cc
@@ -48020,6 +48025,7 @@
 .w4o7aea80ss3-a.akamaihd.net
 .watchtower.graindata.com
 .wco.crownpeak.com
+.wds.weqs.me
 .web-tracker.smsbump.com
 .web1.51.la
 .webcare.byside.com
@@ -48169,6 +48175,7 @@
 .contiamo.com
 .counter-zaehler.de
 .dcmn.io
+.digistats.de
 .dl8.me
 .durchsichtig.xyz
 .etrust.eu
@@ -48807,6 +48814,7 @@
 .target.smi2.net
 .target.smi2.ru
 .tbe.tom.ru
+.test.legitcode.ws
 .top.elec.ru
 .visitor-microservice.ext.p-a.im
 .visor.sberbank.ru
@@ -48956,6 +48964,8 @@
 .templates.buscape.com
 .yestorrents.org
 .oecistbenton.com
+.damgurwdblf.xyz
+.gocheewimtie.xyz
 .paintejuke.com
 .ipvertnet.com
 .cmcxmh.com
@@ -58591,6 +58601,15 @@
 .zvc.cc
 .zvietcombank.com
 .zvietnakello.weebly.com
+.eeqweqw.fun
+.ypkiog.xyz
+.esyook.xyz
+.hitoxx.xyz
+.kzaawga.icu
+.cdcs34.fun
+.qdickey.top
+.zcypmsp.icu
+.frgf99.fun
 .bowvses.icu
 .mdmuky.xyz
 .zyrnbh.xyz

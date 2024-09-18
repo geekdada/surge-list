@@ -2003,6 +2003,7 @@
 .uhchat.net
 .wat.atms.at
 .widget.feedot-lawyer.ru
+.k-pilot.kariyer.net
 .date.forumodua.com
 .hawk.laptopmag.com
 .script.marquiz.ru
