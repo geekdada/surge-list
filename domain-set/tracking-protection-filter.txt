@@ -79,7 +79,6 @@
 .tjk-njk.com
 .reitingi.lv
 .tracker.insurads.com
-.cdn.pubnub.com
 .ziwelatum.com
 .houston.advgo.net
 .merchant-center-analytics.goog
@@ -35063,6 +35062,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.analitik.pendik.bel.tr
 .analytics-api.sconto.cz
 .log-ana.h3z.jp
 .ivstat.indavideo.hu
