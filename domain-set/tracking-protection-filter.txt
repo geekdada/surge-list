@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.google-analytics.bi.owox.com
 .api.sail-personalize.com
 .events.baselime.io
 .trackdesk.com
@@ -35062,6 +35063,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.msite.baidu.com
 .analitik.pendik.bel.tr
 .analytics-api.sconto.cz
 .log-ana.h3z.jp
