@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.client-log.karte.io
+.replaybird.com
+.analytics.spearly.com
 .google-analytics.bi.owox.com
 .api.sail-personalize.com
 .events.baselime.io
