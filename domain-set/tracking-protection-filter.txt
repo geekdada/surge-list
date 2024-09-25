@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.adtrace.ai
 .mato.clanto.cloud
 .matomo.clanto.cloud
 .client-log.karte.io
