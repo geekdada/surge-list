@@ -1,19 +1,25 @@
 # Claude
-DOMAIN-KEYWORD,anthropic
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
 # Google
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN,bard.google.com
-DOMAIN,gemini.google.com
 DOMAIN,ai.google.dev
-DOMAIN,makersuite.google.com
-DOMAIN,generativelanguage.googleapis.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,googleai.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
 
 # Others
 DOMAIN-SUFFIX,perplexity.ai
