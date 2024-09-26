@@ -38326,6 +38326,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.adui.tg.meitu.com
+.meitustat.com
 .analysis.vesync.com
 .log16-normal-useast5.tiktokv.us
 .insights.zennioptical.com
