@@ -35730,6 +35730,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.counter.best-hit.tv
+.analytics-op.streak.ninja
+.track.streak.ninja
+.panorama.wixapps.net
 .msite.baidu.com
 .analitik.pendik.bel.tr
 .analytics-api.sconto.cz
