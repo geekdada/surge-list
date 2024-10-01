@@ -1,3 +1,4 @@
+.complydog.com
 .modeto.com
 .kvksis.com
 .hrabos-gdpr.aira.cz
@@ -143,6 +144,7 @@
 .cc.silktide.com
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.stretchsquirrel.com
 .badgerabbit.com
 .frugalfiestas.com
 .scaredslip.com
