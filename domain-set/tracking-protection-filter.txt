@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.covatic.io
+.cdn.gpmdata.ru
 .petametrics.com
 .ultraimpression.jp
 .brwsrfrm.com
@@ -34455,6 +34457,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.atom.warnermedia.com
+.zion.api.cnn.io
+.t.blog.livedoor.jp
 .l.ouest-france.fr
 .ana.3751chat.com
 .ana.chat.shalove.net

@@ -104,7 +104,6 @@
 .quantcast.mgr.consensu.org
 .utiq.t-online.de
 .tiq.espritshop.pl
-.cookiewarden-content.teb.com.tr
 .lahar.com.br
 .consent.wko.at
 .privacy.ene.si
@@ -142,6 +141,7 @@
 .rodo.agora.pl
 .tracking-consent.static.anwb.nl
 .cc.silktide.com
+.cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
 .stretchsquirrel.com
