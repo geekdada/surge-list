@@ -3366,7 +3366,6 @@
 .terabytemedia.com
 .tetigi.com
 .tetoolbox.com
-.theadex.com
 .thebestlinks.com
 .thecounter.com
 .thefreehitcounter.com
@@ -3657,7 +3656,6 @@
 .xcounter.ch
 .xg4ken.com
 .xhit.com
-.xplosion.de
 .xref.io
 .xtractor.no
 .xtremline.com
@@ -37065,6 +37063,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.xplosion.de
+.theadex.com
 .adui.tg.meitu.com
 .meitustat.com
 .analysis.vesync.com
