@@ -34455,6 +34455,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.eventrecorder.cm.bloomberg.com
+.heatmap-events-collector.instapage.com
 .atom.warnermedia.com
 .zion.api.cnn.io
 .t.blog.livedoor.jp
