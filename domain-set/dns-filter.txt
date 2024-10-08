@@ -2899,6 +2899,7 @@
 .adspop.me
 .adspredictiv.com
 .adspyglass.com
+.adsquash.info
 .adsrv.me
 .adsrv.wtf
 .adstarget.net
@@ -4168,6 +4169,7 @@
 .aqjbfed.com
 .aqkbyevrklvnw.top
 .aqkkoalfpz.com
+.aqncinxrexa.com
 .aqnnysd.com
 .aqppwatriodz.com
 .aqptziligoqn.com
@@ -7710,6 +7712,7 @@
 .chouftak.net
 .choughigrool.com
 .chouksee.xyz
+.choulsoans.xyz
 .chounsee.xyz
 .choupsee.com
 .choutchi.net
@@ -9529,6 +9532,7 @@
 .deedeedthowel.top
 .deedeedwinos.com
 .deedeisasbeaut.info
+.deedkernelhomesick.com
 .deedtampertease.com
 .deefauph.com
 .deehalig.net
@@ -11346,6 +11350,7 @@
 .elasticstuffyhideous.com
 .elatedynast.com
 .elaterconditing.info
+.elaydark.com
 .elbowfixes.com
 .elbowrevolutionary.com
 .elbowsmouldoral.com
@@ -11677,6 +11682,7 @@
 .epailseptox.com
 .epdcaabh.com
 .eperlanhelluo.com
+.epffwffubmmdokm.com
 .ephebedori.life
 .epheefere.net
 .ephpqyjqyj.com
@@ -12422,6 +12428,7 @@
 .favourablerecenthazardous.com
 .favpqrlawfqst.com
 .favzzmeziy.com
+.faxedyaird.com
 .faxqaaawyb.com
 .fayijxrs.com
 .fayzrtqszkcb.com
@@ -16420,6 +16427,7 @@
 .ihkybtde.com
 .ihnhnpz.com
 .ihoolrun.net
+.ihpsthaixd.com
 .ihqnckvpfx.com
 .ihtckcitkr.com
 .ihttscqovzzb.com
@@ -17155,6 +17163,7 @@
 .ipnkkmxo.com
 .ipodreevess.com
 .ippleshiswashis.info
+.ipqnteseqrf.xyz
 .ipredictive.com
 .iprom.net
 .ipromcloud.com
@@ -21324,6 +21333,7 @@
 .mouthaipee.xyz
 .mouthdistance.bond
 .mouthinvincibleexpecting.com
+.mouttorture.com
 .movad.de
 .movad.net
 .movcpm.com
@@ -25867,6 +25877,7 @@
 .projectscupcakeinternational.com
 .projectwonderful.com
 .prolatecyclus.com
+.prologuerussialavender.com
 .prologuetwinsmolecule.com
 .prolongdoadaptation.com
 .promiseyuri.com
@@ -26119,6 +26130,7 @@
 .ptaupsom.com
 .ptautsortoa.com
 .ptauxofi.net
+.ptavutchain.com
 .ptawe.com
 .ptawehex.net
 .ptawhood.net
@@ -27397,6 +27409,7 @@
 .reducediscord.com
 .redvil.co.in
 .redwingmagazine.com
+.reecasoabaiz.net
 .reecegrita.com
 .reechegraih.com
 .reedbritingsynt.info
@@ -30798,6 +30811,7 @@
 .stlpyypg.com
 .stluserehtem.com
 .stoachaigog.com
+.stoagnejums.net
 .stoaphalti.com
 .stoashou.net
 .stoawugluce.net
@@ -31254,6 +31268,7 @@
 .suspicionsrespectivelycobbler.com
 .suspicionssmartstumbled.com
 .sustainsuspenseorchestra.com
+.suthaumsou.net
 .sutiletoroid.com
 .sutraf.com
 .suturaletalage.com
@@ -31707,6 +31722,7 @@
 .teemcapablespinal.com
 .teemingmutts.shop
 .teemingweekend.com
+.teemmachinerydiffer.com
 .teemooge.net
 .teenagerapostrophe.com
 .teensexgfs.com
@@ -34491,6 +34507,7 @@
 .visitswigspittle.com
 .visitweb.com
 .visoadroursu.com
+.vistaarts.site
 .vistoolr.net
 .vitaminalcove.com
 .vitiumcranker.com
@@ -35116,6 +35133,7 @@
 .welcomevaliant.com
 .welcomingvigour.com
 .welfarefit.com
+.welfaremarsh.com
 .wellexpressionrumble.com
 .wellhello.com
 .wellinformed-song.com
@@ -38708,6 +38726,7 @@
 .10753990.xyz
 .11152646.xyz
 .1116c5.xyz
+.11778562.xyz
 .11c7a3.xyz
 .1350c3.xyz
 .14202444.xyz
@@ -38957,7 +38976,9 @@
 .ad.video-mech.ru
 .ad.wsod.com
 .ad01.tmgrup.com.tr
+.adblockeromega.com
 .adcheck.about.co.kr
+.addefenderplus.info
 .adinplay-venatus.workers.dev
 .adncdnend.azureedge.net
 .ads-api.production.nebula-drupal.stuff.co.nz
@@ -39024,6 +39045,7 @@
 .datacluster.club
 .dtrk.slimcdn.com
 .dunhilltraveldeals.com
+.eclipse-adblocker.pro
 .epnt.ebay.com
 .escape.insites.eu
 .etrader.kalahari.com
@@ -39064,11 +39086,13 @@
 .monetize-static.viralize.tv
 .neural.myth.dev
 .ogads-pa.googleapis.com
+.omegadblocker.com
 .onlinepromogift.com
 .out.betforce.io
 .owebsearch.com
 .pacontainer.s3.amazonaws.com
 .pagead2.googlesyndication.com
+.pageloadstats.pro
 .parking.godaddy.com
 .partner-app.softwareselect.com
 .partner.e-conomic.com
@@ -40570,6 +40594,7 @@
 .deapi.afreecatv.com
 .startup.mobile.yandex.net
 .startup-mobile.ap.yandex-net.ru
+.frontier100-toutiao-lf.fqnovel.com
 .ad.snaptube.app
 .ad.mobiuspace.net
 .api-ad-callback.falconnet.app
@@ -44728,6 +44753,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.is-log.furunavi.jp
 .eventrecorder.cm.bloomberg.com
 .heatmap-events-collector.instapage.com
 .atom.warnermedia.com
@@ -52156,6 +52182,7 @@
 .affilaxy.com
 .affiliatepartners.com
 .affiliateprogramma.eu
+.banner-online.nl
 .believe-the-hype.be
 .botndm.nl
 .crnsgngrpj.nl
@@ -59051,6 +59078,19 @@
 .zvietnakello.weebly.com
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.i2wq4.icu
+.uegsjnk.com
+.hwurseru.top
+.oaiqksi.top
+.edadmy.xyz
+.kgymoc.xyz
+.xlxehr.xyz
+.2efgcdcjr000.fun
+.clmcam.xyz
+.bmqulua.icu
+.ddlmsoyo.icu
+.mwurserx.top
+.yjwxegq.icu
 .6efgcdcjr000.fun
 .bwurserv.top
 .imndl.icu
@@ -59077,6 +59117,7 @@
 .twurseri.top
 .d2tf0.icu
 .bedzbu.xyz
+.hongi7ie8owiie03.site
 .baigh8eosmgie02.site
 .hongi7ie8owiie02.site
 .loveameng.top
