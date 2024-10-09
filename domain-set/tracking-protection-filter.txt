@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.pa-cd.com
 .covatic.io
 .cdn.gpmdata.ru
 .petametrics.com
@@ -30269,6 +30270,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.b.ranking.apis.sankei-digital.co.jp
 .is-log.furunavi.jp
 .eventrecorder.cm.bloomberg.com
 .heatmap-events-collector.instapage.com

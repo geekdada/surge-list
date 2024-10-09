@@ -26,7 +26,6 @@
 .filamentapp.s3.amazonaws.com
 .lessbuttons.com
 .likebtn.com
-.linksalpha.com
 .platform.linkedin.com
 .plusone.google.com
 .share.yandex.net
