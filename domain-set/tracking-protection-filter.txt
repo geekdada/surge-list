@@ -30270,6 +30270,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.collect.dolap.com
 .b.ranking.apis.sankei-digital.co.jp
 .is-log.furunavi.jp
 .eventrecorder.cm.bloomberg.com
