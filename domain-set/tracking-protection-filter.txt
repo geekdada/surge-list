@@ -9,7 +9,6 @@
 .feedback-c.zijieapi.com
 .minigame5-normal-hl.zijieapi.com
 .minigame5-normal-lq.zijieapi.com
-.mssdk.zijieapi.com
 .os-mon.zijieapi.com
 .pc-mon.zijieapi.com
 .polaris.zijieapi.com
@@ -36186,6 +36185,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.tracker.jkplayers.com
 .collect.dolap.com
 .b.ranking.apis.sankei-digital.co.jp
 .is-log.furunavi.jp
@@ -37143,7 +37143,7 @@
 .amplifypixel.outbrain.com
 .ampltd.top.gg
 .an.reflektion.com
-.analysis.afreecatv.com
+.analysis.sooplive.co.kr
 .analytic.imlive.com
 .analytic20.detik.com
 .analytics-api.smzdm.com
@@ -37506,7 +37506,7 @@
 .deepdive.zum.com
 .dejavu.mlapps.com
 .deliver.oztam.com.au
-.delog.afreecatv.com
+.delog.sooplive.co.kr
 .detwzgl8cvciv.cloudfront.net
 .df.tanx.com
 .discovery-script.newspic.kr
@@ -37564,7 +37564,7 @@
 .event.condenastdigital.com
 .event.impression-neo.naver.com
 .event.scimo.io
-.eventapi.afreecatv.com
+.eventapi.sooplive.co.kr
 .eventbus.intuit.com
 .eventlog.inspsearchapi.com
 .eventlog.jackpot.de
@@ -39168,7 +39168,7 @@
 .sensors.snappea.com
 .analytics.snaptube.app
 .px.ucweb.com
-.collector1.afreecatv.com
+.collector1.sooplive.co.kr
 .adtima-static.zadn.vn
 .akstat.io
 .chartbeat.net
