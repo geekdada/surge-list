@@ -36185,6 +36185,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.logsdk.kwai-pro.com
+.w9g7dlhw3kaank.www.eldorado.gg
+.unl1zvy2zuyn.franchiseplus.nl
+.mt.gigazine.net
 .tracker.jkplayers.com
 .collect.dolap.com
 .b.ranking.apis.sankei-digital.co.jp
@@ -38798,6 +38802,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.iot-in-logser.realme.com
+.rabbit.meitustat.com
 .mediation.mwmadnetworks.com
 .xplosion.de
 .theadex.com
@@ -38930,6 +38936,7 @@
 .wsmetrics.batch.com
 .log.isnssdk.com
 .log-tb.isnssdk.com
+.rtlog.isnssdk.com
 .mon.isnssdk.com
 .event.togothermany.com
 .oldevent.togothermany.com
@@ -39400,7 +39407,7 @@
 .yadro.ru
 .ymtracking.com
 .zdbb.net
-.log16-normal-useast5.tiktokv.us
+.log-boot.tiktokv.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .log.tiktokv.com
 .rtc-logger-va.tiktokv.com
