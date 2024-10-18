@@ -1378,6 +1378,7 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.kameleoon.eu
 .webwidget.shanon-services.com
 .bot.agerun.jp
 .pop.devil.services
@@ -1822,6 +1823,7 @@
 .banner.consultant.ru
 .illicium.wmtransfer.com
 .illicium.web.money
+.antennasync.me
 .rcm.shinobi.jp
 .rss.tc
 .blog-rss.com
