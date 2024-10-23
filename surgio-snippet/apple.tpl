@@ -41,6 +41,10 @@ DOMAIN,upp.itunes.apple.com,{{ api_rule }}
 DOMAIN,beta.music.apple.com,{{ api_rule }}
 DOMAIN-KEYWORD,buy.itunes.apple.com,{{ api_rule }}
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net,{{ api_rule }}
+
+#
+# Apple Intelligence
+#
 DOMAIN,apple-relay.apple.com,{{ api_rule }}
 
 #
