@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.shgcdn3.com
 .rmonitor.qq.com
 .api.revenuads.com
 .api.antibanads.com
@@ -35966,7 +35967,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
-.servo-report.keepstreams.com
+.analytics-ingestion-production.tubitv.com
+.retail-client-events-service.internal.salsify.com
 .metrics.imdb.com
 .global.telemetry.insights.video.a2z.com
 .ldpsh.fashionnova.com
