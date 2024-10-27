@@ -232,6 +232,16 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.qnqtgyq.icu
+.sjluuom.icu
+.8gra3.icu
+.5z2oy.icu
+.itjcqlp.icu
+.xxqmtod.icu
+.qouvxliy.top
+.ov8ct.icu
+.fca6f.icu
+.touvxlii.top
 .sgozmks.icu
 .omheth.com
 .allkmbr.icu
@@ -4900,7 +4910,6 @@
 .1.weiheshidai.com
 .1.xilu.com
 .1.xuexi.la
-.1.xuexili.com
 .1.yac8.net
 .1.yuexw.com
 .1.yxzw.com.cn
@@ -4988,7 +4997,6 @@
 .a.lz13.cn
 .a.mfcad.net
 .a.miyudaquan.top
-.a.nanhuwang.com
 .a.oh100.com
 .a.qinghua5.com
 .a.qncye.net
@@ -5040,7 +5048,6 @@
 .ab.rejushe.com
 .abc.colayun.cn
 .abc.douguo.com
-.abc.rwpt.top
 .abc.yebaike.com
 .abcd.5lu.com
 .abcd.cnhuoche.com
@@ -5061,7 +5068,6 @@
 .adzp.cn
 .ag1.zuszw.com
 .ahm.135320.com
-.aijiamao.top
 .aili.com
 .aiwen.cc
 .al.newxue.com
@@ -5176,7 +5182,6 @@
 .cdnjs.mopair-erm.net
 .cdnjs.z-face.cn
 .cee1.iteye.com
-.cfff.net
 .chnci.com
 .chong-wu.net
 .chunyuqiufeng.com
@@ -5241,7 +5246,6 @@
 .dm.lianzhixiu.com
 .dm.pw0.cn
 .dm.sanwen.net
-.dm.taobaojuhuasuan.cn
 .dm.wenshenxiu.com
 .dm.zjut.cc
 .dm.zuowenku.net
@@ -5254,7 +5258,6 @@
 .dmym.aixyy.com
 .dnpz123.com
 .domain1.chahaoba.cn
-.domcwlxin.360doc.cn
 .ds.ruanwengfa.com
 .du1.bbdj.com
 .edu.jiukang.org
@@ -5289,7 +5292,6 @@
 .fpb1.apple886.com
 .fpb1.jsq886.com
 .fpb1.kedabai.com
-.fpb1.tabuzhe.com
 .fpbone.ihowguide.com
 .fxjs.2541.com
 .g.3lian.com
@@ -5357,7 +5359,6 @@
 .img50.pingguolv.com
 .inone517.com
 .inping.com
-.ios.426g.com
 .ipad.pc899.cn
 .ipssss.com
 .iuou.myadobe.cn
@@ -5377,8 +5378,6 @@
 .jiaoben.jucanw.com
 .jiaopei.com
 .jibn12.jintang114.org
-.jiliw.com
-.jinhonghao.cn
 .jintonghua.com
 .jke1.jianke.com
 .jquery.envi-met.com.cn
@@ -5409,11 +5408,8 @@
 .k1.dancihu.com
 .k1.wanwenwan.cn
 .k1.wendahu.com
-.ka5188.com
 .kanxiao.net
-.kc.gouchezj.com
 .khrtac.xiangha.com
-.km1.muhoujiemi.com
 .kpshx.douguo.com
 .kuk8.com
 .kuku99.com
@@ -5429,7 +5425,6 @@
 .luolikong.net
 .lv.myapks.com
 .lyz.radio366.com
-.m1.100how.com
 .m1.27com.com
 .m1.51kaowang.com
 .m1.81312.com
@@ -5442,14 +5437,11 @@
 .m5.66077.cn
 .ma1.meishij.net
 .main.jiukang.org
-.materiel.baizhan.net
-.materiel.junshidao.com
 .matwbp.iask.sina.com.cn
 .mb.gulongbbs.com
 .mc.weather.com.cn
 .md.tvzhe.com
 .meishiba.com.cn
-.meng.360zuowen.com
 .mg.32r.com
 .mg.glwxw.net
 .milk.yesky.com.cn
@@ -5464,7 +5456,6 @@
 .mpb1.iteye.com
 .mps.wenkuzu.com
 .ms.cnbanbao.com
-.mt.64foot.com
 .mwzbp.iask.com.cn
 .myunion1.qm120.com
 .myunion1.tupians.com
@@ -5549,7 +5540,6 @@
 .t1.612.com
 .t1.xuefen.com.cn
 .t6.china-xian.com
-.taobc.com
 .tech.jiukang.org
 .thetestpage.39.net
 .tiexing.com
@@ -5559,7 +5549,6 @@
 .trebleperfect.com
 .ts166.net
 .tt123.eastday.com
-.tu.zx110.org
 .twlcyc.cn
 .u.qxen.com
 .u1.2048sj.com
@@ -5585,7 +5574,6 @@
 .vjvj.vj24co.com
 .vv1.pyhfxdm.cn
 .vvv.ieduw.com
-.w.anmeihe.cn
 .w.xiaopiaoyou.com
 .w11.zhongkaohelp.com
 .w18.9939.com
@@ -5610,18 +5598,15 @@
 .wshufa.com
 .wuliao.chzsport.cn
 .wuliao.juqingba.cn
-.www1.wxnmh.com
 .wyzq.rehuwang.com
 .x.yaohuo.me
 .x1.52aoteman.com
 .x1.kantu.com
 .xbtw.com
-.xc.gouchezj.com
 .xcf-bd-js.chuimg.com
 .xiaopinwo.com
 .xinju.cc
 .xitongku.cc
-.xne1ocient87zxz.360doc.cn
 .xue.zbyw.cn
 .xuexi.hydcd.com
 .y.photoint.net
@@ -5636,7 +5621,6 @@
 .ynztzh.com
 .yong.chazidian.com
 .yptqys.tianqistatic.com
-.ys.muhoujiemi.com
 .ys630.com
 .ytelc.com
 .yunzuowen.com
