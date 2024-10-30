@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.prodregistryv2.org
+.ads.mythad.com
 .ga2.getresponse.com
 .events.split.io
 .analytics.wikitide.net
@@ -32517,6 +32519,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.data-ingestion.flowgpt.com
+.tianji.flowgpt.com
 .analytics-ingestion-production.tubitv.com
 .retail-client-events-service.internal.salsify.com
 .metrics.imdb.com
