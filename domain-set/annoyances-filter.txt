@@ -103,6 +103,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.ccm.hamburg-magazin.de
 .utiq.t-online.de
 .tiq.espritshop.pl
 .lahar.com.br
@@ -145,6 +146,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.bearmoonlodge.com
 .startercost.com
 .shydinosaurs.com
 .stretchsquirrel.com

@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.webmaxlogger.net
 .prodregistryv2.org
 .ads.mythad.com
 .ga2.getresponse.com
@@ -32519,12 +32520,16 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.stats.hitwebcloud.de
+.amplitude.bandlab.com
+.amplitude-experiment.bandlab.com
+.sensorsdata.glowapp.vip
+.relay-event.talkie-ai.com
 .data-ingestion.flowgpt.com
 .tianji.flowgpt.com
 .analytics-ingestion-production.tubitv.com
 .retail-client-events-service.internal.salsify.com
 .metrics.imdb.com
-.global.telemetry.insights.video.a2z.com
 .ldpsh.fashionnova.com
 .tag.aftvnews.com
 .statsjs.klevu.com
@@ -35148,6 +35153,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.amplitude.life360.com
+.events.swiftlycontent.net
+.log.cleandesigner.live
 .mob2.healthapplines.com
 .client-telemetry.hingeprod.net
 .events-api.towneers.prod.data.krmt.io
