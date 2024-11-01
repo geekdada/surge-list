@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.new-access802.net
+.majime-site-rk.com
+.yonemoku.rdy.jp
+.srvgl.com
 .webmaxlogger.net
 .prodregistryv2.org
 .ads.mythad.com
@@ -35153,6 +35157,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.cleanertoolboxonline.live
 .amplitude.life360.com
 .events.swiftlycontent.net
 .log.cleandesigner.live
@@ -35253,7 +35258,6 @@
 .cws-hulu.conviva.com
 .vik-analytics.moonactive.net
 .report.apkpure.net
-.report.iheartmedia.gbqofs.io
 .grs.hicloud.com
 .logbak.hicloud.com
 .iot-eu-logser.realme.com
