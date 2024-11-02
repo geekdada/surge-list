@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.datafa.st
 .new-access802.net
 .majime-site-rk.com
 .yonemoku.rdy.jp
@@ -32524,6 +32525,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.montelena.gmarket.co.kr
 .stats.hitwebcloud.de
 .amplitude.bandlab.com
 .amplitude-experiment.bandlab.com

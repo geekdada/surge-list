@@ -146,6 +146,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.skullmagnets.com
 .bearmoonlodge.com
 .startercost.com
 .shydinosaurs.com
