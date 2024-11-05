@@ -210,6 +210,7 @@
 .ulukaris.com
 .itadapi.ithome.com.tw
 .zjgfq.com
+.xmm.wxc.cc
 .srtb.msn.cn
 .ad.hot-mob.com
 .adx.36kr.com
@@ -232,9 +233,15 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.ohtusgy.icu
 .vsojfsoj.com
 .ezrcowa.icu
 .uwsaqoi.icu
+.ipqajyy.icu
+.2sfpy.icu
+.ooublik.top
+.hj8gf.icu
+.loublil.top
 .imniel.com
 .kiolpia.icu
 .bdcmwcl.icu

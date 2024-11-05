@@ -1373,6 +1373,7 @@
 .jaderooster.com
 .chesscrowd.com
 .scarcestructure.com
+.config.content-settings.com
 .absorbingprison.com
 .chesterstandard-gb.chesterstandard.co.uk
 .massivemark.com
