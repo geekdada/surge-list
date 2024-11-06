@@ -234,6 +234,11 @@
 .cnzz.trafficmanager.net
 .cupfox.app
 .ohtusgy.icu
+.nuiknnf.icu
+.gdwudmv.icu
+.xuakn.icu
+.boubliv.top
+.cyjqgpf.top
 .vsojfsoj.com
 .ezrcowa.icu
 .uwsaqoi.icu
@@ -5012,7 +5017,6 @@
 .283.laobanfa.com
 .3.5646.cn
 .3.cjcp.cn
-.3.guidaye.com
 .3.ssqzj.com
 .301848.com
 .32.huanqiu.com
@@ -5352,7 +5356,6 @@
 .fanyi100.com.cn
 .fdfda.zhuzhai.com
 .fdfghgfdd.yunqishi.net
-.ff.guidaye.com
 .ff.psd8.com
 .ff.qichetansuo.com
 .fjzimaoqu.cn
@@ -5423,7 +5426,6 @@
 .img1.eywdf.com
 .img1.hblds.com
 .img1.leyun365.com
-.img1.qqwangming6.com
 .img11.biyan8.com
 .img16.diyifanwen.com
 .img50.pingguolv.com
@@ -5448,7 +5450,6 @@
 .jiaoben.jucanw.com
 .jiaopei.com
 .jibn12.jintang114.org
-.jintonghua.com
 .jke1.jianke.com
 .jquery.envi-met.com.cn
 .js.263y.com
@@ -5547,7 +5548,6 @@
 .p1.zhongyoo.com
 .panyh123456.cn
 .pb.shuxigua.com
-.pc768.com
 .pic.baihuawen.cn
 .pic1.dianshu119.com
 .pic50.pingguolv.com
@@ -5613,7 +5613,6 @@
 .tech.jiukang.org
 .thetestpage.39.net
 .tiexing.com
-.tonghuaji.com
 .tongj.xilu.com
 .top2099.com
 .trebleperfect.com
@@ -5671,7 +5670,6 @@
 .wyzq.rehuwang.com
 .x.yaohuo.me
 .x1.52aoteman.com
-.x1.kantu.com
 .xbtw.com
 .xcf-bd-js.chuimg.com
 .xiaopinwo.com
