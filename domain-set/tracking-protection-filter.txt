@@ -33807,6 +33807,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.api.amplitudeexperiment.com
 .montelena.gmarket.co.kr
 .stats.hitwebcloud.de
 .amplitude.bandlab.com
