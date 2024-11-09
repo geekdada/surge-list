@@ -33807,6 +33807,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.event-dot-procolor-backend.appspot.com
+.prod.event.mwm-asset-manager.mwmwebapis.com
+.stats.vidbinge.com
 .api.amplitudeexperiment.com
 .montelena.gmarket.co.kr
 .stats.hitwebcloud.de
