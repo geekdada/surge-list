@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.kobel.services
 .useraction.de
 .analytically.net
 .datafa.st
