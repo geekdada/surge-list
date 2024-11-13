@@ -1,3 +1,4 @@
+.gdpr-legal-cookie.com
 .cookies.giant.cz
 .complydog.com
 .modeto.com
