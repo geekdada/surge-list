@@ -35303,6 +35303,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.fail.adr.ec
+.t.adii.se
+.stats.bunkr.ru
+.logs.netflix.com
 .mst.rnd.de
 .cza.crazygames.com
 .event-dot-procolor-backend.appspot.com
@@ -36697,6 +36701,7 @@
 .er.search.naver.com
 .estat.zum.com
 .et.nytimes.com
+.ev2.api.bdg.com
 .ev.api.bdg.com
 .ev.kck.st
 .events.popinfo.jp
@@ -37941,6 +37946,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.atsod.launch.liveramp.com
+.ads-image.production-public.tubi.io
+.user-signals.production-public.tubi.io
 .mob2.healthtrackergroup.com
 .insights-categorizer-noneu.truecaller.com
 .event-dot-learning-piano.appspot.com
