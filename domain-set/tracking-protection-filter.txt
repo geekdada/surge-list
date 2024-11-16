@@ -1384,7 +1384,6 @@
 .track.adabra.com
 .reindaks.com
 .go.rcvlinks.com
-.monu.delivery
 .uniqodo.com
 .collectfasttracks.com
 .realizerecess.com
@@ -35303,6 +35302,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.telemetry.zoom.us
+.agi-static.indiatimes.com
 .fail.adr.ec
 .t.adii.se
 .stats.bunkr.ru
@@ -37946,6 +37947,10 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.tatrack.thinkyeah.com
+.sdk-04.moengage.com
+.vcs.zijieapi.com
+.monsetting.toutiao.com
 .atsod.launch.liveramp.com
 .ads-image.production-public.tubi.io
 .user-signals.production-public.tubi.io
