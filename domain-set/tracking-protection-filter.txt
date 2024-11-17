@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.logs.chatboost-cv.algoage.co.jp
 .p7cloud.net
 .kobel.services
 .useraction.de
@@ -35302,6 +35303,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.pixel.smartnews.com
+.pixel.dev.smartnews.com
+.t.rentio.jp
 .telemetry.zoom.us
 .agi-static.indiatimes.com
 .fail.adr.ec

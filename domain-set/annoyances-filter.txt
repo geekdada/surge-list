@@ -1386,6 +1386,8 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.pop.unitedgate.co.jp
+.chatboost-cv.algoage.co.jp
 .pop-convert.com
 .kameleoon.eu
 .webwidget.shanon-services.com
