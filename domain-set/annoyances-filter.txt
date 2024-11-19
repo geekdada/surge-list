@@ -104,6 +104,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.cmp.gearupbooster.com
 .ccm.hamburg-magazin.de
 .utiq.t-online.de
 .tiq.espritshop.pl
