@@ -41961,6 +41961,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.stats.amur.life
 .pixel.smartnews.com
 .pixel.dev.smartnews.com
 .t.rentio.jp
