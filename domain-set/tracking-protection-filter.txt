@@ -119,7 +119,6 @@
 .adtrack.adleadevent.com
 .metrics-fe-na1.hubspot.com
 .pixel.mintigo.com
-.au1.qualtrics.com
 .siteintercept.qualtrics.com
 .dmp.one
 .dmp-ai.ru
@@ -41961,6 +41960,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.au1.qualtrics.com
 .stats.amur.life
 .pixel.smartnews.com
 .pixel.dev.smartnews.com
@@ -44610,6 +44610,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.caerulus.io
 .log.heartratepros.com
 .tatrack.thinkyeah.com
 .sdk-04.moengage.com
@@ -45233,7 +45234,6 @@
 .yadro.ru
 .ymtracking.com
 .zdbb.net
-.log-boot.tiktokv.com
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .log.tiktokv.com
 .rtc-logger-va.tiktokv.com
