@@ -1836,6 +1836,7 @@
 .banner.consultant.ru
 .illicium.wmtransfer.com
 .illicium.web.money
+.rss.solty.biz
 .yameyou.com
 .antennasync.me
 .rcm.shinobi.jp
