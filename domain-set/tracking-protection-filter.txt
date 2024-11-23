@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tpi-app.herokuapp.com
+.api.rvere.com
 .cts.vresp.com
 .logs.chatboost-cv.algoage.co.jp
 .p7cloud.net
@@ -44713,7 +44715,6 @@
 .config-api.internet.apps.samsung.com
 .r.apkpure.net
 .analytics.zg-api.com
-.creative.bidease.com
 .track-resource.bidease.com
 .track-us.bidease.com
 .mintegral.net
