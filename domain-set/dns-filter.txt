@@ -41306,6 +41306,7 @@
 .webturn.ru
 .webvisor.com
 .wwgate.ru
+.yandexmetric.com
 .algopine.com
 .24log.es
 .agency360.io
@@ -45591,6 +45592,7 @@
 .stats.ehandel.se
 .stats.helsingborg.se
 .stats.jibber.social
+.stats.med.lu.se
 .stats.playoncenter.com
 .stats.poddtoppen.se
 .stats.proff.se
@@ -49439,6 +49441,7 @@
 .sacchaeleduk.com
 .sacombank.net.vn
 .sacombank.vn-ne.top
+.sacombankvn.com
 .sadm26.com
 .saifcrack.com
 .salu.gq
@@ -51563,6 +51566,13 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.lipheak.com
+.xcwdcynb.icu
+.wweizae.top
+.az5i.icu
+.yoqqiev.top
+.fiezaits.com
+.qweizay.top
 .xevaix.com
 .sweizab.top
 .eweizaw.top
