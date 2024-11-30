@@ -42687,6 +42687,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.gh.fanatical.com
 .heartbeat.crackle.com
 .event.geniee-search.net
 .matomo.oekoloewe.de
@@ -45329,6 +45330,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.analytics.baliusuperapp.xyz
 .log-va-us-looki.capcutapi.com
 .analytics.hardlightgames.com
 .plankton-gtm.a.autoscout24.com
