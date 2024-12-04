@@ -42834,6 +42834,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.media-stat.mail.ru
 .analytics.shorthand.com
 .gh.fanatical.com
 .heartbeat.crackle.com
