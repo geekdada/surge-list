@@ -42834,6 +42834,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.trk.joinrs.com
+.atom-qa.warnermedia.com
 .tralut.chatpdf.com
 .tracking.leadspark.io
 .media-stat.mail.ru
