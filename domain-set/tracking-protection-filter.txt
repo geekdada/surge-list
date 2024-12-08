@@ -42835,6 +42835,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.tracker.curama.jp
 .beacons.digital.disneyadvertising.com
 .telegraph.prd.api.discomax.com
 .telegraph.prd.api.max.com
