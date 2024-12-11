@@ -2001,7 +2001,6 @@
 .clickalyzer.com
 .clickclick.net
 .clickdensity.com
-.clickdimensions.com
 .clickening.com
 .clickforensics.com
 .clicki.cn
@@ -42835,6 +42834,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.event.newsbreak.com
+.pixel-static.spotify.com
+.pixel-config.reddit.com
 .tracker.curama.jp
 .beacons.digital.disneyadvertising.com
 .telegraph.prd.api.discomax.com
