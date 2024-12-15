@@ -106,6 +106,81 @@ const configurations = [
     ],
   },
   {
+    name: 'Annoyances filter (cookie notices)',
+    sources: [
+      {
+        source:
+          'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_18_Annoyances_Cookies/filter.txt',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
+  {
+    name: 'Annoyances filter (popups)',
+    sources: [
+      {
+        source:
+          'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_19_Annoyances_Popups/filter.txt',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
+  {
+    name: 'Annoyances filter (mobile app banners)',
+    sources: [
+      {
+        source:
+          'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
+  {
+    name: 'Annoyances filter (widgets)',
+    sources: [
+      {
+        source:
+          'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_22_Annoyances_Widgets/filter.txt',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
+  {
+    name: 'Annoyances filter (other)',
+    sources: [
+      {
+        source:
+          'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_21_Annoyances_Other/filter.txt',
+      },
+    ],
+    transformations: [
+      'RemoveComments',
+      'RemoveModifiers',
+      'Validate',
+      'Deduplicate',
+    ],
+  },
+  {
     name: 'Base filter',
     sources: [
       {
