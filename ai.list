@@ -1,7 +1,7 @@
 # Claude
 DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
 
 # Google
 DOMAIN,ai.google.dev
