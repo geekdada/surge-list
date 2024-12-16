@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.logs.adplay.ru
+.stat.fly.codes
 .events.engager.ecbsn.com
 .gw-dv.vip
 .trk.svr-algorix.com
