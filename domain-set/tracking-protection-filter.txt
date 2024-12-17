@@ -42838,6 +42838,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.w890.denvergazette.com
+.co932.coloradopolitics.com
+.d077.gazette.com
+.d485.capitalgazette.com
+.d250.baltimoresun.com
 .afl.rozetka.com.ua
 .c783.fastcompany.com
 .event.northghost.com
@@ -45565,6 +45570,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.documentmanagerpdfdocxlssale.live
 .stats.samsungpass.com
 .log.pdfviewerscannerstore.live
 .mon-boot.capcutapi.com
