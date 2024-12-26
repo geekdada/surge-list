@@ -148,6 +148,8 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.mapcommand.com
+.homebizplaza.com
 .thomastorch.com
 .sablesong.com
 .recessrain.com
@@ -1865,6 +1867,7 @@
 .widget.oncustomer.asia
 .gubagootracking.com
 .cdn.gubagoo.io
+.webchat.bebot.io
 .kwizbot.io
 .quotiq.ru
 .prod-live-chat.sprinklr.com

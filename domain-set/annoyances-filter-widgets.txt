@@ -20,6 +20,7 @@
 .widget.oncustomer.asia
 .gubagootracking.com
 .cdn.gubagoo.io
+.webchat.bebot.io
 .kwizbot.io
 .quotiq.ru
 .prod-live-chat.sprinklr.com

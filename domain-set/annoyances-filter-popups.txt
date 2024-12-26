@@ -1,5 +1,7 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.mapcommand.com
+.homebizplaza.com
 .thomastorch.com
 .sablesong.com
 .recessrain.com
