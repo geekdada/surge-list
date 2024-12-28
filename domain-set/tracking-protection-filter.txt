@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.untho.de
 .k-words.io
 .tlmtr.org
 .ascendeummedia.com
@@ -44933,7 +44934,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
-.syndication.twitter.com
+.stat.pravdafrance.com
+.telemetry.dzen.ru
 .gtm.temu.com
 .log.shortbread.analytics.console.aws.a2z.com
 .log.shortbread.aws.dev
