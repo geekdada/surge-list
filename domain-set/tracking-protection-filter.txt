@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.matomo.akbal.dev
+.sentry.pnblab.com
 .untho.de
 .k-words.io
 .tlmtr.org
