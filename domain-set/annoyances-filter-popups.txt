@@ -1,5 +1,7 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.whymaze.com
+.driftingchef.com
 .goldfishgrowth.com
 .mapcommand.com
 .homebizplaza.com
