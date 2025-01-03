@@ -351,7 +351,6 @@
 .aspiringapples.com
 .eventexistence.com
 .pumpedpancake.com
-.hospitablehall.com
 .stomachscience.com
 .ruralrobin.com
 .scaredsnakes.com
@@ -1389,6 +1388,7 @@
 .jaderooster.com
 .chesscrowd.com
 .scarcestructure.com
+.hospitablehall.com
 .config.content-settings.com
 .absorbingprison.com
 .chesterstandard-gb.chesterstandard.co.uk
