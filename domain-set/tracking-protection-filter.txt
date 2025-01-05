@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cdn.q0losid.com
 .tags.fullcontact.com
 .matomo.akbal.dev
 .sentry.pnblab.com
@@ -45986,6 +45987,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.lgforbes.akamaized.net
 .event.wondershare.com
 .collector.abc.net.au
 .smetrics.kawai-juku.ac.jp
@@ -48728,6 +48730,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.collect.4gtv.tv
+.uaid.vtwenty.com
 .telemetry.codefusion.technology
 .events.watchtower.imdbtv.amazon.dev
 .mobile-production.content-square.net
