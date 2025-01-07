@@ -1833,6 +1833,7 @@
 .9cd76b4462bb.com
 .9d2cca15e4.com
 .9d603009eb.com
+.9d87b35397.com
 .9dccbda825.com
 .9dmnv9z0gtoh.com
 .9e3810a418.com
@@ -32788,6 +32789,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.view.mngusr.com
 .cdn.q0losid.com
 .tags.fullcontact.com
 .matomo.akbal.dev
@@ -36375,6 +36377,7 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.qbrth.ezcontacts.com
 .intake-analytics.wikimedia.org
 .lgforbes.akamaized.net
 .event.wondershare.com
@@ -43810,6 +43813,7 @@
 .yads.yahoo.co.jp
 .yads.yjtag.yahoo.co.jp
 .bance.jp
+.mbada.nan.co.jp
 .ads.nicovideo.jp
 .adserv2.suumo.jp
 .ad.woman.mynavi.jp
@@ -45057,10 +45061,12 @@
 .stat.brollopstorget.se
 .stat.devote.se
 .stat.familjeliv.se
+.stat.loppi.se
 .stat.modette.se
 .stat.nyheter24.se
 .stat.rodeo.net
 .stat.torgen.se
+.stat.vimedbarn.se
 .stat03.stat.cliche.se
 .statcounter.va-endpoint.com
 .static.matchads.net
@@ -51051,6 +51057,16 @@
 .zywjpypco.7hujk.de
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
+.jjplaqyo.icu
+.tixoilll.com
+.hitalsli.com
+.lcvwdn.icu
+.1tp.icu
+.jdyurlia.top
+.orcinhyi.com
+.thruksyq.com
+.z4v.icu
+.kdyurlid.top
 .lirretsn.com
 .nmzbrd.icu
 .hrjciqyu.icu
