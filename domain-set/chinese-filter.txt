@@ -223,6 +223,7 @@
 .ulukaris.com
 .itadapi.ithome.com.tw
 .zjgfq.com
+.abc.ruodian360.com
 .xmm.wxc.cc
 .srtb.msn.cn
 .ad.hot-mob.com
@@ -246,7 +247,18 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.pinjzp.icu
+.aos01080ss.xyz
 .jfrrnf.icu
+.e50.icu
+.aos01070ss.xyz
+.sdyurlib.top
+.lbfuvlyp.icu
+.staivoiks.com
+.gheslosy.com
+.43a.icu
+.sckfcn.cn
+.edyurliw.top
 .jjplaqyo.icu
 .tixoilll.com
 .hitalsli.com

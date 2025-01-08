@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.lf1-cdn-tos.bytegoofy.com
 .view.mngusr.com
 .cdn.q0losid.com
 .tags.fullcontact.com
@@ -46424,6 +46425,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.csp-report.marketing.aws.dev
+.telemetry.svc.transifex.net
+.cpu.baidu.com
+.pixel.web.roku.com
+.analytics.cloudevo.ai
 .qbrth.ezcontacts.com
 .lgforbes.akamaized.net
 .event.wondershare.com
