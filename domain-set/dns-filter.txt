@@ -1,3 +1,4 @@
+.uz-kqtecqs.space
 .mqprzapns.com
 .dzeaqmeuaql.com
 .bjjky.cfd
@@ -10118,6 +10119,7 @@
 .fauphesh.com
 .fauphoaglu.net
 .fausamoawhisi.net
+.fauseepetoozuk.xyz
 .fausothaur.com
 .favoredkuwait.top
 .favorite-option.pro
@@ -14666,6 +14668,7 @@
 .kouceeptait.com
 .koucerie.com
 .kouphouwhajee.net
+.koupuchoust.net
 .koushauwhie.xyz
 .kousjcignye.com
 .koutobey.net
@@ -16967,6 +16970,7 @@
 .mymembermatchmagic.life
 .myniceposts.com
 .myolnyr5bsk18.com
+.myosoteruins.com
 .myperfect2give.com
 .mypopadpro.com
 .mypopads.com
@@ -24356,6 +24360,7 @@
 .suchroused.com
 .suckae.xyz
 .suckfaintlybooking.com
+.sucreexpos.com
 .suctionautomobile.com
 .suctionpoker.com
 .suddenvampire.com
@@ -24742,6 +24747,7 @@
 .tapioni.com
 .tapixesa.pro
 .tapjoyads.com
+.taposalett.top
 .tapproveofchild.info
 .taproximo.com
 .taprtopcldfa.co
@@ -27152,6 +27158,7 @@
 .vrcvuqtijiwgemi.com
 .vrgvugostlyhewo.info
 .vrime.xyz
+.vrizead.com
 .vroomedbedroll.shop
 .vrplynsfcr.xyz
 .vrtzads.com
@@ -28564,6 +28571,7 @@
 .youservit.com
 .youtube.local
 .youtubecenter.net
+.yowdenfalcial.com
 .yowlnibble.shop
 .yoyadsdom.com
 .ypersonalrecome.com
@@ -32427,7 +32435,6 @@
 .cads.scalemonk.com
 .adspot.tfgapps.com
 .analytics.scalemonk.com
-.vrizead.com
 .adpopcorn.com
 .pangle.io
 .pubnative.info
@@ -32854,6 +32861,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.volces.com
+.twitter.sx
 .lf1-cdn-tos.bytegoofy.com
 .view.mngusr.com
 .cdn.q0losid.com
@@ -33260,7 +33269,6 @@
 .statscollector.sd-rtn.com
 .predatasrv.com
 .mediago.io
-.b.karte.io
 .cra.hum.works
 .log.trackingio.com
 .region1.analytics.google.com
@@ -33899,7 +33907,6 @@
 .depart.trinitymedia.ai
 .atrack.avplayer.com
 .log.gs3.goo.ne.jp
-.static.karte.io
 .wonder-ma.com
 .tracking.adweb.co.kr
 .tracking02.adweb.co.kr
@@ -36443,6 +36450,8 @@
 .wizaly.com
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
+.publictelemetry.tophat.com
+.dynatrace.att.com
 .csp-report.marketing.aws.dev
 .telemetry.svc.transifex.net
 .cpu.baidu.com
@@ -37104,6 +37113,7 @@
 .track.parentmood.com
 .track.shrinkplus.com
 .track.thefunpost.com
+.analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 .analytics-ingestion.production-public.tubi.io
 .wayfinderanalytics.servicebus.windows.net
 .adtima-media.zascdn.me
@@ -39018,6 +39028,13 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.nstool.netease.com
+.data.kuiniuca.com
+.clientlogsf.music.163.com
+.ye.dun.163yun.com
+.netapm.music.163.com
+.clientlogdep.music.163.com
+.clientlog3.music.163.com
 .collect.4gtv.tv
 .uaid.vtwenty.com
 .telemetry.codefusion.technology
@@ -41074,6 +41091,7 @@
 .vppst.iltrovatore.it
 .analyzer51.fc2.com
 .bvr.snva.jp
+.collector.t-idr.com
 .log.f-tra.com
 .mail-count.matsui.co.jp
 .omt.shinobi.jp
@@ -43602,6 +43620,7 @@
 .caraneoutraze.uno
 .adserve.lasentinelle.mu
 .adserver.icimedias.ca
+.sb-hip-happy.ourservice.jp
 .carrier202205.tokyo
 .axesslove.mixh.jp
 .kaomanko.axesslove.com
@@ -51134,8 +51153,15 @@
 .ztlkngyj.icu
 .xxaks01080sspao.xyz
 .xxaks01081sspao.xyz
+.xxaks01091sspao.xyz
 .tu6.icu
+.xukanvyl.com
+.nyjelh.icu
+.blbtibqk.icu
+.chumealq.com
+.o8s.icu
 .wf7.icu
+.ercoils.com
 .jfrrnf.icu
 .e50.icu
 .aos01070ss.xyz

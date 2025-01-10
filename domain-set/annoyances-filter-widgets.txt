@@ -158,6 +158,7 @@
 .booster.webtradecenter.com
 .gacraft.jp
 .api.popin.cc
+.ac-chatbot.freebie-ac.jp
 .decagon.ai
 .widget.hireaiva.com
 .chatbro.com

@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.volces.com
+.twitter.sx
 .lf1-cdn-tos.bytegoofy.com
 .view.mngusr.com
 .cdn.q0losid.com
@@ -442,7 +444,6 @@
 .statscollector.sd-rtn.com
 .predatasrv.com
 .mediago.io
-.b.karte.io
 .cra.hum.works
 .log.trackingio.com
 .region1.analytics.google.com
@@ -1153,7 +1154,6 @@
 .depart.trinitymedia.ai
 .atrack.avplayer.com
 .log.gs3.goo.ne.jp
-.static.karte.io
 .wonder-ma.com
 .ot.ebis.ne.jp
 .sync.ebis.ne.jp
@@ -46425,6 +46425,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.publictelemetry.tophat.com
+.dynatrace.att.com
 .csp-report.marketing.aws.dev
 .telemetry.svc.transifex.net
 .cpu.baidu.com
@@ -47095,6 +47097,7 @@
 .track.parentmood.com
 .track.shrinkplus.com
 .track.thefunpost.com
+.analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 .wayfinderanalytics.servicebus.windows.net
 .adtima-media.zascdn.me
 .px.dmp.zaloapp.com
@@ -49174,6 +49177,13 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.nstool.netease.com
+.data.kuiniuca.com
+.clientlogsf.music.163.com
+.ye.dun.163yun.com
+.netapm.music.163.com
+.clientlogdep.music.163.com
+.clientlog3.music.163.com
 .collect.4gtv.tv
 .uaid.vtwenty.com
 .telemetry.codefusion.technology
