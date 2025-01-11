@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mantis-intelligence.com
+.stream.datago.ru
+.pabidding.io
+.danatrak.com
+.optiyield.opti-digital.com
 .volces.com
 .twitter.sx
 .lf1-cdn-tos.bytegoofy.com
