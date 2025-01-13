@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.actiontracking.jp
 .mantis-intelligence.com
 .stream.datago.ru
 .pabidding.io
