@@ -1,5 +1,9 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.unloadyourself.com
+.granlite.com
+.polishedfolly.com
+.stocktheme.com
 .kindhush.com
 .whymaze.com
 .driftingchef.com
