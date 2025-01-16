@@ -1457,6 +1457,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.sendpush.net
 .personaclick.com
 .qushad.com
 .quickalert.org

@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log-auth.zztfly.com
 .adsave.co
 .analytics.bitchute.com
 .actiontracking.jp
@@ -47025,6 +47026,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.s.c-ctrip.com
+.ma-adx.ctrip.com
 .logs.mezmo.com
 .publictelemetry.tophat.com
 .dynatrace.att.com
@@ -49778,6 +49781,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.tp2p.kg.qq.com
+.twns.p2ptun.qq.com
 .nstool.netease.com
 .data.kuiniuca.com
 .clientlogsf.music.163.com
