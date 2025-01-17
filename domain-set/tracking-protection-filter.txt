@@ -248,6 +248,7 @@
 .gtm.taginstall.com
 .mdstats.info
 .site-config.com
+.getui.net
 .getui.com
 .pixel.glimr.io
 .scripts.jixie.media
@@ -47026,6 +47027,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.hikari.jiocinema.com
 .s.c-ctrip.com
 .ma-adx.ctrip.com
 .logs.mezmo.com
@@ -49781,6 +49783,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.spider-tracker.xiaohongshu.com
 .tp2p.kg.qq.com
 .twns.p2ptun.qq.com
 .nstool.netease.com
