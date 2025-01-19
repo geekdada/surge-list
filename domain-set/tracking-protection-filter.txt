@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.sygrip.info
 .flippback.com
 .log-auth.zztfly.com
 .adsave.co
