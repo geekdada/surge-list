@@ -5,7 +5,6 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .sygrip.info
-.flippback.com
 .log-auth.zztfly.com
 .adsave.co
 .analytics.bitchute.com
@@ -47029,6 +47028,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.frontend-logger.flippback.com
+.analytics.nike.com
 .hikari.jiocinema.com
 .s.c-ctrip.com
 .ma-adx.ctrip.com
