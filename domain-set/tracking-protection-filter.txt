@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.wsknow.net
 .api.taggrs.io
 .obseu.netgreencolumn.com
 .sygrip.info
@@ -47975,6 +47976,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.logging.g.sst.secureserver.net
+.metricreceiver.cellrebel.com
+.events.app-performance.music.amazon.dev
+.metrics-a.wbx2.com
+.event.msi.com
 .dco.coupang.com
 .mr.homedepot.com
 .frontend-logger.flippback.com
