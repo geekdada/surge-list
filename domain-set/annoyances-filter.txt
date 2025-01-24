@@ -149,6 +149,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.sprysummit.com
 .pixelvariety.com
 .unloadyourself.com
 .granlite.com
