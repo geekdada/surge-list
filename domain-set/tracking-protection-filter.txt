@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mktp-base.mktplatforms.com
+.f-tra.com
+.event.dfinery.io
+.polaranalytics.com
 .wsknow.net
 .api.taggrs.io
 .obseu.netgreencolumn.com
@@ -17,7 +21,6 @@
 .pabidding.io
 .danatrak.com
 .optiyield.opti-digital.com
-.volces.com
 .twitter.sx
 .lf1-cdn-tos.bytegoofy.com
 .view.mngusr.com
@@ -47976,6 +47979,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.apmplus.ap-southeast-1.volces.com
 .pixels.argusplatform.com
 .egg.afisha.ru
 .tracking-app.diginetica.net
