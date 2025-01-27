@@ -42270,6 +42270,7 @@
 .proper.io
 .pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev
 .pub-referral-widget.current.us
+.pubcircle.ai
 .pubfuture.com
 .pubgears.com
 .pubgenius.io
@@ -42551,10 +42552,15 @@
 .googleadservices-cn.com
 .googleadsserving.cn
 .googlevads-cn.com
+.02085170.xyz
 .05454674.xyz
 .10288299.xyz
 .38167473.xyz
+.47206262.xyz
 .47235645.xyz
+.62842068.xyz
+.63801782.xyz
+.65122038.xyz
 .79893962.xyz
 .bdec1f37.xyz
 .00701059.xyz
