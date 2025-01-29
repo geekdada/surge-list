@@ -1,5 +1,6 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.quicklyedit.com
 .sprysummit.com
 .pixelvariety.com
 .unloadyourself.com

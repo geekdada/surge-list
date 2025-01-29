@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.plausible.flamekiller.org
 .mktp-base.mktplatforms.com
 .f-tra.com
 .event.dfinery.io
@@ -48752,6 +48753,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.fnl.quizizz.com
+.jg7y.quizlet.com
 .apmplus.ap-southeast-1.volces.com
 .pixels.argusplatform.com
 .egg.afisha.ru
