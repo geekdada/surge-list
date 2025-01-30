@@ -149,6 +149,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.quillkick.com
 .quicklyedit.com
 .sprysummit.com
 .pixelvariety.com
