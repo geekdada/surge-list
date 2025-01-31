@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.bicp-analytics.postscript.io
 .plausible.flamekiller.org
 .mktp-base.mktplatforms.com
 .f-tra.com
@@ -48753,6 +48754,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.eventcollector.mcf-prod.a.intuit.com
 .fnl.quizizz.com
 .jg7y.quizlet.com
 .apmplus.ap-southeast-1.volces.com
@@ -51529,7 +51531,6 @@
 .spider-tracker.xiaohongshu.com
 .tp2p.kg.qq.com
 .twns.p2ptun.qq.com
-.nstool.netease.com
 .data.kuiniuca.com
 .clientlogsf.music.163.com
 .ye.dun.163yun.com
