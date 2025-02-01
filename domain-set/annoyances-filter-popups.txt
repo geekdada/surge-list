@@ -1,5 +1,7 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.hospitablehat.com
+.majesticwilderness.com
 .makesimpact.com
 .quillkick.com
 .quicklyedit.com

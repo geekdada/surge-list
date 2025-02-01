@@ -48754,6 +48754,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.analytics.avcdn.net
+.pbc.wsj.com
+.tracking.api.shoppinggives.com
+.t.aftermath.site
 .eventcollector.mcf-prod.a.intuit.com
 .fnl.quizizz.com
 .jg7y.quizlet.com
