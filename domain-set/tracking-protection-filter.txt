@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.gw.conversionsapigateway.com
 .bicp-analytics.postscript.io
 .plausible.flamekiller.org
 .mktp-base.mktplatforms.com
@@ -48754,6 +48755,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.mega.mydealz.de
+.log-upload-os.hoyolab.com
 .analytics.avcdn.net
 .pbc.wsj.com
 .tracking.api.shoppinggives.com
