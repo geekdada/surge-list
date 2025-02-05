@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.identitypxl.app
+.identitypxl.com
 .geotags.refinery89.com
 .logg9r.io
 .api.statsig.com
@@ -15,6 +17,7 @@
 .mktp-base.mktplatforms.com
 .f-tra.com
 .event.dfinery.io
+.oasjs.kataweb.it
 .polaranalytics.com
 .wsknow.net
 .api.taggrs.io
@@ -30,7 +33,6 @@
 .danatrak.com
 .optiyield.opti-digital.com
 .twitter.sx
-.lf1-cdn-tos.bytegoofy.com
 .view.mngusr.com
 .cdn.q0losid.com
 .tags.fullcontact.com
@@ -49052,6 +49054,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.market-click-baobab.yandex.ru
 .mssdk.tiktokw.us
 .gc.newsweek.com
 .events.onet.pl
@@ -49101,7 +49104,6 @@
 .gtm.temu.com
 .log.shortbread.analytics.console.aws.a2z.com
 .log.shortbread.aws.dev
-.trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
 .minerva.devices.a2z.com
 .s.pie.org
 .t.pie.org
@@ -51834,6 +51836,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.jackpotmasterslots.com
 .jpush.io
 .datacollector-drru.dt.dbankcloud.ru
 .spider-tracker.xiaohongshu.com
