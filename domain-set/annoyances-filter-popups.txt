@@ -1318,6 +1318,7 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.speraspace.com
 .sendpush.net
 .personaclick.com
 .qushad.com

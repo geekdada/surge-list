@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.applicationinsights.azure.com
+.analytics.sve.cc
+.api.taboola.sve.cc
 .identitypxl.app
 .identitypxl.com
 .geotags.refinery89.com
@@ -49054,6 +49057,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.fourier.aliexpress.com
+.sofire.1024tera.com
+.ad-events.flashtalking.com
 .market-click-baobab.yandex.ru
 .mssdk.tiktokw.us
 .gc.newsweek.com

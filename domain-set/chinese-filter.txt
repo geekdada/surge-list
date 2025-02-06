@@ -250,6 +250,13 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.rrptnkao.icu
+.is02050qqp.xyz
+.is02041qqp.xyz
+.qhaccid.com
+.tnlixn.icu
+.u7y.pw
+.ommatht.com
 .hdinmau.top
 .shaenphiks.com
 .feronyv.com
@@ -4223,6 +4230,7 @@
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
+.code.wenbanzhu.com
 .reke.at.sohu.com
 .abc.ruodian360.com
 .hcirentgh.360doc.cn
@@ -4557,7 +4565,6 @@
 .cn.bidushe.com
 .cn6x.com
 .cod.southmoney.com
-.code.bizdirlib.com
 .code.ditiezu.net
 .cp.7y7.com
 .cp.jfcdns.com
