@@ -4,6 +4,12 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.collector.snplow.net
+.squeezely.tech
+.d5yoctgpv4cpx.cloudfront.net
+.clickguard.com
+.ct.beslist.nl
+.tvpixel.com
 .applicationinsights.azure.com
 .analytics.sve.cc
 .api.taboola.sve.cc
@@ -49056,6 +49062,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.evts.ecocart.io
+.e.fomo.com
+.iq.afterpay.com
+.events.attentivemobile.com
 .events.statsigapi.net
 .fourier.aliexpress.com
 .sofire.1024tera.com
@@ -51842,6 +51852,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.gnsnpaw.com
 .log.jackpotmasterslots.com
 .jpush.io
 .datacollector-drru.dt.dbankcloud.ru
