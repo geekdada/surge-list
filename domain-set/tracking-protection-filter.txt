@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.viture.dev
 .us-behavior.apitd.net
 .collector.snplow.net
 .squeezely.tech
@@ -48033,6 +48034,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.inf.miui.com
+.q.quora.com
 .evts.ecocart.io
 .e.fomo.com
 .iq.afterpay.com
@@ -50823,6 +50826,10 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.ultimatecleaner.pro
+.impression.link
+.rm.aarki.net
+.use-cr.svr-algorix.com
 .gnsnpaw.com
 .log.jackpotmasterslots.com
 .jpush.io
