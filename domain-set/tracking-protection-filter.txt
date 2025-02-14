@@ -1000,7 +1000,6 @@
 .smartnews-ads.com
 .ad3.cross-a.net
 .inistrack.net
-.fourier.taobao.com
 .omniconvert.com
 .repixel.co
 .pubexchange.com
@@ -48035,6 +48034,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.apm.yahoo.co.jp
 .malog.byapps.co.kr
 .sofire.terabox.app
 .sofire.terabox.com
@@ -48045,6 +48045,8 @@
 .iq.afterpay.com
 .events.attentivemobile.com
 .events.statsigapi.net
+.fourier.taobao.com
+.fourier.alibaba.com
 .fourier.aliexpress.com
 .sofire.1024tera.com
 .ad-events.flashtalking.com
@@ -48386,7 +48388,6 @@
 .ingest.make.rvohealth.com
 .segment-api.goodrx.com
 .zion-telemetry-nonprod.api.cnn.io
-.log.suumo.jp
 .femetrics.grammarly.io
 .realtimeanalytics.yext.com
 .stats.indianpornempire.com
@@ -50830,6 +50831,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.i.mxplayer.j2inter.com
+.flashtalking.com
 .stat.weamvideo.com
 .log.ultimatecleaner.pro
 .impression.link
