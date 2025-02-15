@@ -2061,6 +2061,7 @@
 .uhchat.net
 .wat.atms.at
 .widget.feedot-lawyer.ru
+.chatbot.akbank.com
 .k-pilot.kariyer.net
 .date.forumodua.com
 .hawk.laptopmag.com
