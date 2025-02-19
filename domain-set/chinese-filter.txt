@@ -252,6 +252,18 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.dhannaq.com
+.xqrydt.icu
+.zavgrj.icu
+.stogmos.com
+.zooj.cn
+.xkp.cc
+.lclqbh.icu
+.qnhi.cn
+.phazaeth.com
+.uewotga.top
+.ccinvdf.top
+.uvoisbg.xyz
 .aegzoils.com
 .bxzlfr.icu
 .shudi8.com
@@ -3936,6 +3948,7 @@
 .zt2088.com
 .ztyumn.ifeng.com
 .27gh.cc
+.bun1.dayi.org.cn
 .code.wenbanzhu.com
 .reke.at.sohu.com
 .abc.ruodian360.com

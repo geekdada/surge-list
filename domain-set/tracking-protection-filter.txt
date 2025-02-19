@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mdhv.io
+.appia.com
+.imtwjwoasak.com
+.nmrodam.com
+.auraodin.com
 .botradar.tech
 .analytics.viture.dev
 .us-behavior.apitd.net
@@ -47876,6 +47881,15 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.telemetry.vaultdcr.com
+.lighthouse.edoinc.com
+.tag.researchnow.com
+.log-auth.flysleep.cn
+.telemetry.nbcuott.com
+.log.onmas.kt.com
+.logapi.kt.com
+.clog.lghv.net
+.matomo.mobilism.org
 .66hao.cc
 .event.playground.ru
 .tracker.multisearch.io
@@ -48199,6 +48213,7 @@
 .ce.x-opt.io
 .analytics.global.sky.com
 .analytics.cosmonova.net
+.pn.ybp.yahoo.com
 .pr-bh.ybp.yahoo.com
 .log.tossinvest.com
 .c950.chronicle.com
@@ -50273,7 +50288,6 @@
 .tracking.g2crowd.com
 .tracking.game8.jp
 .tracking.gvm.com.tw
-.tracking.hotel.check24.de
 .tracking.hsn.com
 .tracking.hurlmedia.design
 .tracking.komoot.de
@@ -50574,7 +50588,6 @@
 .stat.sports.ru
 .statistic.gamona.de
 .stats.computecmedia.de
-.traveltracking.check24.de
 .web-t.9gag.com
 .webmetrics.nintendo-europe.com
 .webstat.freaks4u.com
@@ -50676,6 +50689,11 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.track.aieic.com
+.tracker.str-nrg.com
+.ced-ns.sascdn.com
+.pixel.magentamarketing.com
+.bisrtb.vidazoo.com
 .aws.userlogsanalytics.com
 .atb-stats-api.imolive.tv
 .i.mxplayer.j2inter.com
@@ -50874,6 +50892,7 @@
 .adash.man.aliyuncs.com
 .woodpecker.uc.cn
 .adashx4ae.ut.taobao.com
+.h-adashx4ae.ut.taobao.com
 .audid-api.taobao.com
 .analytics.ff.avast.com
 .node.aibeacon.jp

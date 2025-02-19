@@ -1,3 +1,4 @@
+.cookie.marsus.digital
 .mobile-data.onetrust.io
 .gdpr-legal-cookie.com
 .cookies.giant.cz
