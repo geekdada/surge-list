@@ -47884,6 +47884,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.mon-va.capcutapi.com
 .pbc.realtor.com
 .apihorizon.nnmtools.com
 .cdnhorizon.nnmtools.com
@@ -50697,6 +50698,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.insights.alibaba.com
+.mssdk-boot.cpacutapi.com
 .collect.ureca-lab.com
 .api.abcsinsights.com
 .tracking.carbonatixaudio.com

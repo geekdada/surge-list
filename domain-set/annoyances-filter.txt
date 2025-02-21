@@ -151,6 +151,8 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.newartreview.com
+.thejavalane.com
 .curbminers.com
 .punyplant.com
 .jubilanttempest.com
