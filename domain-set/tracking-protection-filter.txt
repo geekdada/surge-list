@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.slackb.com
+.nwr.static.mmcdn.com
 .collector-pxebumdlwe.pxchk.net
 .sc.sc-analytics.jp
 .c.bazo.io
@@ -47884,8 +47886,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.tr.api.fanbyte.com
+.mcs-va.capcutapi.com
 .mon-va.capcutapi.com
 .pbc.realtor.com
+.logs.appsource.microsoft.com
 .apihorizon.nnmtools.com
 .cdnhorizon.nnmtools.com
 .px-intl.ucweb.com
@@ -49733,6 +49738,7 @@
 .p2trc.emv2.com
 .pa.pinpoll.com
 .pa.tns-ua.com
+.pac.the-sun.com
 .pac.thesun.co.uk
 .pac.thetimes.co.uk
 .pappagallu.onefootball.com
