@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.domself.de
+.teraverseapp.com
+.pavoboxapp.com
 .data4.ojto.pl
 .slackb.com
 .nwr.static.mmcdn.com
@@ -48197,6 +48200,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.epimetheus.navigator.gmx.net
+.tgw.gmx.net
+.clientlogger.marketplace.aws.a2z.com
 .mercury.books.com.tw
 .ganon.yahoo.com
 .udc.yahoo.com
@@ -51706,6 +51712,7 @@
 .yadro.ru
 .ymtracking.com
 .zdbb.net
+.mcs.tiktokw.us
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .log.tiktokv.com
 .rtc-logger-va.tiktokv.com
