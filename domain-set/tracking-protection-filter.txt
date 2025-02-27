@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.gcprivacy.com
 .domself.de
 .teraverseapp.com
 .pavoboxapp.com
