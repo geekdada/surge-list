@@ -13,5 +13,6 @@
     "@adguard/hostlist-compiler": "^1.0.8",
     "@sindresorhus/slugify": "^1.1.0",
     "fs-extra": "^9.0.1"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
 }
