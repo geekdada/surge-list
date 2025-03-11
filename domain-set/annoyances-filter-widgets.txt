@@ -1,3 +1,4 @@
+.re.trigs-sockets.com
 .feedgrabbr.com
 .rss.solty.biz
 .yameyou.com
@@ -19,6 +20,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.affilizz.com
 .gubagootracking.com
 .cdn.gubagoo.io
 .webchat.bebot.io

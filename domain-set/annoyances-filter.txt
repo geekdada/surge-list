@@ -1,3 +1,5 @@
+.cookies.pro-idea.cz
+.cookies.praguebest.cz
 .consenttool.haendlerbund.de
 .cookie.marsus.digital
 .mobile-data.onetrust.io
@@ -107,7 +109,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
-.consent.dw.com
+.cp.gutefrage.net
 .cmp.gearupbooster.com
 .ccm.hamburg-magazin.de
 .utiq.t-online.de
@@ -1414,7 +1416,6 @@
 .chesscrowd.com
 .scarcestructure.com
 .hospitablehall.com
-.config.content-settings.com
 .absorbingprison.com
 .chesterstandard-gb.chesterstandard.co.uk
 .massivemark.com
@@ -1875,6 +1876,7 @@
 .newsstat.dallasnews.com
 .xhamsterpremium.com
 .contributions.guardianapis.com
+.re.trigs-sockets.com
 .feedgrabbr.com
 .rss.solty.biz
 .yameyou.com
@@ -1896,6 +1898,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.affilizz.com
 .gubagootracking.com
 .cdn.gubagoo.io
 .webchat.bebot.io
