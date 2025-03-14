@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.weborama-tech.ru
 .qualaroo.com
 .browsercfg-drcn.cloud.dbankcloud.cn
 .govisibl.io
@@ -52364,6 +52365,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.cnlogs.umengcloud.com
 .logs.nebulahoroscope.com
 .braveglobal.tv
 .insights.alibaba.com
