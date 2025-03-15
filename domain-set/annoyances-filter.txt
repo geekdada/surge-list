@@ -1,3 +1,4 @@
+.cmpv2.tori.fi
 .cookies.pro-idea.cz
 .cookies.praguebest.cz
 .consenttool.haendlerbund.de
@@ -154,6 +155,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.luxformula.com
 .rockstarwriter.com
 .gustocooking.com
 .opulentsylvan.com
@@ -1429,6 +1431,8 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.sdk.postscript.io
+.cdn.wheelio-app.com
 .pop.unitedgate.co.jp
 .chatboost-cv.algoage.co.jp
 .pop-convert.com

@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.umeng.com
 .weborama-tech.ru
 .qualaroo.com
 .browsercfg-drcn.cloud.dbankcloud.cn
@@ -457,7 +458,7 @@
 .trace.zhiyan.tencent-cloud.net
 .log.iflytek.com
 .log.voicecloud.cn
-.aads.shuzilm.cn
+.shuzilm.cn
 .adxlog-adnet.vivo.com.cn
 .user-analysis.7moor.com
 .sirdata.io
@@ -1258,7 +1259,7 @@
 .log002.commutil.kr
 .analy1.dtnnetwork.be
 .cerdmann.com
-.polarbyte.com
+.cdn.polarbyte.com
 .revcatch.com
 .revprotect.com
 .protectsubrev.com
@@ -49532,6 +49533,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.pixel.thoughtmetric.io
+.c9nyrr.puurfiguur.nl
+.ryrv0j.greenbeanbuddy.com
+.tracking-sales-pop.carecart.io
 .cs44.pikabu.ru
 .ta.pinduoduo.com
 .th.pinduoduo.com
@@ -52365,6 +52370,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.nr.bidderstack.com
+.stbid.ru
+.stat.nsc-lab.io
 .cnlogs.umengcloud.com
 .logs.nebulahoroscope.com
 .braveglobal.tv
@@ -52430,7 +52438,6 @@
 .tracker.mtrtb.com
 .tracking.ws.eurosport.com
 .fraudmetrix.cn
-.plbslog.umeng.com
 .analysys.cn
 .logs.supersonic.com
 .mssdk-va.byteoversea.com
@@ -52693,7 +52700,6 @@
 .psi.lbesecapi.com
 .report-ps.meettech.net
 .msg.umengcloud.com
-.ulogs.umeng.com
 .ulogs.umengcloud.com
 .analytics.liveact-vault.com
 .dex50.deteql.net
@@ -52702,7 +52708,6 @@
 .tobapplog.ctobsnssdk.com
 .t.castle.io
 .bs.nakanohito.jp
-.alogsus.umeng.com
 .log1.happymod.com
 .log.pvpgang.com
 .crs-event.line.me
@@ -52775,8 +52780,6 @@
 .tracking-service.glority.com
 .analytics-ingestion.production-public.tubi.io
 .pingtas.qq.com
-.alogus.umeng.com
-.errlogos.umeng.com
 .tenant-content.apm.appfolio-analytics.com
 .log.avlyun.com
 .api-analytics.prod.birdapp.com
@@ -52958,7 +52961,6 @@
 .api.uca.cloud.unity3d.com
 .resolver.gslb.mi-idc.com
 .geoip.ifunny.co
-.alogs.umeng.com
 .alogs.umengcloud.com
 .4seeresults.com
 .adash.m.taobao.com
@@ -52966,7 +52968,6 @@
 .adserver.snapads.com
 .adsunflower.com
 .advmob.cn
-.alog.umeng.com
 .alog.umengcloud.com
 .amp-error-reporting.appspot.com
 .analytics.ad.daum.net
@@ -52986,7 +52987,6 @@
 .api.gimbal.com
 .appmetrica.yandex.net
 .appmetrica.yandex.com
-.ar.umeng.com
 .beacon.carfax.com
 .beacon.qq.com
 .beacon.shazam.com
@@ -53027,7 +53027,6 @@
 .nativesdks.mparticle.com
 .nlog.droid4x.cn
 .nrc.tapas.net
-.oc.umeng.com
 .online-metrix.net
 .openstat.net
 .pingma.qq.com
