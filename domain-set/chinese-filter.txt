@@ -255,6 +255,12 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.mvxh.cn
+.lftcph.icu
+.ak03150hou.com
+.guqransoq.com
+.ghegaintp.com
+.vmjr.cn
 .lmeurbnjs.com
 .xielloltv.com
 .lqfctb.icu

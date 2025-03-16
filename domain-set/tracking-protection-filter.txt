@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.metrics.nsureapi.com
 .umeng.com
 .weborama-tech.ru
 .qualaroo.com
@@ -29,7 +30,6 @@
 .nmrodam.com
 .auraodin.com
 .botradar.tech
-.analytics.viture.dev
 .us-behavior.apitd.net
 .collector.snplow.net
 .squeezely.tech
@@ -49533,6 +49533,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.analytics.viture.dev
 .pixel.thoughtmetric.io
 .c9nyrr.puurfiguur.nl
 .ryrv0j.greenbeanbuddy.com
