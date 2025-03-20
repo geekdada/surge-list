@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.api-notify.markarch.com
+.venatusmedia.com
 .metrics.nsureapi.com
 .umeng.com
 .weborama-tech.ru
@@ -1146,7 +1148,6 @@
 .durationmedia.net
 .s.myangular.life
 .pointmediatracker.com
-.c-api-bit.shopeemobile.com
 .sp.dpgmedia.net
 .distillery.wistia.com
 .pipedream.wistia.com
