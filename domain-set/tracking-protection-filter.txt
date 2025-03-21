@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tags.pw.adn.cloud
 .api-notify.markarch.com
 .venatusmedia.com
 .metrics.nsureapi.com
@@ -1512,6 +1513,7 @@
 .amc.yandex.ru
 .mc.yandex.ru
 .mc.yandex.com
+.mc.yandex.md
 .track.segmentstream.com
 .vboro.de
 .barddfvgkhctch11.ru
