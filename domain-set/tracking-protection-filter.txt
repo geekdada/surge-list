@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ponos.zeronaught.com
 .tags.pw.adn.cloud
 .api-notify.markarch.com
 .venatusmedia.com
@@ -530,6 +531,7 @@
 .fpnpmcdn.net
 .offer-go.com
 .d2ezz24t9nm0vu.cloudfront.net
+.sdk-v2.conscent.in
 .sdk.conscent.in
 .tpstelemetry.tencent.com
 .app.posthog.com
@@ -49759,6 +49761,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.sapphire-api.target.com
 .analytics.viture.dev
 .pixel.thoughtmetric.io
 .c9nyrr.puurfiguur.nl

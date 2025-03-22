@@ -20,6 +20,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.client.contents-search-windows.com
 .affilizz.com
 .gubagootracking.com
 .cdn.gubagoo.io
