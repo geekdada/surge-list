@@ -49761,6 +49761,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.tempo-client-metric-prod.s3.amazonaws.com
 .sapphire-api.target.com
 .analytics.viture.dev
 .pixel.thoughtmetric.io
