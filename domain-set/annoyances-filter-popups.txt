@@ -1288,7 +1288,6 @@
 .web.telemetric.dk
 .pt.wisernotify.com
 .ex1tp.com
-.player.gliacloud.com
 .ga2.getresponse.com
 .fastemu.co
 .7pisem.com

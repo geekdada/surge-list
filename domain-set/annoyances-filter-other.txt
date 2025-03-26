@@ -1,6 +1,5 @@
 .coin-hive.com
 .coinhive.com
-.player.gliacloud.com
 .point.widget.rakuten.co.jp
 .https-filtering-check.adtidy.org
 .backgrounds.wetransfer.net

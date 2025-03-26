@@ -1871,7 +1871,6 @@
 .ad.chatpad.jp
 .coin-hive.com
 .coinhive.com
-.player.gliacloud.com
 .point.widget.rakuten.co.jp
 .backgrounds.wetransfer.net
 .usefomo.com
