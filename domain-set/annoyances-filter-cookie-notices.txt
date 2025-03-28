@@ -3,7 +3,6 @@
 .cookies.praguebest.cz
 .consenttool.haendlerbund.de
 .cookie.marsus.digital
-.mobile-data.onetrust.io
 .gdpr-legal-cookie.com
 .cookies.giant.cz
 .complydog.com
@@ -104,6 +103,7 @@
 .r42tag.com
 .cookieq.com
 .usercentrics.eu
+.mobile-data.onetrust.io
 .cdn.sentinelp.com
 .cmpworker.operationsports.com
 .nebulousgarden.com

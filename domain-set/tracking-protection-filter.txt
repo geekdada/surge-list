@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cnstrc.com
+.zineone.com
 .data.emb-api.com
 .config.emb-api.com
 .ponos.zeronaught.com
@@ -43,7 +45,6 @@
 .clickguard.com
 .ct.beslist.nl
 .tvpixel.com
-.applicationinsights.azure.com
 .analytics.sve.cc
 .api.taboola.sve.cc
 .identitypxl.app
@@ -533,7 +534,6 @@
 .fpnpmcdn.net
 .offer-go.com
 .d2ezz24t9nm0vu.cloudfront.net
-.sdk-v2.conscent.in
 .sdk.conscent.in
 .tpstelemetry.tencent.com
 .app.posthog.com
@@ -50347,6 +50347,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.log.strawpoll.com
 .tempo-client-metric-prod.s3.amazonaws.com
 .sapphire-api.target.com
 .analytics.viture.dev
@@ -53187,6 +53188,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.logapi-and.zhipin.com
 .hilton.data.adobedc.net
 .asanalytics.booking.com
 .counters.booking.com
