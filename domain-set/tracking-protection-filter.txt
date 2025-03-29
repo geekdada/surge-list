@@ -50347,6 +50347,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.ms.dzen.ru
+.an.mail.ru
+.events-collector-dataplatform.action-media.ru
+.track-events.membrana.media
 .log.strawpoll.com
 .tempo-client-metric-prod.s3.amazonaws.com
 .sapphire-api.target.com
