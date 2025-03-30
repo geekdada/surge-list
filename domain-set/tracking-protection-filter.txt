@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.sayac.net.tr
 .cnstrc.com
 .zineone.com
 .data.emb-api.com
