@@ -1484,6 +1484,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.puhyjyf.com
 .speraspace.com
 .sendpush.net
 .personaclick.com
