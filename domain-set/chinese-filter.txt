@@ -1,3 +1,4 @@
+.telecome.cn
 .aizhantj.com
 .sm-cloud.yunsafe.top
 .dwyeuy.com
@@ -255,6 +256,13 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.caxhuuzto.com
+.so04010koaq.com
+.lsjarh.top
+.duyhlct.icu
+.wqrv.cn
+.dephriezm.com
+.uu09cjylmzsym.top
 .yasorlbeu.com
 .jtdltu.top
 .xsti.cn
