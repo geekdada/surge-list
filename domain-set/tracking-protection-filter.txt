@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.onelinksmartscript.appsflyer.com
+.pixel.wetracked.io
 .api-pixels.easyadsapp.com
 .sayac.net.tr
 .zineone.com

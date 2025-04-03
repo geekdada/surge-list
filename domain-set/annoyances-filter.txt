@@ -155,6 +155,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.stereotypedsugar.com
 .podname.com
 .luxformula.com
 .rockstarwriter.com
