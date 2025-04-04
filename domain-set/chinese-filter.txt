@@ -1,7 +1,4 @@
 .xj-oss.com
-.ookaso.com
-.uuaisp.com
-.hauqoa.com
 .telecome.cn
 .aizhantj.com
 .sm-cloud.yunsafe.top
@@ -260,7 +257,16 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.dreiquksz.com
+.so04030koaq.com
+.pqnonh.top
+.zwgqzgo.icu
+.rinl.cn
 .dhorzivnn.com
+.hauqoa.com
+.ookaso.com
+.uuaisp.com
+.phozeksr.com
 .nrlupu.top
 .biabfqq.icu
 .chitshuqh.com
@@ -3978,6 +3984,7 @@
 .zt2088.com
 .ztyumn.ifeng.com
 .adasset.flixfiend.top
+.ad.parkvv.com
 .27gh.cc
 .nxet1.360doc.cn
 .bun1.dayi.org.cn

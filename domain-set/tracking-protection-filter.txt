@@ -50461,6 +50461,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.sy.ameba.jp
+.tracker.uira.live
 .col.surfside.io
 .tsn.dmcmedia.co.kr
 .ms.dzen.ru
