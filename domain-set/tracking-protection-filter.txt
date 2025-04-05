@@ -1005,6 +1005,7 @@
 .counter.kikibobo.top
 .c1.politexpert.ru
 .cdn.logrocket.com
+.lrkt-in.com
 .ipmeta.io
 .analytics.daasrv.net
 .analytics.fatmedia.io
@@ -50461,6 +50462,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.collector.bsg.brave.com
 .sy.ameba.jp
 .tracker.uira.live
 .col.surfside.io
@@ -53309,6 +53311,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.pangolin-sdk-toutiao-b.com
 .ulog-sdk.gifshow.com
 .logapi-and.zhipin.com
 .hilton.data.adobedc.net
