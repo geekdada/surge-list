@@ -286,6 +286,11 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.stigzeal.com
+.lfflvh.icu
+.rubmdu.top
+.bpuf.cn
+.bholneath.com
 .baphullpet.com
 .hh04050aoik.com
 .ncjqjp.icu
@@ -3844,6 +3849,7 @@
 .adasset.flixfiend.top
 .ad.parkvv.com
 .27gh.cc
+.a1.tuke8.com
 .nxet1.360doc.cn
 .bun1.dayi.org.cn
 .code.wenbanzhu.com
