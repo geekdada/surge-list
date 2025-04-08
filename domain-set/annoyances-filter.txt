@@ -155,6 +155,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.fastenfather.com
 .stereotypedsugar.com
 .podname.com
 .luxformula.com
@@ -2046,6 +2047,7 @@
 .dl.metabar.ru
 .plista.com
 .booster.webtradecenter.com
+.torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
 .ac-chatbot.freebie-ac.jp

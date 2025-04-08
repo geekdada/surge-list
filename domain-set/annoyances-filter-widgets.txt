@@ -160,6 +160,7 @@
 .dl.metabar.ru
 .plista.com
 .booster.webtradecenter.com
+.torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
 .ac-chatbot.freebie-ac.jp
