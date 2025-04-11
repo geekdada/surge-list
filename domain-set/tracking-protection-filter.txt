@@ -51269,6 +51269,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .telemetry.mozilla.org
+.views.hulu.com
+.pixel.vreview.tv
 .d3aicbrzoy14kh.cloudfront.net
 .metrics.motoblouz.com
 .fxgate.baidu.com
