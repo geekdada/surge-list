@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.extreme-ip-lookup.com
+.b.clipkit.co
 .easywebsiteanalytics.com
 .onelinksmartscript.appsflyer.com
 .pixel.wetracked.io
@@ -51268,7 +51270,7 @@
 .d1udjti6mtxz9q.cloudfront.net
 .tagman.britishairways.com
 .ct.pinterest.com
-.telemetry.mozilla.org
+.incoming.telemetry.mozilla.org
 .dns-clientinfo.vtg.paramount.tech
 .monitor.r53.cbsivideo.com
 .monitor.ns1-s.rspcdn.net
@@ -54128,6 +54130,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.metrics-us.cometchat.io
+.clog.weverse.io
+.collection.weverse.io
 .report-edge.agora.io
 .pangolin-sdk-toutiao-b.com
 .ulog-sdk.gifshow.com
