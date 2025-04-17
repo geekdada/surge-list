@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.oply.hearstapps.com
 .mobuppsweb.online
 .extreme-ip-lookup.com
 .b.clipkit.co
