@@ -51273,6 +51273,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.sspnm.emol.com
+.ssp.emol.com
+.stats.emol.com
+.rvv.emol.com
 .rma.homedepot.com
 .db7q4jg5rkhk8.cloudfront.net
 .backend-pixel.zotek.io
@@ -54135,6 +54139,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.ads-privacy-api.prd.mz.internal.unity3d.com
+.eventsv2balanced.malpagames.com
+.pls.prd.mz.internal.unity3d.com
 .apishowstats.babybus.com
 .tjinit-event.babybus.com
 .tjinit-global-register.babybus.com
