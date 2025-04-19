@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.webpageviews.click
+.trafficsyncpro.com
 .oply.hearstapps.com
 .mobuppsweb.online
 .extreme-ip-lookup.com
@@ -249,7 +251,7 @@
 .analytics.qushad.com
 .orangeclickmedia.com
 .pageviews.tray.com.br
-.convertbox.com
+.app.convertbox.com
 .sync.outbrain.com
 .elb.the-ozone-project.com
 .pbcs.nypost.com
@@ -51273,6 +51275,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.kloggyr-service.kyruus.com
+.geo.justwatch.com
 .sspnm.emol.com
 .ssp.emol.com
 .stats.emol.com

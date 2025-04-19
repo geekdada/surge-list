@@ -1713,6 +1713,7 @@
 .joinsubtext.com
 .activehosted.com
 .app.mailjet.com
+.app.convertbox.com
 .app.conversiobot.com
 .sdk.getsitekit.com
 .engine.findaphd.com
