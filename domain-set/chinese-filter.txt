@@ -286,6 +286,16 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.grimoiksep.com
+.iutq.cn
+.hgreils.com
+.lvqo.cn
+.jibtdn.top
+.kucnwtd.top
+.ewcnmtw.top
+.sucnwtb.top
+.vnwu.cn
+.faamhel.com
 .nbragzui.com
 .bvzc.cn
 .hjvzfa.top
