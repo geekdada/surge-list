@@ -52266,7 +52266,6 @@
 .cdn-redirector.glopal.com
 .storelog.kode.co.kr
 .ampltd2.medal.tv
-.cologger.shopping.naver.com
 .analytics.dugun.com
 .report2.iciba.com
 .report.iciba.com
