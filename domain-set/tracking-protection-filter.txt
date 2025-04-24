@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.unalytics.top
 .aisiteanalytics.com
 .cdnlogs.org
 .pushd.netky.tech
@@ -51435,6 +51436,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.web-sdk-cdn.singular.net
+.tracking.ringieraxelspringer.tech
+.aidsvc.netflix.com
 .sensor.grubhub.com
 .kloggyr-service.kyruus.com
 .geo.justwatch.com
