@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.megadata.co.kr
+.easytomessage.com
 .unalytics.top
 .aisiteanalytics.com
 .cdnlogs.org
@@ -51436,6 +51438,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.telemetry.individual.githubcopilot.com
+.realtime-logger.production-public.tubi.io
+.log.kroffle.net
 .web-sdk-cdn.singular.net
 .tracking.ringieraxelspringer.tech
 .aidsvc.netflix.com
@@ -53751,7 +53756,6 @@
 .targeting.tbt.arcpublishing.com
 .targeting.washpost.nile.works
 .tc-log.mattel163.com
-.tc.tradetracker.net
 .tcheck.outbrainimg.com
 .tdep.hema.nl
 .tdep.kvk.nl
@@ -54307,6 +54311,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.adashx4id.ut.taobao.com
+.analytics.us.tiktok.com
 .ads-privacy-api.prd.mz.internal.unity3d.com
 .eventsv2balanced.malpagames.com
 .pls.prd.mz.internal.unity3d.com
@@ -55016,6 +55022,10 @@
 .xlog-va.tiktokv.com
 .mcs-va.tiktokv.com
 .analytics.tiktok.com
+.bts-la.ucweb.com
+.intlsucus.ucweb.com
+.adtrack-intl.ucweb.com
+.mum.alibabachengdun.com
 .localytics.com
 .upoll.umengcloud.com
 .utop.umengcloud.com
