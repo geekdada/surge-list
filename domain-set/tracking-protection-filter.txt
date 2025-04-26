@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.harvest.graindata.com
+.watchtower.graindata.com
 .megadata.co.kr
 .easytomessage.com
 .unalytics.top
@@ -51438,6 +51440,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.pipeline.rd.nl
+.ocular.hotukdeals.com
 .telemetry.individual.githubcopilot.com
 .realtime-logger.production-public.tubi.io
 .log.kroffle.net
