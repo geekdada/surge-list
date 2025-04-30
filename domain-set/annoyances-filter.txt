@@ -157,6 +157,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.tasselapp.com
 .ticketjolly.com
 .fastenfather.com
 .stereotypedsugar.com

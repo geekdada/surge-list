@@ -131,7 +131,7 @@
 .srvgl.com
 .webmaxlogger.net
 .prodregistryv2.org
-.ads.mythad.com
+.mythad.com
 .ga2.getresponse.com
 .analytics.wikitide.net
 .shgcdn3.com
@@ -51720,6 +51720,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.intelligence.xnews.one
 .log.tosspayments.com
 .event.tosspayments.com
 .pipeline.rd.nl
@@ -51938,7 +51939,6 @@
 .stat.okko.tv
 .matomo.datago.ru
 .analytics.bigdata.samsung.com
-.logsdk.kwai-pro.com
 .w9g7dlhw3kaank.www.eldorado.gg
 .unl1zvy2zuyn.franchiseplus.nl
 .mt.gigazine.net
@@ -54597,7 +54597,6 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
-.ulogjs.ksapisrv.com
 .adashx4id.ut.taobao.com
 .analytics.us.tiktok.com
 .ads-privacy-api.prd.mz.internal.unity3d.com
@@ -55297,6 +55296,18 @@
 .yadro.ru
 .ymtracking.com
 .zdbb.net
+.csplog.kwai-pro.com
+.log-sdk.ksapisrv.com
+.logsdk.kwai-pro.com
+.ulog.ksapisrv.com
+.ulog.kwai-pro.com
+.ulog.kwaipros.com
+.ulog1-us.kwai-pro.com
+.ulog2-us.kwaipros.com
+.ulogjs.ksapisrv.com
+.ulogs1.ksapisrv.com
+.ulogs2.ksapisrv.com
+.wlog.ksapisrv.com
 .mcs.tiktokw.us
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .log.tiktokv.com
