@@ -110,6 +110,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.cmpv2.computerwoche.de
 .consent.bbcgoodfood.com
 .cmpv2.itworld.co.kr
 .cp.gutefrage.net
