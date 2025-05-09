@@ -5,6 +5,8 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .kib.hu
+.mrgr.me
+.analytics.turk.pro
 .metric-api.newrelic.com
 .conduit-beacon.mtvnservices.com
 .redfast.com
@@ -55080,6 +55082,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.t-odx.op-mobile.opera.com
 .stat-analytics.mediavitrina.ru
 .mob2.mymusic2025.com
 .mosspf.net
