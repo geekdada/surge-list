@@ -5,6 +5,7 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .kib.hu
+.imonomy.com
 .mrgr.me
 .analytics.turk.pro
 .metric-api.newrelic.com
@@ -511,7 +512,6 @@
 .shuzilm.cn
 .adxlog-adnet.vivo.com.cn
 .user-analysis.7moor.com
-.sirdata.io
 .t.counter.dev
 .cdn.counter.dev
 .log.collectaction.com
@@ -52128,6 +52128,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.tracking.apprubeus.com.br
+.tms.abconsent.com
 .ap.attainplatform.io
 .views-dual.hulu.com
 .ichnaea.dradis.netflix.com

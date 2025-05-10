@@ -1495,6 +1495,8 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.d335luupugsy2.cloudfront.net
+.kuolkoola.com
 .puhyjyf.com
 .speraspace.com
 .sendpush.net

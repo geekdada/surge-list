@@ -1338,6 +1338,8 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.d335luupugsy2.cloudfront.net
+.kuolkoola.com
 .puhyjyf.com
 .speraspace.com
 .sendpush.net
