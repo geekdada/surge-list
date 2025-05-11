@@ -5,6 +5,7 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .kib.hu
+.analizador.dphuesca.es
 .imonomy.com
 .mrgr.me
 .analytics.turk.pro
