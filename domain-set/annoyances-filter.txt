@@ -158,6 +158,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.bahamashello.com
 .sandstrophies.com
 .orangebirdie.com
 .knewpenny.com
