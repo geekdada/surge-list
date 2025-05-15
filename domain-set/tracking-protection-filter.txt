@@ -5,6 +5,12 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .kib.hu
+.adlink.wurl.com
+.miqdigital.com
+.imp.datafyhq.com
+.getrockerbox.com
+.tuhesok.com
+.advmusic.com
 .track.iegcom.com
 .af.click.ru
 .treconeanalytics.com

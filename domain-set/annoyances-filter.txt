@@ -158,6 +158,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.digithalo.com
 .bahamashello.com
 .sandstrophies.com
 .orangebirdie.com
@@ -2053,7 +2054,6 @@
 .netroxsc.ru
 .pinformer.sinoptik.ua
 .st.yagla.ru
-.static.elfsight.com
 .partner-widget.vse-sdal.com
 .perimeterx.widget.insent.ai
 .go.pardot.com
