@@ -5,6 +5,7 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .kib.hu
+.pix.pontiac.media
 .adlink.wurl.com
 .miqdigital.com
 .imp.datafyhq.com
@@ -52483,6 +52484,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.metrics.cs.money
 .counter-mdpr.freetls.fastly.net
 .vortex-dual.hulu.com
 .alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
