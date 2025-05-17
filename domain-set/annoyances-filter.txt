@@ -2063,6 +2063,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.vivocha.com
 .ac-chatbot.freebie-ac.jp
 .decagon.ai
 .widget.hireaiva.com
