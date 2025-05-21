@@ -114,6 +114,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.consent-manager.thenextweb.com
 .cmpv2.computerwoche.de
 .consent.bbcgoodfood.com
 .cmpv2.itworld.co.kr
