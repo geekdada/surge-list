@@ -1,5 +1,6 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.joyouspool.com
 .captivatingcanyon.com
 .digithalo.com
 .bahamashello.com
