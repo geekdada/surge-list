@@ -77,6 +77,7 @@
 .cookiefirst.com
 .hs-banner.com
 .hs-scripts.com
+.cookiehub.eu
 .cookiehub.net
 .cdn.opencmp.net
 .cookie-switch.viminds.de
@@ -159,6 +160,10 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.soilcontent.com
+.scenicchicago.com
+.boiledegglabs.com
+.agonyshark.com
 .joyouspool.com
 .captivatingcanyon.com
 .digithalo.com

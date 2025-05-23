@@ -80,6 +80,7 @@
 .fumblingform.com
 .aloofvest.com
 .hs-scripts.com
+.cookiehub.eu
 .cookiehub.net
 .cdn.opencmp.net
 .cookie-switch.viminds.de
