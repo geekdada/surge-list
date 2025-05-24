@@ -24,6 +24,7 @@
 .affilizz.com
 .gubagootracking.com
 .cdn.gubagoo.io
+.webchat-ui.citibot.net
 .webchat.bebot.io
 .kwizbot.io
 .quotiq.ru

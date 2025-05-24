@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.stat1.clickfraud.ru
+.gator.volces.com
 .justid.io
 .b.videoamp.com
 .pi.ispot.tv
@@ -54191,6 +54193,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.cdp.yna.co.kr
 .ingestion.webanalytics.italia.it
 .njoevqi1nx.hockerty.com
 .analytics.lunarclientprod.com
@@ -57156,6 +57159,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.fp-it.fengkongcloud.com
+.api-fp-retry-bj.fengkongcloud.com
 .app-tracking.hlogo.de
 .px.wpk.quark.cn
 .uc9.ucweb.com
@@ -57242,11 +57247,16 @@
 .log.documentmanagerpdfdocxlssale.live
 .stats.samsungpass.com
 .log.pdfviewerscannerstore.live
+.log-sg.capcutapi.com
+.mon-sg.capcutapi.com
+.tnc-sg.capcutapi.com
+.tnc-boot.capcutapi.com
+.tnc-va-us-looki.capcutapi.com
 .mon-va-us-looki.capcutapi.com
+.log-va-us-looki.capcutapi.com
 .metrics-prod.suno.com
 .logs-ingress.svc.vinted.com
 .analytics.baliusuperapp.xyz
-.log-va-us-looki.capcutapi.com
 .analytics.hardlightgames.com
 .plankton-gtm.a.autoscout24.com
 .pangle-b.io
@@ -57575,6 +57585,7 @@
 .collector.vhx.tv
 .analytics-server.gimbal.com
 .log-tb.sgsnssdk.com
+.rtlog.byteoversea.com
 .xlog.byteoversea.com
 .ug-sg.byteoversea.com
 .tracking.aldi-international.com
