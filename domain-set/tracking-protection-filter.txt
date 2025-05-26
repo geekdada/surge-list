@@ -54195,6 +54195,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.experiment-variant.baemin.com
 .cdp.yna.co.kr
 .ingestion.webanalytics.italia.it
 .njoevqi1nx.hockerty.com
