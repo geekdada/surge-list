@@ -1,3 +1,4 @@
+.consent.studio
 .cmpv2.tori.fi
 .cookies.pro-idea.cz
 .cookies.praguebest.cz
@@ -160,6 +161,11 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.thefishstops.com
+.themepicker.com
+.cartelsalsa.com
+.precisear.com
+.zipthelake.com
 .subseaagent.com
 .soilcontent.com
 .scenicchicago.com
@@ -1506,6 +1512,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.cdn.pushloop.io
 .d335luupugsy2.cloudfront.net
 .kuolkoola.com
 .puhyjyf.com

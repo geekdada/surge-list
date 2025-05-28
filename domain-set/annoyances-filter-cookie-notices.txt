@@ -1,3 +1,4 @@
+.consent.studio
 .podname.com
 .cmpv2.tori.fi
 .cookies.pro-idea.cz

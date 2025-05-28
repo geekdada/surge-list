@@ -1,5 +1,10 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.thefishstops.com
+.themepicker.com
+.cartelsalsa.com
+.precisear.com
+.zipthelake.com
 .subseaagent.com
 .soilcontent.com
 .scenicchicago.com
@@ -1347,6 +1352,7 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.cdn.pushloop.io
 .d335luupugsy2.cloudfront.net
 .kuolkoola.com
 .puhyjyf.com

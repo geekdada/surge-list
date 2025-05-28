@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.t.tnafpt.com
+.getmetrical.com
+.trt-scripts.usedrop.io
+.trt.usedrop.io
+.pj.l.liftdsp.com
 .beacon.geniee.jp
 .xanalytics.vip
 .stat1.clickfraud.ru
@@ -54165,6 +54170,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.flxr.myplan-c.com
+.seghg.hottopic.com
+.imgsct.cookiebot.com
+.img.sct.eu1.usercentrics.eu
+.segapi.splice.com
 .t.illuma-tech.com
 .experiment-variant.baemin.com
 .cdp.yna.co.kr
