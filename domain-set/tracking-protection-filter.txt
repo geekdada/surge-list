@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.trueprofit.io
 .reco.target2sell.com
 .t.tnafpt.com
 .getmetrical.com
@@ -923,7 +924,8 @@
 .bvr.ast.snva.jp
 .kantartns.lt
 .trk2-wtb.swaven.com
-.firstpromoter.com
+.t.firstpromoter.com
+.cdn.firstpromoter.com
 .st.hbrd.io
 .sgtm.sefamerve.com
 .analytics-api.statvoo.com
@@ -57147,6 +57149,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.smartcard.apps.coloros.com
 .fp-it.fengkongcloud.com
 .api-fp-retry-bj.fengkongcloud.com
 .app-tracking.hlogo.de
