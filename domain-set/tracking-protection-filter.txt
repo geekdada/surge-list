@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.smb-ecommerce-upsell.rokt.com
 .trueprofit.io
 .reco.target2sell.com
 .t.tnafpt.com
@@ -54173,6 +54174,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.statistics-collector-api.listglobally.com
 .telegraph.prd.api.bleacherreport.com
 .gmss.use1.prd.api.discomax.com
 .events.shoplift.ai
@@ -57149,6 +57151,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.hz-telemetry.adobe.io
 .smartcard.apps.coloros.com
 .fp-it.fengkongcloud.com
 .api-fp-retry-bj.fengkongcloud.com
