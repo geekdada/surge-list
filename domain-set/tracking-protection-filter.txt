@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.muses.org
 .smb-ecommerce-upsell.rokt.com
 .trueprofit.io
 .reco.target2sell.com
