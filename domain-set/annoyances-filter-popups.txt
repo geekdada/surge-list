@@ -1,5 +1,6 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.neatbadger.com
 .canvasandsocks.com
 .thefishstops.com
 .themepicker.com
