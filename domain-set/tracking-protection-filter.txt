@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.yandexmetrica.com
+.sr-client-cfg.amplitude.com
+.regionconfig.amplitude.com
+.profile-api.amplitude.com
 .analytics.muses.org
 .smb-ecommerce-upsell.rokt.com
 .trueprofit.io
@@ -54219,6 +54223,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.e.aimerce.ai
+.j0v36abmdj.execute-api.us-east-1.amazonaws.com
+.lumberjack-metrics.razorpay.com
 .statistics-collector-api.listglobally.com
 .telegraph.prd.api.bleacherreport.com
 .gmss.use1.prd.api.discomax.com
@@ -54484,7 +54491,6 @@
 .afl.rozetka.com.ua
 .c783.fastcompany.com
 .event.northghost.com
-.profile-api.amplitude.com
 .f793.inc.com
 .mytop.live.vkvideo.ru
 .event.newsbreak.com
