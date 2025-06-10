@@ -7,7 +7,6 @@
 .rss.tc
 .blog-rss.com
 .rssfetcher.blogsys.jp
-.rssrank.net
 .tanganrss.com
 .blogroll.matome-alpha.com
 .komatech.net
@@ -20,7 +19,6 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
-.client.contents-search-windows.com
 .affilizz.com
 .gubagootracking.com
 .cdn.gubagoo.io
@@ -56,7 +54,6 @@
 .form.cloudleadia.com
 .consultsystems.ru
 .cp.onicon.ru
-.cp.skibble.com.ua
 .digital-interview.com
 .dtbot.directtalk.com.br
 .easyliao.com
@@ -100,10 +97,8 @@
 .client.crisp.chat
 .clients.streamwood.ru
 .clloudia.com
-.code.blablateka.com
 .comagic.ru
 .envybox.io
-.epleads.ru
 .extraaedge.com
 .eyenewton.ru
 .fastcallagent.com
@@ -193,7 +188,6 @@
 .widget.replain.cc
 .widget.chatbullet.com
 .showtalk.jp
-.sge-chat.skorpik.ru
 .uhchat.net
 .wat.atms.at
 .widget.feedot-lawyer.ru

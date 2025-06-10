@@ -32,7 +32,6 @@
 .cmp.datasign.co
 .soglkuki.prolexgroup.ru
 .clickiocmp.com
-.cdn.izinal.com
 .fastcmp.com
 .cookiemanager.dk
 .cookies.fo
@@ -62,7 +61,6 @@
 .ccm19.de
 .cookie-widget.ru
 .legalmonster.com
-.consentmanager.firststars.io
 .up-cookiemon.wavecdn.net
 .cdn.privacytools.com.br
 .goadopt.io

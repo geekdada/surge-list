@@ -21,7 +21,6 @@
 .button.flattr.com
 .cdn.wibiya.com
 .changetip.com
-.coverweb.org
 .filamentapp-assets.s3.amazonaws.com
 .filamentapp.s3.amazonaws.com
 .lessbuttons.com
@@ -32,7 +31,6 @@
 .share.yandex.ru
 .shareaholic.com
 .sharethis.com
-.shorte.st
 .static.hootsuite.com
 .sumome-140a.kxcdn.com
 .taboolasyndication.com
