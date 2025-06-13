@@ -1,5 +1,6 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.boatpaper.com
 .neatbadger.com
 .canvasandsocks.com
 .thefishstops.com
@@ -925,7 +926,6 @@
 .catchynews.net
 .cdn.carrotquest.io
 .cdn.gravitec.net
-.cdn.instadrama.site
 .cdn.letreach.com
 .cdn.mxapis.com
 .cdn.p-n.io

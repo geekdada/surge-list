@@ -1,3 +1,4 @@
+.privacy.condenastdigital.com
 .consent.studio
 .podname.com
 .cmpv2.tori.fi
