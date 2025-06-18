@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.superboosty.com
+.dyn-rev.app
+.bxtag.com
 .api.melonity.gg
 .replay.reviews.io
 .ads-alpha.ewscloud.com
@@ -53999,6 +54002,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.sp.stapecdn.com
+.cdn.powerinboxedge.com
 .tracker.ris.promo
 .nid.thesun.co.uk
 .stats.anime-go.cc
@@ -56949,6 +56954,12 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.ads-img-al.xhscdn.com
+.apm-native.xiaohongshu.com
+.apm-fe.xiaohongshu.com
+.apm-track.xiaohongshu.com
+.edith.xiaohongshu.com
+.edith-seb.xiaohongshu.com
 .rtc-logger.bytevcloud.com
 .gpm-mon-va.byteoversea.com
 .logs-sg.rebxgame.com
