@@ -198,7 +198,6 @@
 .jubilanttempest.com
 .hospitablehat.com
 .majesticwilderness.com
-.makesimpact.com
 .quillkick.com
 .quicklyedit.com
 .sprysummit.com
@@ -336,7 +335,6 @@
 .jubilantglimmer.com
 .burlywhistle.com
 .resplendentecho.com
-.halcyoncanyon.com
 .dependenttrip.com
 .rememberdiscussion.com
 .zephyrlabyrinth.com
@@ -368,7 +366,6 @@
 .pointlessprofit.com
 .defeatedbadge.com
 .haltingdivision.com
-.deliciousducks.com
 .exhibitsneeze.com
 .meadowlullaby.com
 .flameuncle.com
@@ -939,7 +936,6 @@
 .startingcars.com
 .zestyhorizon.com
 .connectashelf.com
-.rigidveil.com
 .happysponge.com
 .sparkgoal.com
 .impulselumber.com
@@ -982,7 +978,6 @@
 .chatinator.com
 .code.clicktex.ru
 .elp.evolok.net
-.leadpages.co
 .mailget.net
 .messenger.ngageics.com
 .milotree.com
@@ -1047,7 +1042,6 @@
 .a.trstplse.com
 .abcnewspro.com
 .achilles-ena.com
-.actirinius.com
 .actuanius.com
 .adsblockkpush.com
 .alerts.hungama.com
@@ -1160,10 +1154,8 @@
 .magarimot.com
 .mailer.i.bizml.ru
 .majorworker.com
-.master-push.com
 .master-push.net
 .maylohack.ru
-.mediaboom.site
 .meladonicum.com
 .merdihatus.com
 .moengage.com
@@ -1254,7 +1246,6 @@
 .reallypab.com
 .realpush.media
 .relateddigital.com
-.reprocautious.com
 .rocket-push.com
 .rokettsaince.com
 .rushhips.com
@@ -1348,6 +1339,7 @@
 .app.convertbox.com
 .app.conversiobot.com
 .sdk.getsitekit.com
+.web.webformscr.com
 .engine.findaphd.com
 .alertme.news
 .ipepostman.com

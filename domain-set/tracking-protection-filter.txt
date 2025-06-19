@@ -1191,7 +1191,6 @@
 .socketviking.net
 .analytics.omniscientai.com
 .omnitag.omniscientai.com
-.backend.turtlemobile.com.tw
 .batmobile.com.tw
 .analytik.xyz
 .df.pmweb.com.br
@@ -54002,6 +54001,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.pixeldrain.com
+.dd.reuters.com
+.nexus.uniten.io
+.rusty-heartbeat.services.ps.axelspringer.de
+.uac.mk.co.kr
 .sp.stapecdn.com
 .cdn.powerinboxedge.com
 .tracker.ris.promo
@@ -55596,7 +55600,6 @@
 .d81mfvml8p5ml.cloudfront.net
 .d169bbxks24g2u.cloudfront.net
 .d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
-.dadi.technology
 .daq0d0aotgq0f.cloudfront.net
 .data-collector.wefi.com
 .data.mob.com
@@ -55812,7 +55815,6 @@
 .l.ti-da.net
 .l.typesquare.com
 .l.www.naver.com
-.lb.secureweb24.net
 .lcs.modoo.at
 .lcs.naver.com
 .lexip.4pcdn.de
@@ -56954,11 +56956,14 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.clientlog.perfectworldgames.com
+.log1.perfectworldgames.com
+.log2.perfectworldgames.com
+.dlog.perfectworldgames.com
 .ads-img-al.xhscdn.com
 .apm-native.xiaohongshu.com
 .apm-fe.xiaohongshu.com
 .apm-track.xiaohongshu.com
-.edith.xiaohongshu.com
 .edith-seb.xiaohongshu.com
 .rtc-logger.bytevcloud.com
 .gpm-mon-va.byteoversea.com
