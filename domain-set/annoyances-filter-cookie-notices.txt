@@ -89,6 +89,7 @@
 .oil.axelspringer.com
 .consent.cmp.oath.com
 .cookielaw.org
+.cookiebot.com
 .cookie.pearshealthcyber.com
 .delivery.consentmanager.net
 .confirmic.com

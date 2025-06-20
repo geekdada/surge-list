@@ -86,6 +86,7 @@
 .oil.axelspringer.com
 .consent.cmp.oath.com
 .cookielaw.org
+.cookiebot.com
 .cookie.pearshealthcyber.com
 .delivery.consentmanager.net
 .confirmic.com
@@ -159,6 +160,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.simulateswing.com
 .boatpaper.com
 .neatbadger.com
 .canvasandsocks.com
