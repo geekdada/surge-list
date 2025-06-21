@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tg.meitu.com
 .telemetrydeck.com
 .usrpubtrk.com
 .superboosty.com
@@ -2577,7 +2578,6 @@
 .interaktiv-net.de
 .interceptum.com
 .intergid.ru
-.intergient.com
 .interhits.de
 .internetmap.info
 .interstateanalytics.com
@@ -14580,7 +14580,6 @@
 .dogo.intel.co.jp
 .dogo.intel.co.kr
 .dogo.intel.co.uk
-.dogo.intel.com
 .dogo.intel.com.au
 .dogo.intel.com.br
 .dogo.intel.com.tw
