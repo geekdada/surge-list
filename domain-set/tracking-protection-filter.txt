@@ -54002,6 +54002,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.reqstat.api.mega.co.nz
 .tracker.projektn.sk
 .stats.pixeldrain.com
 .dd.reuters.com
