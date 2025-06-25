@@ -63,6 +63,7 @@
 .mooncrustpizza.com
 .furnstudio.com
 .enterdrama.com
+.friendlycrayon.com
 .mowgoats.com
 .skullmagnets.com
 .bearmoonlodge.com
@@ -223,7 +224,6 @@
 .truculentrate.com
 .ethereallagoon.com
 .tranquilcanyon.com
-.friendlycrayon.com
 .fewkittens.com
 .inquisitiveice.com
 .delicatecascade.com
