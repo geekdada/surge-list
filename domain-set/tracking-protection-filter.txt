@@ -53261,6 +53261,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ss.samolet.ru
 .agent-server.sc-api.seaart.ai
 .reqstat.api.mega.co.nz
 .tracker.projektn.sk
