@@ -1523,7 +1523,6 @@
 .reindaks.com
 .go.rcvlinks.com
 .uniqodo.com
-.collectfasttracks.com
 .realizerecess.com
 .pixel.advertising.com
 .id5-sync.com
@@ -1698,7 +1697,6 @@
 .artfut.com
 .13p76nnir.de
 .smrtb.com
-.tgdaudience.com
 .quadran.eu
 .piwik.pro
 .audiens.com
@@ -3004,7 +3002,6 @@
 .proclivitysystems.com
 .productsup.com
 .proext.com
-.projeanaliz.com
 .projectsunblock.com
 .promotionengine.com
 .proofpositivemedia.com
@@ -3045,7 +3042,6 @@
 .ranking-charts.de
 .ranking-counter.de
 .ranking-hits.de
-.ranking-links.de
 .rankingpartner.com
 .rankings24.de
 .rankinteractive.com
@@ -3073,8 +3069,6 @@
 .referforex.com
 .refersion.com
 .refinedads.com
-.reinvigorate.net
-.rejestr.org
 .relead.com
 .reliablecounter.com
 .relmaxtop.com
@@ -53266,6 +53260,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.d30qdagvt44524.cloudfront.net
+.tracker-beam.aktuality.sk
 .collector.fullxh.com
 .collector.xhamster.com
 .ss.samolet.ru
@@ -54663,7 +54659,6 @@
 .beacon.ehow.com
 .beacon.gu-web.net
 .beacon.gutefrage.net
-.beacon.indieclicktv.com
 .beacon.itmedia.jp
 .beacon.kmi-us.com
 .beacon.lycos.com
@@ -56615,7 +56610,6 @@
 .tobapplog.ctobsnssdk.com
 .t.castle.io
 .bs.nakanohito.jp
-.log1.happymod.com
 .log.pvpgang.com
 .crs-event.line.me
 .crs-hometab-event.line.me
