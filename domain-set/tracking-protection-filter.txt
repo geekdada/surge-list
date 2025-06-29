@@ -493,7 +493,6 @@
 .spiny.ai
 .c.blockdetector.org
 .sailthru.com
-.canarytokens.com
 .track.lemmatechnologies.com
 .wiseref.com
 .swetrix.org
@@ -1740,7 +1739,6 @@
 .auth.bz
 .privymktg.com
 .longertail.pl
-.fmnetwork.nl
 .izooto.com
 .userreplay.net
 .smartlook.com
@@ -2099,15 +2097,12 @@
 .cmcore.com
 .cmmeglobal.com
 .cmptch.com
-.cms.lv
 .cnetcontentsolutions.com
 .cnstats.ru
 .cnt1.net
 .cnzz.com
 .cnzz.net
 .codata.ru
-.cogmatch.net
-.cognitivematch.com
 .cointent.com
 .collarity.com
 .collserve.com
@@ -2143,7 +2138,6 @@
 .count.fr
 .count24.de
 .countar.de
-.counter-go.de
 .counter-gratis.com
 .counter-kostenlos.info
 .counter-kostenlos.net
@@ -2608,7 +2602,6 @@
 .ipinyou.com.cn
 .iplocationtools.com
 .ipro.com
-.iqfp1.com
 .ist-track.com
 .istat24.com
 .istats.nl
@@ -2792,7 +2785,6 @@
 .mr-rank.de
 .msgapp.com
 .mtrack.nl
-.mtracking.com
 .musiccounter.ru
 .mvtracker.com
 .mxcdn.net
@@ -2907,7 +2899,6 @@
 .openinternetexchange.com
 .openinternetexchange.net
 .opentracker.net
-.openvenue.com
 .oproi.com
 .optimierung-der-website.de
 .optimix.asia
@@ -3042,7 +3033,6 @@
 .ranking-charts.de
 .ranking-counter.de
 .ranking-hits.de
-.rankingpartner.com
 .rankings24.de
 .rankinteractive.com
 .ranklink.de
@@ -3129,7 +3119,6 @@
 .sciencerevenue.com
 .scorecardresearch.com
 .scounter.rambler.ru
-.scrippscontroller.com
 .scriptil.com
 .scripts21.com
 .scriptshead.com
@@ -3338,7 +3327,6 @@
 .tetoolbox.com
 .thebestlinks.com
 .thecounter.com
-.thermstats.com
 .thesearchagency.net
 .thestat.net
 .thetrafficstat.net
@@ -3410,9 +3398,7 @@
 .trailheadapp.com
 .trakken.de
 .treehousei.com
-.trendcounter.de
 .trendemon.com
-.triggeredmessaging.com
 .triggit.com
 .trkjmp.com
 .tru.am
@@ -3467,7 +3453,6 @@
 .videos.oms.eu
 .videostat.com
 .vidigital.ru
-.viewar.org
 .vihtori-analytics.fi
 .vinlens.com
 .vinsight.de
@@ -3593,7 +3578,6 @@
 .www.hey.lt
 .www.net.kg
 .wysistat.com
-.wzrk.co
 .x-stat.de
 .x-traceur.com
 .xclaimwords.net
@@ -3615,7 +3599,6 @@
 .yieldsoftware.com
 .yjtag.jp
 .yoochoose.net
-.youcanoptout.com
 .youramigo.com
 .zanox-affiliate.de
 .zanox.com
@@ -35911,7 +35894,6 @@
 .source-ed91a21bf0.dastelefonbuch.de
 .wp-test.infonline.de
 .www2.dk-online.de
-.keyade.net
 .keyade.com
 .click-ext.anxa.com
 .clk.ubi.com
@@ -55658,7 +55640,6 @@
 .t.wayfair.com
 .t.webjavaskript.net
 .t.wizards.com
-.t1.musthird.com
 .t2.hulu.com
 .t2.huluim.com
 .ta.trs.cn
@@ -56908,7 +56889,6 @@
 .installtracker.com
 .krxd.net
 .lepodownload.mediatek.com
-.log.droid4x.cn
 .log.umsns.com
 .lp4.io
 .metrics.adflake.com
@@ -56917,9 +56897,7 @@
 .mobile-collector.newrelic.com
 .mobilelog.upqzfile.com
 .ms.cmcm.com
-.mtlog.droid4x.cn
 .nativesdks.mparticle.com
-.nlog.droid4x.cn
 .nrc.tapas.net
 .online-metrix.net
 .openstat.net
