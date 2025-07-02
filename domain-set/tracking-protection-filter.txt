@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.dashboard.heatmap.com
+.cdn.listrakbi.com
+.cdn.aimtell.com
+.upstackified.com
+.upstackdata.io
 .ana.uhyou.com
 .analytics.ticimax.cloud
 .adsmoloco.com
@@ -379,7 +384,6 @@
 .events-ingestion.services.gorgias.com
 .accuratecoal.com
 .sdk-cdn.optimove.net
-.datadome.co
 .metrics.kmsmep.com
 .cs.zg-api.com
 .e.zg-api.com
@@ -2915,6 +2919,7 @@
 .pages05.net
 .pagesense.com
 .parameter.dk
+.parklogic.com
 .parrable.com
 .pass-1234.com
 .pc-agency24.de
@@ -53560,6 +53565,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.inbound-analytics.pixlee.co
+.connect.blockboardtech.com
+.analytics.macpaw.com
+.mtg.macpaw.com
 .demeter-tr-core-collect.trendyol.com
 .lc-event.pixiv.net
 .count.ing.de
