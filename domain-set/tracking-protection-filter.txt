@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.transaction-watcher-2.littledata.io
+.mirabelanalytics.com
 .dashboard.heatmap.com
 .cdn.listrakbi.com
 .cdn.aimtell.com
@@ -53565,6 +53567,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.m.techpump.com
+.d1vg5xiq7qffdj.cloudfront.net
 .inbound-analytics.pixlee.co
 .connect.blockboardtech.com
 .analytics.macpaw.com
@@ -54331,7 +54335,6 @@
 .tracking.epicgames.com
 .tracking.fortnite.com
 .log.znews.vn
-.aem-kakao-collector.onkakao.net
 .cellar-analytics.mapion.co.jp
 .event.hackle.io
 .r.aachener-zeitung.de
