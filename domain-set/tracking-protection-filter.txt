@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ecommerce-events.adscale.com
+.adbeacon.com
 .transaction-watcher-2.littledata.io
 .mirabelanalytics.com
 .dashboard.heatmap.com
@@ -2198,7 +2200,8 @@
 .dapxl.com
 .dashboard.io
 .databrain.com
-.datacaciques.com
+.pv.datacaciques.com
+.gate.datacaciques.com
 .datafeedfile.com
 .datam.com
 .datamaster.com.cn
@@ -53567,6 +53570,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.cdn.instant.one
 .m.techpump.com
 .d1vg5xiq7qffdj.cloudfront.net
 .inbound-analytics.pixlee.co
@@ -56533,6 +56537,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.eats-ads-event-capture.coupang.com
 .tracking.trackchecker.net
 .clientlog.perfectworldgames.com
 .log1.perfectworldgames.com
