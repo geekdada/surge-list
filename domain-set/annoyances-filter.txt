@@ -1897,6 +1897,7 @@
 .coin-hive.com
 .coinhive.com
 .point.widget.rakuten.co.jp
+.creatives-promo.telegraaf.nl
 .backgrounds.wetransfer.net
 .usefomo.com
 .shop.kicker.de
