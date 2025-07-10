@@ -24,10 +24,12 @@ DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 
 # Others
-DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-KEYWORD,perplexity
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,agumentcode.com
+DOMAIN-KEYWORD,agumentcode
+DOMAIN-KEYWORD,diabrowser
 
+# Global
 DOMAIN-SUFFIX,ai
