@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.stat.adtec.ru
 .eventlog-aws.jftechws.com
 .preflect.com
 .api.whizeo.com
