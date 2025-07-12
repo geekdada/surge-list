@@ -56243,6 +56243,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.clckdm.domclick.ru
+.seo-service.domclick.ru
 .ping.fastsimon.com
 .adtcdn.unidadeditorial.es
 .pixelcounter.marca.com
