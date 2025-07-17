@@ -4,6 +4,13 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.increasingcustomers-tag.com
+.tag.prospectdesk.ai
+.t2.profityi.com
+.register.boostymark.com
+.data.armexdef.uk
+.video-intel.pixels.ai
+.video.pixels.ai
 .tracking.upfluence.co
 .t.adclr.jp
 .stat.adtec.ru
@@ -273,7 +280,6 @@
 .ad.aceplanet.co.kr
 .joinmassive.com
 .notix.io
-.pub.pixels.ai
 .data.tm-awx.com
 .eu-1-id5-sync.com
 .octotracking.com
@@ -64803,6 +64809,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.uxlog.next.koapp.com
 .affiliate.kinguin.net
 .stats.itc.ua
 .clckdm.domclick.ru
