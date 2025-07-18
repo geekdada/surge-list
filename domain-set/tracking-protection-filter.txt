@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.apptracer.ru
+.mellow.tel
+.retargetingcloud.com
+.spotlersearchanalytics.com
 .increasingcustomers-tag.com
 .tag.prospectdesk.ai
 .t2.profityi.com
@@ -64809,6 +64813,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.windsurf-telemetry.codeium.com
 .uxlog.next.koapp.com
 .affiliate.kinguin.net
 .stats.itc.ua

@@ -1,3 +1,4 @@
+.cookies.nos.nl
 .privacy.condenastdigital.com
 .consent.studio
 .podname.com
