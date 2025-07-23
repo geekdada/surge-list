@@ -1512,6 +1512,7 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.static.groobee.io
 .sdk.postscript.io
 .cdn.wheelio-app.com
 .pop.unitedgate.co.jp

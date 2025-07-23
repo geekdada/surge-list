@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log.xpln.tech
+.stape.ac
+.stats.spreadsimple.com
+.jmlp.app
+.aimerce.ai
 .abr.ge
 .sdk-log.airbridge.io
 .tagservice.maximus.mobkoi.com
