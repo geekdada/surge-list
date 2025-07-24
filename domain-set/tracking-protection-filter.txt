@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.ssmas.com
 .log.xpln.tech
 .stape.ac
 .stats.spreadsimple.com
