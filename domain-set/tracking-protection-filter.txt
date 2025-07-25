@@ -67237,6 +67237,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.lg3.media.net
+.navvy.media.net
+.app-tracking-gfa-collector.naver.com
 .windsurf-telemetry.codeium.com
 .uxlog.next.koapp.com
 .affiliate.kinguin.net
@@ -68342,7 +68345,6 @@
 .static.affiliatly.com
 .client-analytics.mts.ru
 .analytics-wcms.joins.net
-.as.tarnkappe.info
 .analytics.mall.tv
 .log.etoday.co.kr
 .u.zhugeapi.net

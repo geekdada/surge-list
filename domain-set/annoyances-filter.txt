@@ -160,6 +160,7 @@
 .cookiewarden-content.teb.com.tr
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.profanstee.com
 .urbanlaurel.com
 .franksfloral.com
 .wavesmachine.com
