@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.loadweb.com
 .mellowtel.com
 .datastat.me
 .scripts.dadata.com.br

@@ -1564,6 +1564,8 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.my-pu.sh
+.puuush.me
 .push.reamaze.com
 .cdn.pushloop.io
 .d335luupugsy2.cloudfront.net

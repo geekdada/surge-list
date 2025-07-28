@@ -1405,6 +1405,8 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.my-pu.sh
+.puuush.me
 .push.reamaze.com
 .cdn.pushloop.io
 .d335luupugsy2.cloudfront.net
