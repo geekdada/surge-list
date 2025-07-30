@@ -16,7 +16,6 @@
 .cmp.dreamplusgames.com
 .service-cmp.com
 .consent.nitrocnct.com
-.collector.appconsent.io
 .cdn.cookiesuit.com
 .transcend-cdn.com
 .cmp.sibbo.net

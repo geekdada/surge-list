@@ -60671,6 +60671,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.aem-kakao-collector.onkakao.net
+.slc.commerce.naver.com
 .a.klaviyo.com
 .nlog.shinhan.com
 .cdn.js.fpaudience.com
@@ -61201,7 +61203,6 @@
 .track.amebame.com
 .pks-analytics.raenonx.cc
 .pyxis.atp.fox
-.collector.appconsent.io
 .r.sib2.gardrops.com
 .nst.trex.media
 .pixel.kodixauto.ru
@@ -63662,6 +63663,12 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.gamedot.afafb.com
+.tadata.afafb.com
+.ecpm.afafb.com
+.mediation-receiver.afafb.com
+.df.afafb.com
+.middle-defend.afafb.com
 .pangolin-sdk-toutiao.com
 .stat.tpns.sgp.tencent.com
 .guid.tpns.sgp.tencent.com
