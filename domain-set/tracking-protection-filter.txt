@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.1p-data.com
+.customerlabs.co
 .analytics.yyggames.com
 .attribution.airbridge.io
 .event.airbridge.io
@@ -60671,6 +60673,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.iws2.io.naver.com
+.clog.tanshudata.com
+.gw.stape.fr
+.analytics-ipv6.tiktokw.us
 .aws-analytics.nmg.com.hk
 .starman.usefathom.com
 .eu.usefathom.com
