@@ -1,5 +1,6 @@
 .7q1z79gxsi.global.ssl.fastly.net
 .eurogamer-uk.eurogamer.net
+.loadedhearts.com
 .hellounbox.com
 .askdriver.com
 .profanstee.com
