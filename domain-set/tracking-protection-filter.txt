@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.alexametrics.com
 .1p-data.com
 .customerlabs.co
 .analytics.yyggames.com
@@ -50,7 +51,6 @@
 .stapecdn.com
 .jollyoutdoorjogger.com
 .ob.esnlocco.com
-.ecommerce-events.adscale.com
 .adbeacon.com
 .transaction-watcher-2.littledata.io
 .mirabelanalytics.com
@@ -63118,6 +63118,18 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.wphlvzycf5.execute-api.eu-west-2.amazonaws.com
+.mp.cwtv.com
+.logapi.sooplive.com
+.log-api.sooplive.com
+.telemetry.proton.me
+.analytics.tempmail100.com
+.telemetry.sgp.pvp.net
+.copilot-telemetry.githubusercontent.com
+.metrics.kapa.ai
+.analytics.org.coveo.com
+.analytics.zdassets.com
+.analytics.flexclip.com
 .iws2.io.naver.com
 .clog.tanshudata.com
 .gw.stape.fr
@@ -66119,6 +66131,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.analytics.nianticspatial.com
 .statistical-report.djiservice.org
 .qcloud-sg-datareceiver.kurogame.xyz
 .statistic-overseas.yunxinfw.com
