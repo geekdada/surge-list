@@ -158,6 +158,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.web-chat.global.assistant.watson.appdomain.cloud
 .vivocha.com
 .ac-chatbot.freebie-ac.jp
 .decagon.ai
