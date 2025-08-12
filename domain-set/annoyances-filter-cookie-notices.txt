@@ -115,6 +115,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.cmp.bonniernews.se
 .cmp.dynamic.deka.de
 .consent-manager.thenextweb.com
 .cmpv2.computerwoche.de
