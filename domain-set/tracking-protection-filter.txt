@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.consolidata.ai
 .analytics.google.com
 .log.trend.rankify.best
 .alexametrics.com
@@ -61396,6 +61397,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.dsp.newsbreak.com
+.a.wb.ru
+.stats.vidalytics.com
 .ts-analysis.shoalter.com
 .targetyo.yogiyo.co.kr
 .wphlvzycf5.execute-api.eu-west-2.amazonaws.com
@@ -64410,6 +64414,11 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.adash-emas.cn-hangzhou.aliyuncs.com
+.dfe.mic.mob.com
+.dutils.com
+.openlog.tapapis.cn
+.log.aliyuncs.com
 .analytics.nianticspatial.com
 .statistical-report.djiservice.org
 .qcloud-sg-datareceiver.kurogame.xyz
@@ -65735,6 +65744,7 @@
 .fairygaze.com
 .fairytaleflame.com
 .faithrowold.com
+.fakedisguise.com
 .fallaciousfifth.com
 .falseframe.com
 .falsesight.com
@@ -65952,6 +65962,7 @@
 .hikingbars.com
 .hilariouszinc.com
 .historicalbeam.com
+.historytrade.com
 .hocgeese.com
 .hollowafterthought.com
 .homebizplaza.com
@@ -66177,6 +66188,7 @@
 .mimosamajor.com
 .mindfulgem.com
 .mindlessmark.com
+.mineinvoice.com
 .minorcattle.com
 .minuteburst.com
 .miscreantmoon.com
