@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics-api.gemcommerce.com
+.slgnt.eu
+.slgnt.us
 .consolidata.ai
 .analytics.google.com
 .log.trend.rankify.best
@@ -63004,6 +63007,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics.cosmopolitanmag.com.tr
 .clck.edadeal.ru
 .analytics-cdn.levante-emv.com
 .analytics-cdn.prensaiberica.es
@@ -64016,7 +64020,6 @@
 .dsas.danawa.com
 .t.apkpure.net
 .weblog.woowa.in
-.site-azp.slgnt.eu
 .pra.praxis.nl
 .tracker.samplicio.us
 .visit.xchina.pics
@@ -65029,7 +65032,6 @@
 .mms.splinternews.com
 .mms.syracuse.com
 .mms.theroot.com
-.mobile.slgnt.eu
 .momowa.momoshop.com.tw
 .monitor-targeting-failures.sqrt-5041.de
 .monitoring.youronlinechoices.com
@@ -67568,6 +67570,7 @@
 .humdrumtouch.com
 .humourspot.com
 .hurtgrape.com
+.hustlercoach.com
 .hydraconcept.com
 .hyperlegend.com
 .hypnoticwound.com
@@ -67648,6 +67651,7 @@
 .lackadaisicalkite.com
 .lameletters.com
 .lamplow.com
+.landkarts.com
 .landlordspy.com
 .landwestern.com
 .largebrass.com
