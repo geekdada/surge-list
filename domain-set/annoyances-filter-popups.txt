@@ -62,6 +62,7 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.tel1mekar.com
 .my-pu.sh
 .puuush.me
 .push.reamaze.com

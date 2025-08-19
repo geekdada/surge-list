@@ -227,6 +227,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.tel1mekar.com
 .my-pu.sh
 .puuush.me
 .push.reamaze.com
