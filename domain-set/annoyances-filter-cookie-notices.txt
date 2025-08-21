@@ -1,3 +1,4 @@
+.sp.api.no
 .cmp.bonniernews.se
 .cookies.nos.nl
 .privacy.condenastdigital.com

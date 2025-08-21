@@ -1,3 +1,4 @@
+.sp.api.no
 .cmp.bonniernews.se
 .cookies.nos.nl
 .privacy.condenastdigital.com
@@ -605,6 +606,7 @@
 .affilizz.com
 .gubagootracking.com
 .cdn.gubagoo.io
+.chat.quickcep.com
 .webchat-ui.citibot.net
 .webchat.bebot.io
 .kwizbot.io
