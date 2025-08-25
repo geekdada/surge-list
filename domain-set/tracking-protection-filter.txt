@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tagm.uneedcomms.com
 .openstats.co
 .http-inputs-notion.splunkcloud.com
 .sentinelpro.com
@@ -66108,7 +66109,6 @@
 .log-api.sooplive.com
 .telemetry.proton.me
 .analytics.tempmail100.com
-.telemetry.sgp.pvp.net
 .copilot-telemetry.githubusercontent.com
 .metrics.kapa.ai
 .analytics.org.coveo.com
