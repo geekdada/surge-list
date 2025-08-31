@@ -378,6 +378,7 @@
 .push.delivery.ethinking.de
 .gu7socdn.txxx.com
 .cdn.pushowl.com
+.ext.spinwheelapp.com
 .omnisnippet1.com
 .maillist-manage.com
 .embed.secondstreetapp.com
