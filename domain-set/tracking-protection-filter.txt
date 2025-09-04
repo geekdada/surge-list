@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.highway.cablecar.sph.com.sg
+.i.posthog.com
 .app.optibase.io
 .abtshield.com
 .track.fusionmedia.io
@@ -46,7 +48,6 @@
 .rtg.rubiconredirect.com
 .beacon.gtv-pub.com
 .analytics-api.gemcommerce.com
-.slgnt.eu
 .slgnt.us
 .consolidata.ai
 .analytics.google.com
@@ -65053,6 +65054,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.site-see.slgnt.eu
+.site-azp.slgnt.eu
+.mobile.slgnt.eu
 .cvt1.sibnet.ru
 .analytics.egdata.app
 .analytics.shutterstock.com
