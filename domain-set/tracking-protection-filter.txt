@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mc.yango.com
 .stat.khanate.pro
 .tolt.io
 .cloudfilt.com
