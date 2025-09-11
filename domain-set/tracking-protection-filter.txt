@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.bridged.media
+.cdn.dfsdk.com
+.cdn.deviceinf.com
+.cdn.seonintelligence.com
 .cdn.debugbear.com
 .featuregates.org
 .fptls.com
@@ -136,7 +140,6 @@
 .anonymised.io
 .m6ulblxep4.execute-api.us-east-1.amazonaws.com
 .api.instant.one
-.datadog.pool.ntp.org
 .pubtrky.com
 .logs2.sportslocalmedia.com
 .analytics.pyksid.com
@@ -67031,6 +67034,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ek-tracker.ekitan.com
 .leo.hepsiburada.com
 .usage.trackjs.com
 .dlt-beacon.dynatrace-managed.com
