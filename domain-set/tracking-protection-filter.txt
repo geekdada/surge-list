@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.hlstatus.com
+.pixel-img.com
+.pixel.prb-team.com
 .bridged.media
 .cdn.dfsdk.com
 .cdn.deviceinf.com
@@ -67034,6 +67037,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.bdvmetricas.banvenez.com.ve
 .ek-tracker.ekitan.com
 .leo.hepsiburada.com
 .usage.trackjs.com
@@ -72544,6 +72548,7 @@
 .testedtouch.com
 .texturetrick.com
 .thebigvan.com
+.thecrazychili.com
 .thefishstops.com
 .thejavalane.com
 .themangotea.com
