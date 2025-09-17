@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.trck.digiteka.com
 .partnerlinks.io
 .hlstatus.com
 .pixel-img.com
@@ -67279,6 +67280,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.pbc.nypost.com
 .stats.pronouns.page
 .ad-bls-tracking.lemino.docomo.ne.jp
 .bdvmetricas.banvenez.com.ve
