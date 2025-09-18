@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.cdnweb.info
 .trck.digiteka.com
 .partnerlinks.io
 .hlstatus.com
@@ -67280,6 +67281,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics.kode.co.kr
+.xtr.tos.sktelecom.com
+.gatag.uplus.co.kr
 .pbc.nypost.com
 .stats.pronouns.page
 .ad-bls-tracking.lemino.docomo.ne.jp
@@ -72833,6 +72837,7 @@
 .tofusquirrel.com
 .tomatobarrel.com
 .toolcapital.com
+.toolforthought.com
 .toomanyalts.com
 .topbookgifts.com
 .topcrazypress.com
