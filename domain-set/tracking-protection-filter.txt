@@ -69594,6 +69594,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.js-collector.icewood.net
 .analytics.luogu.me
 .analytics.kode.co.kr
 .xtr.tos.sktelecom.com
@@ -75125,6 +75126,7 @@
 .testedtouch.com
 .texturetrick.com
 .thebigvan.com
+.thebrainybulb.com
 .thecrazychili.com
 .thefishstops.com
 .thejavalane.com
