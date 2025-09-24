@@ -72402,6 +72402,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics.azrhymes.com
 .stats.jiosaavn.com
 .js-collector.icewood.net
 .analytics.luogu.me
@@ -75483,6 +75484,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.census-app.scorecardresearch.com
 .mob2.musicgostudio.com
 .tc.mnbvcxzq.com
 .dc.di.atlas.samsung.com
