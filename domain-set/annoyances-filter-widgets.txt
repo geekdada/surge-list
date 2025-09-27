@@ -95,7 +95,6 @@
 .chatterpal.me
 .ckct.ru
 .cleversite.ru
-.client.crisp.chat
 .clients.streamwood.ru
 .clloudia.com
 .comagic.ru
@@ -159,6 +158,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.client.crisp.chat
 .web-chat.global.assistant.watson.appdomain.cloud
 .vivocha.com
 .ac-chatbot.freebie-ac.jp

@@ -117,6 +117,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.cookie-consent-tracking-app.codeblocks.sk
 .cookies.travyk.nl
 .cmp.dynamic.deka.de
 .consent-manager.thenextweb.com
@@ -681,7 +682,6 @@
 .chatterpal.me
 .ckct.ru
 .cleversite.ru
-.client.crisp.chat
 .clients.streamwood.ru
 .clloudia.com
 .comagic.ru
@@ -745,6 +745,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.client.crisp.chat
 .web-chat.global.assistant.watson.appdomain.cloud
 .vivocha.com
 .ac-chatbot.freebie-ac.jp
