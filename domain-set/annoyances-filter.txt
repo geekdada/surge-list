@@ -555,6 +555,7 @@
 .inyourarea.co.uk
 .js.emailable.com
 .loader.wisepops.com
+.system.promio-connect.com
 .signup.e2ma.net
 .paywall.forbes.ua
 .u939.colgate.com
