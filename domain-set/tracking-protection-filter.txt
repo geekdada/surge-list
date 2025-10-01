@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.funsdata.com
 .ahatm12od.top
 .an.gr-wcon.com
 .sdkapi-prod.dfinery.ai
@@ -68631,6 +68632,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.upsell.alphwidget.com
+.4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
+.static.alphwidget.com
+.error-analytics-sessions-production.shopifysvc.com
 .analytics.pesktop.com
 .cloudmetrics.xenforo.com
 .api-analytics.pelikan.sk
@@ -71720,6 +71725,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.trace.free-reels.com
 .event-portal.dailyinnovation.biz
 .api.learnings.ai
 .dtcollect.newsbang.com

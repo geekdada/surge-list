@@ -746,6 +746,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.salesiq.zohopublic.com
 .client.crisp.chat
 .web-chat.global.assistant.watson.appdomain.cloud
 .vivocha.com
