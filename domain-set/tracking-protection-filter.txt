@@ -68633,6 +68633,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.telemetry.adobe.io
+.fpt.commerce.adobe.com
+.adobecorp.data.adobedc.net
 .log-gateway.zoom.us
 .upsell.alphwidget.com
 .4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
@@ -71726,6 +71729,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.mcs.tiktokv.us
 .trace.free-reels.com
 .event-portal.dailyinnovation.biz
 .api.learnings.ai
