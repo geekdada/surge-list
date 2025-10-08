@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.lltrck.com
+.contanuity.com
+.demandscience.com
 .digiadglobal.com
 .overtracking.com
 .funsdata.com
@@ -70675,6 +70678,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.cookiemon-analytics.azurewebsites.net
 .k203.adn.com
 .telemetry.adobe.io
 .fpt.commerce.adobe.com
