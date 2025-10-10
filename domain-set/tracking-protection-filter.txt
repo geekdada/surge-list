@@ -57,7 +57,6 @@
 .openstats.co
 .sentinelpro.com
 .openinstall.io
-.s.ssl.qhres2.com
 .big7.com
 .collect.adplogger.no
 .lwadm.com
@@ -70679,6 +70678,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.cdn.kmalgo.com
+.client.smartpushedm.com
 .cdn.getkoala.com
 .p.eneba.com
 .cookiemon-analytics.azurewebsites.net
@@ -73778,6 +73779,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.track.taimi.com
+.gem-log.sloegem.com
+.log.oceanzz.xyz
 .stats.sg-light-edge.com
 .apptics.zoho.in
 .analytics.oliveapp.net
