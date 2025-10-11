@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.marathondataco.com
+.telecid.ru
 .rum.hlx.page
 .lltrck.com
 .contanuity.com
@@ -70678,6 +70680,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.fuse.ubs.com
 .cdn.kmalgo.com
 .client.smartpushedm.com
 .cdn.getkoala.com
@@ -73779,6 +73782,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.prebid-server-canary.ifunny.co
 .track.taimi.com
 .gem-log.sloegem.com
 .log.oceanzz.xyz
@@ -75638,6 +75642,7 @@
 .notifyglass.com
 .noundictionary.com
 .novaseekers.com
+.nowaymail.com
 .nudgeduck.com
 .nullnorth.com
 .numerousnest.com
