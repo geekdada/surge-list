@@ -70402,6 +70402,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.avito.ru
+.nr-beacon.movingimage.com
+.analytics.monetha.io
 .uac.kyeongin.com
 .clogger.nocutnews.co.kr
 .reports.omegacommerce.com
