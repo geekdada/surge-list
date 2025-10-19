@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analysis.chatglm.cn
 .ping.pdst.fm
 .api.sae.systems
 .analytics.metriko.app
@@ -70407,6 +70408,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.haystack.wavve.com
+.user-event-log.aminer.cn
 .pixel.dashfi.dev
 .c.quackr.io
 .xstat.gazeta.bo
