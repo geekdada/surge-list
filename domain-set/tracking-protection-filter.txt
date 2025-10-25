@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.events.api.gamma.app
+.pirsch.io
 .d2g2u2795e3fzw.cloudfront.net
 .mobiexchange.com
 .tryzens-analytics.com
@@ -68908,6 +68910,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.z.cdn.protect-ad.com
+.sb1.mangataro.org
 .ins.oberpfalzmedien.de
 .hbrcv.adobe.com
 .hbrt.adobe.com
