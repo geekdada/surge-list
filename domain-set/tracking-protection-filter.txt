@@ -68906,6 +68906,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.applytics.napps-1.com
 .z.cdn.protect-ad.com
 .sb1.mangataro.org
 .ins.oberpfalzmedien.de
