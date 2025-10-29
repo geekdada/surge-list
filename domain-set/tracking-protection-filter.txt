@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.sa.openmedia.co
+.c1.prmonline.ru
 .heidy.makeup
 .events.api.gamma.app
 .pirsch.io
@@ -71926,7 +71928,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
-.curveshore.com
+.applytics.my1337jog.run
 .applytics.os4work.com
 .applytics.napps-1.com
 .z.cdn.protect-ad.com
@@ -75368,6 +75370,7 @@
 .conff.dc.oppomobile.com
 .dragate.dc.oppomobile.com
 .esa-reg-eup.myoppo.com
+.obus-in.dc.heytapmobile.com
 .adx-in.ads.heytapmobile.com
 .dragate-in-dc.heytapmobile.com
 .omes-sec.heytapmobile.com
@@ -76009,6 +76012,7 @@
 .bilingualgeek.com
 .billowybead.com
 .billowybelief.com
+.billtable.com
 .binarycrest.com
 .binspiredtees.com
 .birthdaybelief.com
@@ -76258,6 +76262,7 @@
 .currentcollar.com
 .curtaincows.com
 .curvedhoney.com
+.curveshore.com
 .curvycry.com
 .cushiondrum.com
 .cutecalculator.com
@@ -76490,6 +76495,7 @@
 .framebanana.com
 .franksfloral.com
 .franticroof.com
+.freedomgrail.com
 .freezeassets.com
 .freezingbuilding.com
 .frequentflesh.com
@@ -76763,6 +76769,7 @@
 .likethedog.com
 .limepeal.com
 .linkedleg.com
+.linksoutside.com
 .livelumber.com
 .livelylaugh.com
 .livingsleet.com
@@ -76844,6 +76851,7 @@
 .merryopal.com
 .merryvault.com
 .mesaviewlodge.com
+.messagelists.com
 .messmonster.com
 .messyoranges.com
 .metajaws.com
@@ -77031,6 +77039,7 @@
 .polishedfolly.com
 .politeplanes.com
 .politicalporter.com
+.popmixradio.com
 .popplantation.com
 .possibleboats.com
 .possiblepencil.com
