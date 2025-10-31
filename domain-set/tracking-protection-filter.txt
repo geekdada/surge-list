@@ -9,6 +9,8 @@
 .c1.prmonline.ru
 .heidy.makeup
 .events.api.gamma.app
+.flashtalking.com
+.io.narrative.io
 .pirsch.io
 .d2g2u2795e3fzw.cloudfront.net
 .mobiexchange.com
@@ -1513,6 +1515,7 @@
 .rc.vtex.com.br
 .browser.events.data.msn.cn
 .browser.events.data.msn.com
+.urbanairship.com
 .iesnare.com
 .lngtd.com
 .dw-eu.com.com
@@ -1562,6 +1565,8 @@
 .k50.ru
 .snowdayonline.xyz
 .log.hitsteps.com
+.advangelists.com
+.bfmio.com
 .beacons.mediamelon.com
 .smartocto.com
 .baikalize.com
@@ -1599,6 +1604,7 @@
 .aufp.io
 .celebrus.com
 .techlab-cdn.com
+.mpianalytics.com
 .realytics.net
 .eue.d-teknoloji.com.tr
 .track.mp3vizor.com
@@ -1872,12 +1878,14 @@
 .getbeacon.io
 .ymetrica.com
 .dep-x.com
+.quantcount.com
 .szsmtk.com
 .phywi.org
 .doomna.com
 .adblockanalytics.com
 .hexagon-analytics.com
 .stat.media
+.akstat.io
 .top10sportsites.com
 .otik.de
 .bounce-ads.de
@@ -1889,6 +1897,7 @@
 .props.id
 .gft2.de
 .srvtrck.com
+.geoplugin.net
 .ktrackdata.com
 .tda.io
 .statpipe.ru
@@ -1919,6 +1928,7 @@
 .24log.de
 .24log.ru
 .2cnt.net
+.33across.com
 .360i.com
 .360tag.com
 .3dlivestats.com
@@ -2001,6 +2011,7 @@
 .agentinteractive.com
 .agillic.eu
 .agilone.com
+.agkn.com
 .aidata.io
 .aimediagroup.com
 .airpr.com
@@ -2098,6 +2109,7 @@
 .bfoleyinteractive.com
 .bhs4.com
 .bid.run
+.bidswitch.net
 .bigcattracks.com
 .bigsauron.ru
 .bigstats.net
@@ -2174,6 +2186,7 @@
 .cashburners.com
 .cashcount.com
 .cccpmo.com
+.cedexis.com
 .celebros-analytics.com
 .certifica.com
 .cetrk.com
@@ -2181,6 +2194,7 @@
 .chart.dk
 .chartaca.com
 .chartbeat.com
+.chartbeat.net
 .checkeffect.at
 .checkstat.nl
 .christiantop1000.com
@@ -2291,6 +2305,7 @@
 .countus.fr
 .countyou.de
 .countz.com
+.cpx.to
 .cqcounter.com
 .cquotient.com
 .craftkeys.com
@@ -2304,6 +2319,7 @@
 .crowdscience.com
 .crowdskout.com
 .crsspxl.com
+.crwdcntrl.net
 .csdata1.com
 .ctnsnet.com
 .customer.io
@@ -2331,6 +2347,7 @@
 .decibelinsight.net
 .decideinteractive.com
 .demandbase.com
+.demdex.net
 .deqwas.net
 .device9.com
 .dialogtech.com
@@ -2546,6 +2563,7 @@
 .geocontatore.com
 .georiot.com
 .getbackstory.com
+.getclicky.com
 .getconversion.net
 .getsmartcontent.com
 .gez.io
@@ -2761,6 +2779,7 @@
 .kopsil.com
 .kostenlose-counter.com
 .kqzyfj.com
+.krxd.net
 .kupona.de
 .laserstat.com
 .lciapi.ninthdecimal.com
@@ -2795,6 +2814,7 @@
 .livewebstats.dk
 .lloogg.com
 .load.sumome.com
+.localytics.com
 .lockview.cn
 .logaholic.com
 .logcounter.com
@@ -2811,6 +2831,7 @@
 .lopley.com
 .losecounter.de
 .losstrack.com
+.lp4.io
 .lporirxe.com
 .stats.lptracker.ru
 .lsfinteractive.com
@@ -2841,6 +2862,7 @@
 .marktest.pt
 .masterstats.com
 .matheranalytics.com
+.mathtag.com
 .maxtracker.net
 .maxymiser.com
 .maxymiser.net
@@ -2975,6 +2997,7 @@
 .nordicresearch.com
 .notifyvisitors.com
 .nowinteract.com
+.npario-inc.net
 .nprove.com
 .nr-data.net
 .nr7.us
@@ -3009,10 +3032,12 @@
 .ongsono.com
 .onlinewebstat.com
 .onlinewebstats.com
+.onthe.io
 .openclick.com
 .openhit.com
 .openinternetexchange.com
 .openinternetexchange.net
+.openstat.net
 .opentracker.net
 .oproi.com
 .optimix.asia
@@ -3067,6 +3092,7 @@
 .pimpmypr.de
 .pingdom.net
 .pingomatic.com
+.pippio.com
 .piwik.org
 .pixanalytics.com
 .pixel.ad
@@ -3283,6 +3309,7 @@
 .silverpush.co
 .simplehitcounter.com
 .simplereach.com
+.simpli.fi
 .simplycast.us
 .simplymeasured.com
 .singlefeed.com
@@ -3436,6 +3463,7 @@
 .terabytemedia.com
 .tetigi.com
 .tetoolbox.com
+.theadex.com
 .thebestlinks.com
 .thecounter.com
 .thesearchagency.net
@@ -3526,6 +3554,7 @@
 .ugdturner.com
 .umbel.com
 .up-rank.com
+.upalytics.com
 .upstats.ru
 .uptime.monitorus.ru
 .uptracs.com
@@ -3594,6 +3623,7 @@
 .votistics.com
 .vtracker.net
 .w3counter.com
+.w55c.net
 .wa4y.com
 .waplog.mobi
 .warlog.ru
@@ -3687,12 +3717,14 @@
 .xcounter.ch
 .xg4ken.com
 .xhit.com
+.xplosion.de
 .xtractor.no
 .xtremline.com
 .xxxcounter.com
 .x.clearbit.com
 .x.clearbitjs.com
 .y-track.com
+.yadro.ru
 .yamanoha.com
 .yaudience.com
 .ybotvisit.com
@@ -3705,6 +3737,7 @@
 .youramigo.com
 .zanox-affiliate.de
 .zanox.com
+.zdbb.net
 .zero.kz
 .zesep.com
 .zipstat.dk
@@ -8891,7 +8924,6 @@
 .marketing.firstpac.com
 .marketing.five-startech.com
 .marketing.five19creative.com
-.marketing.flashtalking.com
 .marketing.fleetfeetorlando.com
 .marketing.fleetfeetraleigh.com
 .marketing.fleetone.com
@@ -17374,7 +17406,6 @@
 .adobeanalytics.populusgroup.com
 .adobeanalytics.teksystems.com
 .adobeanalytics.vice.com
-.adobedc.demdex.net
 .adobes.marugame-seimen.com
 .adobes.pmi.org
 .aedge.roche.com
@@ -71929,6 +71960,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.scdata.51job.com
 .iot.skywayplatform.com
 .rcu.skywayplatform.com
 .tad.tygem.com
@@ -72330,7 +72362,6 @@
 .fourier.alibaba.com
 .fourier.aliexpress.com
 .sofire.1024tera.com
-.ad-events.flashtalking.com
 .market-click-baobab.yandex.ru
 .mssdk.tiktokw.us
 .gc.newsweek.com
@@ -73405,7 +73436,6 @@
 .analytics.iraiser.eu
 .analytics.islamicfinder.org
 .analytics.livestream.com
-.analytics.localytics.com
 .analytics.maileon.com
 .analytics.marquiz.ru
 .analytics.mindjolt.com
@@ -73626,7 +73656,6 @@
 .counter.top.ge
 .counter.ukr.net
 .counter.web.money
-.counter.yadro.ru
 .counter.zerohedge.com
 .counter1.fc2.com
 .counter24.luxnet.ua
@@ -75135,7 +75164,6 @@
 .logs-sg.rebxgame.com
 .talog-eu.rebxgame.com
 .data-detect.nie.easebar.com
-.urbanairship.com
 .hz-telemetry.adobe.io
 .smartcard.apps.coloros.com
 .fp-it.fengkongcloud.com
@@ -75197,7 +75225,6 @@
 .aws.userlogsanalytics.com
 .atb-stats-api.imolive.tv
 .i.mxplayer.j2inter.com
-.flashtalking.com
 .stat.weamvideo.com
 .log.ultimatecleaner.pro
 .impression.link
@@ -75269,8 +75296,6 @@
 .iot-in-logser.realme.com
 .rabbit.meitustat.com
 .mediation.mwmadnetworks.com
-.xplosion.de
-.theadex.com
 .meitustat.com
 .analysis.vesync.com
 .insights.zennioptical.com
@@ -75411,7 +75436,6 @@
 .tracking-widget.fillr.com
 .api.data-analytics.pokemon.com
 .arcspire.io
-.onthe.io
 .t.adx.opera.com
 .sensors.snaptube.app
 .analytics.kongregate.io
@@ -75586,7 +75610,6 @@
 .tenant-content.apm.appfolio-analytics.com
 .log.avlyun.com
 .api-analytics.prod.birdapp.com
-.mpianalytics.com
 .umengjmacs.m.taobao.com
 .umengacs.m.taobao.com
 .sdk-api-v1.singular.net
@@ -75628,18 +75651,6 @@
 .analytics.snaptube.app
 .px.ucweb.com
 .adtima-static.zadn.vn
-.akstat.io
-.chartbeat.net
-.advangelists.com
-.agkn.com
-.33across.com
-.cpx.to
-.bfmio.com
-.mathtag.com
-.w55c.net
-.bidswitch.net
-.simpli.fi
-.getclicky.com
 .ztevents.zaloapp.com
 .log.adtimaserver.vn
 .tunion-api.m.taobao.com
@@ -75721,7 +75732,6 @@
 .rts.mobula.sdk.duapps.com
 .aftonbladetnya.sc.omtrdc.net
 .omni-ads.omni.news
-.npario-inc.net
 .wzrkt.com
 .analytics-events.inshorts.com
 .e-ssl.apsalar.com
@@ -75731,7 +75741,6 @@
 .tracker.adotmob.com
 .analytics-tracker.thescore.com
 .rosenberg.appmetrica.webvisor.com
-.geoplugin.net
 .d.applvn.com
 .rt.applvn.com
 .rt.applovin.com
@@ -75740,8 +75749,6 @@
 .puds.ucweb.com
 .patriot.cs.pp.cn
 .sdk-orion.appboy.com
-.pippio.com
-.io.narrative.io
 .loadus.exelator.com
 .api.mixpanel.com
 .decide.mixpanel.com
@@ -75791,14 +75798,11 @@
 .c.bigmir.net
 .carfax.sc.omtrdc.net
 .cedexis-radar.net
-.cedexis.com
 .clientmetrics-augmentum.kik.com
 .clientmetrics.kik.com
 .collector.brandify.com
 .config2.mparticle.com
 .crasheye.cn
-.crwdcntrl.net
-.demdex.net
 .dsg.sc.omtrdc.net
 .etl.xlmc.sandai.net
 .events.lbesecapi.com
@@ -75806,10 +75810,8 @@
 .googleadapis.l.google.com
 .iam-agof-app.irquest.com
 .installtracker.com
-.krxd.net
 .lepodownload.mediatek.com
 .log.umsns.com
-.lp4.io
 .metrics.adflake.com
 .metrics.sdkbox.com
 .mlb.did.ijinshan.com
@@ -75819,11 +75821,9 @@
 .nativesdks.mparticle.com
 .nrc.tapas.net
 .online-metrix.net
-.openstat.net
 .pingma.qq.com
 .prugskh.com
 .prugskh.net
-.quantcount.com
 .rc.dxsvr.com
 .rlog-api.under9.co
 .rlog.9gag.com
@@ -75839,13 +75839,10 @@
 .tracking.lenzmx.com
 .trk.pinterest.com
 .tunein.adswizz.com
-.upalytics.com
 .ups.ksmobile.net
 .ws.ksmobile.net
 .www-google-analytics.l.google.com
-.yadro.ru
 .ymtracking.com
-.zdbb.net
 .csplog.kwai-pro.com
 .log-sdk.ksapisrv.com
 .logsdk.kwai-pro.com
@@ -75873,7 +75870,6 @@
 .intlsucus.ucweb.com
 .adtrack-intl.ucweb.com
 .mum.alibabachengdun.com
-.localytics.com
 .upoll.umengcloud.com
 .utop.umengcloud.com
 .analy.qq.com
@@ -76253,6 +76249,7 @@
 .cubchannel.com
 .cubepins.com
 .cuddlycake.com
+.cuddlylab.com
 .cuddlylunchroom.com
 .culturedcamera.com
 .culturedfeather.com
@@ -76601,6 +76598,7 @@
 .haikusoap.com
 .halcyoncanyon.com
 .halcyonsculpture.com
+.halocolor.com
 .haltingbadge.com
 .haltingdivision.com
 .hammerhearing.com
@@ -76845,6 +76843,7 @@
 .melodiousharmony.com
 .melodioussymphony.com
 .meltmilk.com
+.memeorigin.com
 .memolight.com
 .memopilot.com
 .memorizematch.com
@@ -76962,6 +76961,7 @@
 .operationchicken.com
 .operationnail.com
 .optimallimit.com
+.optionsnomad.com
 .opulentsylvan.com
 .orangebirdie.com
 .orientedargument.com
@@ -77399,6 +77399,7 @@
 .specialscissors.com
 .specialsnake.com
 .spectacularstamp.com
+.spellingthoughts.com
 .spellknight.com
 .spellmist.com
 .spellsalsa.com
@@ -77496,6 +77497,7 @@
 .subseasecurity.com
 .subsequentstew.com
 .substantialgrade.com
+.successbuffet.com
 .successfuelevents.com
 .suddensoda.com
 .suggestionbridge.com
@@ -77525,6 +77527,7 @@
 .syllablesight.com
 .synonymoussticks.com
 .synthesizescarecrow.com
+.systemssummit.com
 .tabcarts.com
 .tackytrains.com
 .tacojournal.com
@@ -77736,6 +77739,7 @@
 .wildwoodavenue.com
 .wirecomic.com
 .wiredforcoffee.com
+.wirenewsletter.com
 .wirypaste.com
 .wisedotcom.com
 .wispycity.com
