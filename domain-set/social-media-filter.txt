@@ -18,7 +18,6 @@
 .widgets-code.websta.me
 .widget.pushbullet.com
 .addthiscdn.com
-.button.flattr.com
 .cdn.wibiya.com
 .changetip.com
 .filamentapp-assets.s3.amazonaws.com
