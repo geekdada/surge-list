@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tracking-api.g2.com
+.audiencelab.io
+.openpanel.dev
 .alphaupsell.s3.ap-northeast-2.amazonaws.com
 .trackingmyadsas.com
 .sa.openmedia.co
@@ -78666,6 +78669,7 @@
 .justicejudo.com
 .justpickaname.com
 .justwebcards.com
+.justwowjars.com
 .keenquill.com
 .kidpowers.com
 .kindasingle.com
@@ -79261,6 +79265,7 @@
 .siliconslow.com
 .sillyscrew.com
 .simplenaming.com
+.simplesafari.com
 .simplesidewalk.com
 .simulateswing.com
 .sincerebuffalo.com
@@ -79656,6 +79661,7 @@
 .watersensible.com
 .waterywave.com
 .waveinverter.com
+.wavesimple.com
 .wavesmachine.com
 .waxsirens.com
 .wayjoyfarm.com
