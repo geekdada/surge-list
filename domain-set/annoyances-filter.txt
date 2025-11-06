@@ -607,9 +607,8 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.web-client.moveo.ai
 .affilizz.com
-.gubagootracking.com
-.cdn.gubagoo.io
 .chat.quickcep.com
 .webchat-ui.citibot.net
 .webchat.bebot.io
@@ -739,6 +738,8 @@
 .st.yagla.ru
 .partner-widget.vse-sdal.com
 .perimeterx.widget.insent.ai
+.gubagootracking.com
+.cdn.gubagoo.io
 .go.pardot.com
 .dl.metabar.ru
 .plista.com
@@ -746,6 +747,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.titanembeds.com
 .salesiq.zohopublic.com
 .client.crisp.chat
 .web-chat.global.assistant.watson.appdomain.cloud

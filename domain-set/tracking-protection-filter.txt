@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.gau.groobee.io
+.gre.groobee.io
+.monitoring.hackle.io
+.event-api.hackle.io
 .tracking-api.g2.com
 .audiencelab.io
 .openpanel.dev
@@ -1557,6 +1561,7 @@
 .tracker.durasite.net
 .growthrx.in
 .clickcease.com
+.http-intake.logs.datadoghq.com
 .logs.browser-intake-datadoghq.eu
 .logs.datadoghq.eu
 .logs.datadoghq.com
@@ -73881,6 +73886,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.collector.moderntv.eu
 .ipm.adblockplus.dev
 .log1.wanmei.com
 .log2.wanmei.com
@@ -75427,6 +75433,7 @@
 .applog.zaycev.net
 .appsanalytics.appideas.it
 .apptracker.gamedock.io
+.service.minute.ly
 .apv-launcher.minute.ly
 .ariane.abtasty.com
 .astat.nikkei.co.jp
@@ -77007,6 +77014,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.mon.capcutapi.us
+.mon16-normal-us-ttp.capcutapi.us
+.log16-normal-us-ttp.capcutapi.us
 .jdlog.uu.cc
 .gid.tapapis.cn
 .dlog-config.uu.cc
@@ -78502,6 +78512,7 @@
 .golfersrow.com
 .gondolagnome.com
 .gorgeousedge.com
+.gorillapage.com
 .gossamerwing.com
 .gracefulmilk.com
 .grainmass.com
@@ -79056,6 +79067,7 @@
 .rabbitbreath.com
 .rabbitrifle.com
 .rackforstorage.com
+.radexports.com
 .radiantcanopy.com
 .radiantlullaby.com
 .radiateprose.com
