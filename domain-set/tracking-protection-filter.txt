@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.delog.nestads.com
+.deapi.nestads.com
+.event.marketap.io
+.crm.marketap.io
+.conviva.com
 .gau.groobee.io
 .gre.groobee.io
 .monitoring.hackle.io
@@ -73886,6 +73891,12 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.bizlog-gateway.myrealtrip.com
+.api-ktm.kkday.com
+.riskpoc.trip.com
+.chloro.trip.com
+.ubt-sgp.trip.com
+.events.asurion.com
 .collector.moderntv.eu
 .ipm.adblockplus.dev
 .log1.wanmei.com
@@ -77824,6 +77835,7 @@
 .aboardamusement.com
 .aboardlevel.com
 .absentairport.com
+.absolutering.com
 .absorbingband.com
 .absorbingprison.com
 .abstractedamount.com
@@ -78724,6 +78736,7 @@
 .limepeal.com
 .linkedleg.com
 .linksoutside.com
+.linkstable.com
 .livelumber.com
 .livelylaugh.com
 .livingsleet.com
@@ -79058,6 +79071,7 @@
 .quietknowledge.com
 .quillkick.com
 .quiltquick.com
+.quiltruler.com
 .quirkybliss.com
 .quirkybodega.com
 .quirkysugar.com
