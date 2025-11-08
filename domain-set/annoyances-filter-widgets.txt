@@ -159,6 +159,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.livechat.nextop.com
 .titanembeds.com
 .salesiq.zohopublic.com
 .client.crisp.chat

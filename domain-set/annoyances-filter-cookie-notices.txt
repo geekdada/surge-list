@@ -117,6 +117,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.dse-cookiebanner.ford.com
 .cookie-consent-tracking-app.codeblocks.sk
 .cookies.travyk.nl
 .cmp.dynamic.deka.de
