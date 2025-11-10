@@ -73917,7 +73917,6 @@
 .hbrcv.adobe.com
 .hbrt.adobe.com
 .leo.tridge.com
-.haystack.wavve.com
 .user-event-log.aminer.cn
 .pixel.dashfi.dev
 .c.quackr.io
@@ -78135,6 +78134,7 @@
 .coinsyouneed.com
 .coldbalance.com
 .coloradoserves.com
+.colorfulpet.com
 .coloringisland.com
 .colossalclouds.com
 .colossalcoat.com
@@ -78883,6 +78883,7 @@
 .needyneedle.com
 .neighborlywatch.com
 .nervoussummer.com
+.networklast.com
 .newarkdriving.com
 .newartreview.com
 .niftygraphs.com
@@ -79450,6 +79451,7 @@
 .stomachscience.com
 .stonechin.com
 .stopstomach.com
+.stormyflower.com
 .straightnest.com
 .straindrinks.com
 .strangeclocks.com
