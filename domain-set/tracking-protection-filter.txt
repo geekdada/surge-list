@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.logz.io
+.beacon.coofis.com
+.aditude.prebid-server.com
+.cache.prebid-server.com
+.cdnm.techpump.com
 .analytics.bomiv.com
 .track.bomiv.com
 .delog.nestads.com
@@ -75081,6 +75086,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.tdum.alibaba.com
 .webpushstat-sgp.engagelab.com
 .analytics.simpler.so
 .bizlog-gateway.myrealtrip.com
@@ -78216,6 +78222,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.tnc16-normal-us-ttp.capcutapi.us
+.mcs16-normal-us-ttp.capcutapi.us
 .appcpi.net
 .event.aimailhome.io
 .mon.capcutapi.us
@@ -79388,6 +79396,7 @@
 .crafthenry.com
 .crashchance.com
 .cratecamera.com
+.createdip.com
 .creatorcherry.com
 .creatorpassenger.com
 .creatorsnote.com
@@ -79453,6 +79462,7 @@
 .deliciousducks.com
 .deltafault.com
 .deluxecrate.com
+.demorewards.com
 .dependenttrip.com
 .deployinput.com
 .desertgates.com
@@ -79659,6 +79669,7 @@
 .freezeassets.com
 .freezingbuilding.com
 .frequentflesh.com
+.freshlyhuman.com
 .friedone.com
 .friendlycrayon.com
 .friendlyfold.com
@@ -80061,6 +80072,7 @@
 .muteknife.com
 .mutemailbox.com
 .mutualhappy.com
+.mysketchpad.com
 .mysticalagoon.com
 .naivestatement.com
 .nappyattack.com
@@ -80667,6 +80679,7 @@
 .stupidscene.com
 .stupidsnake.com
 .sturdysnail.com
+.stylelockers.com
 .stylishbuds.com
 .subjectivepoint.com
 .sublimequartz.com
