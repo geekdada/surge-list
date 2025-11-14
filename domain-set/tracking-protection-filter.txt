@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.nlog.instajob.ai
 .data.pendo.io
 .api.statsigcdn.com
 .beacon.coofis.com
@@ -75086,6 +75087,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.sp.aviasales.ru
+.darnuid.netflix.com
+.analytics.thekrazycouponlady.com
 .coll.lovense.com
 .bilog.lovense-api.com
 .log.lovense-api.com
@@ -78226,6 +78230,13 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.fcm-collect-api.alyac.com
+.service-api.flarelane.com
+.mossturbo.com
+.collect.wehearfm.com
+.itracking.ikameglobal.com
+.client-events-ingress.bookbub.com
+.sdk.out.usbla.net
 .xz.fbcdn.net
 .xy.fbcdn.net
 .data.eu.pendo.io
@@ -79335,6 +79346,7 @@
 .cleanhaircut.com
 .climbingright.com
 .cloisteredcurve.com
+.cloudchickens.com
 .cloudguppy.com
 .cloudhustles.com
 .cloudjumbo.com
@@ -79506,6 +79518,7 @@
 .dogcollarfavourbluff.com
 .doggieshome.com
 .dollardelta.com
+.dollarthrill.com
 .doubledefend.com
 .doubtdrawer.com
 .dq95d35.com

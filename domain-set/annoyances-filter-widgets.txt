@@ -19,6 +19,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.tariffuxx.de
 .web-client.moveo.ai
 .affilizz.com
 .chat.quickcep.com

@@ -1,3 +1,4 @@
+.consent.preference-center.com
 .sp.api.no
 .cmp.bonniernews.se
 .cookies.nos.nl

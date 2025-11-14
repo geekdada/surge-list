@@ -1,3 +1,4 @@
+.consent.preference-center.com
 .sp.api.no
 .cmp.bonniernews.se
 .cookies.nos.nl
@@ -608,6 +609,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.tariffuxx.de
 .web-client.moveo.ai
 .affilizz.com
 .chat.quickcep.com
