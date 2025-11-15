@@ -1706,7 +1706,7 @@
 .irxcm.com
 .unid.go.com
 .dataxpand.com
-.connectif.cloud
+.cdn.connectif.cloud
 .lumitos.com
 .seedtag.com
 .quantummetric.com
@@ -78230,6 +78230,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.federatedcompute-pa.googleapis.com
 .fcm-collect-api.alyac.com
 .service-api.flarelane.com
 .mossturbo.com
@@ -78312,12 +78313,6 @@
 .qcloud-sg-datareceiver.kurogame.xyz
 .statistic-overseas.yunxinfw.com
 .perfsight.wetest.net
-.gamedot.afafb.com
-.tadata.afafb.com
-.ecpm.afafb.com
-.mediation-receiver.afafb.com
-.df.afafb.com
-.middle-defend.afafb.com
 .pangolin-sdk-toutiao.com
 .stat.tpns.sgp.tencent.com
 .guid.tpns.sgp.tencent.com
@@ -79522,6 +79517,7 @@
 .doubledefend.com
 .doubtdrawer.com
 .dq95d35.com
+.dragonbats.com
 .drainpaste.com
 .dramaticdirection.com
 .dreamsdome.com
