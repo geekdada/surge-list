@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-SUFFIX,stitch.withgoogle.com
 
 # Others
 DOMAIN-KEYWORD,perplexity
