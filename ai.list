@@ -3,27 +3,6 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 
-# Google
-DOMAIN,ai.google.dev
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,googleai.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,labs.google
-DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
-DOMAIN-SUFFIX,stitch.withgoogle.com
-
 # Others
 DOMAIN-KEYWORD,perplexity
 DOMAIN-SUFFIX,grazie.aws.intellij.net
