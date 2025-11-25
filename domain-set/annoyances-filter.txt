@@ -788,6 +788,7 @@
 .uhchat.net
 .wat.atms.at
 .widget.feedot-lawyer.ru
+.livechat.oyunfor.com
 .chatbot.akbank.com
 .k-pilot.kariyer.net
 .date.forumodua.com
