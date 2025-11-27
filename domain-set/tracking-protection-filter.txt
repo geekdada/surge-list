@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.yext.com
 .hackle.io
 .track.aimroas.com
 .upsellit.com
@@ -48979,6 +48980,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics-prod.readtheory.org
+.y194.asics.com
+.analytics.cosmicstack.org
+.mgs.instacart.com
+.c.ypcdn.com
 .ac2.tnaflix.com
 .web.analytics.metrobyt-mobile.com
 .conversionsapigateway.com
@@ -53770,6 +53776,7 @@
 .hellounbox.com
 .helpcollar.com
 .helpflame.com
+.helpingbits.com
 .hertechlife.com
 .hfc195b.com
 .highfalutinbox.com
@@ -54210,6 +54217,7 @@
 .precisear.com
 .predictplate.com
 .prepareplanes.com
+.prepaymint.net
 .presetrabbits.com
 .presscoder.com
 .prettyeasycafe.com
