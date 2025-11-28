@@ -52,3 +52,5 @@ DOMAIN-SUFFIX,discomax.com
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
 PROCESS-NAME,com.hbo.hbonow
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,h264.io
