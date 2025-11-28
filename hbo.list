@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN,execute-api.ap-southeast-1.amazonaws.com
+DOMAIN-SUFFIX,brightline.tv
+DOMAIN,out053a3bejgh7t0phqa0csou.litix.io
 
 # > HBO GO Asia
 DOMAIN-KEYWORD,hbogoasia
