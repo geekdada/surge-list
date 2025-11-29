@@ -1,3 +1,4 @@
+.api.consentjs.datagrail.io
 .consent.preference-center.com
 .sp.api.no
 .cmp.bonniernews.se
