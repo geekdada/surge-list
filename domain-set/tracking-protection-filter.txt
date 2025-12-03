@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.tags.mlytics.com
 .tncid.app
 .rampanel.com
 .l5id.com
@@ -49396,6 +49397,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.advancedanalytics-websocket-pri-001.hexaglobe.net
 .valencia-beacons.xumo.com
 .sync.getpublica.com
 .events-tracker.deliveroo.net
@@ -49747,7 +49749,6 @@
 .web-sdk-cdn.singular.net
 .tracking.ringieraxelspringer.tech
 .aidsvc.netflix.com
-.sensor.grubhub.com
 .kloggyr-service.kyruus.com
 .geo.justwatch.com
 .sspnm.emol.com
@@ -52553,6 +52554,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.tc.vbnmhjlp.com
 .logrcv.adseyeservice.com
 .stats.cn.ronghub.com
 .statistic.live.126.net
