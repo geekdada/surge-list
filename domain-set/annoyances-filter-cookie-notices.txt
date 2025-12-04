@@ -1,3 +1,4 @@
+.cmp.springernature.com
 .api.consentjs.datagrail.io
 .consent.preference-center.com
 .sp.api.no

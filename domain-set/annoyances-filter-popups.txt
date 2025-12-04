@@ -379,6 +379,7 @@
 .push.delivery.ethinking.de
 .gu7socdn.txxx.com
 .cdn.pushowl.com
+.wheelify-front.carecart.io
 .ext.spinwheelapp.com
 .omnisnippet1.com
 .maillist-manage.com
