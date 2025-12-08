@@ -582,7 +582,6 @@
 .leady.com
 .hscollectedforms.net
 .log.dance
-.adx.promo
 .trk.decido.io
 .tracker.oval.id
 .event.lib.visumo.io
