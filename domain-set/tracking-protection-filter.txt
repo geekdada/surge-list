@@ -49449,6 +49449,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.counter.tldw.me
+.analytics.blender.org
+.d.nordprotect.com
 .async-px-eu.dynamicyield.com
 .pm.redbull.com
 .tracking-live.kr3m.com
