@@ -582,6 +582,7 @@
 .coin-hive.com
 .coinhive.com
 .point.widget.rakuten.co.jp
+.jobs.t3n.de
 .creatives-promo.telegraaf.nl
 .backgrounds.wetransfer.net
 .usefomo.com
