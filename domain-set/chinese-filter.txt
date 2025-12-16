@@ -204,6 +204,23 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.6fm4dcpj31.com
+.cautious60.com
+.aybikaemg.com
+.b053d0h076.com
+.fortune59.com
+.tkll12160nb.com
+.grateful03.com
+.877mcpiom.com
+.p99c3kwxg.com
+.shipment30.top
+.tkll12150nb.com
+.l6h17ybxe.com
+.nqwgvk.cn
+.kls24qtvc.com
+.tkll12151nb.com
+.afrlodurf.com
+.ixog.cn
 .harmful26.top
 .tasgxk4ia6.com
 .0tc1bdbgsm.com
@@ -5683,7 +5700,6 @@
 .de.tynt.com
 .diagnosis.ad.xiaomi.com
 .dig.bdurl.net
-.dl.zuimeitianqi.com
 .dlogs.bwton.com
 .dm.toutiao.com
 .domain.aishengji.com
@@ -5703,8 +5719,6 @@
 .ef-dongfeng.tanx.com
 .engine.dcad01.com
 .entry.baidu.com
-.errlog.umeng.com
-.errnewlog.umeng.com
 .et-eus.w.inmobi.com
 .event.tradplusad.com
 .events-drcn.op.dbankcloud.cn
@@ -6014,7 +6028,6 @@
 .s8t.teads.tv
 .saad.ms.zhangyue.net
 .saas.hpplay.cn
-.safebrowsing.googleapis.com
 .safebrowsing.urlsec.gg.com
 .samsung-com.112.2o7.net
 .samsungads.com
@@ -6082,6 +6095,7 @@
 .supply.inmobicdn.net
 .sv-video.play.aiseet.atianqi.com
 .syh-imp.cdnjtzy.com
+.syh.zybang.com
 .szbdyd.com
 .t-dsp.pinduoduo.com
 .t.applovin.com
