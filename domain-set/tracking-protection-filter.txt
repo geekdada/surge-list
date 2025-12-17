@@ -383,7 +383,6 @@
 .matomo.akbal.dev
 .sentry.pnblab.com
 .untho.de
-.k-words.io
 .tlmtr.org
 .sentinelbi.com
 .ascendeummedia.com
@@ -46057,6 +46056,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.a.apkeditor.io
 .log.goodnovel.com
 .d2qxmykuaro8s3.cloudfront.net
 .metrics.media-amazon.com
@@ -50898,6 +50898,7 @@
 .harborcub.com
 .harmonywing.com
 .hatefulrequest.com
+.hayweb.net
 .hazmatworkshop.com
 .headydegree.com
 .headyhook.com
@@ -50915,6 +50916,7 @@
 .hfc195b.com
 .highfalutinbox.com
 .highfalutinhoney.com
+.highnoongear.com
 .hikingbars.com
 .hilariouszinc.com
 .historicalbeam.com
