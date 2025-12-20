@@ -184,6 +184,7 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.js.flashyapp.com
 .static.groobee.io
 .sdk.postscript.io
 .cdn.wheelio-app.com

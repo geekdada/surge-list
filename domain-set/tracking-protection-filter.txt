@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.adfenix.com
+.boldmetrics.io
 .cdn.trakkr.ai
 .track.trakkr.ai
 .cdn.particularaudience.com
@@ -464,7 +466,6 @@
 .fndrsp.net
 .positional.ai
 .positional-bucket.com
-.collector-pxebumdlwe.px-cloud.net
 .collector-pxebumdlwe.px-cdn.net
 .s2s.adjust.com
 .view.adjust.com
@@ -46056,6 +46057,16 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.telemetry.microsoft.us
+.stats.urban-vpn.com
+.analytics.urban-vpn.com
+.analytics.heistotron.uk
+.metrics-config.icloud.com
+.fingerprint.incodesmile.com
+.fluffy-analytics.vercel.app
+.stats.renet.io
+.metrics-ingress-web.svc.vinted.com
+.metrics.vinted.lt
 .d.nordvpn.com
 .ingress.linktr.ee
 .browser-fp.production.linktr.ee
@@ -46196,7 +46207,6 @@
 .analytics.shutterstock.com
 .plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
 .collector-pxdojv695v.protechts.net
-.collector-pxdojv695v.px-cloud.net
 .collector1.sooplive.co.kr
 .exlogcollector.sooplive.co.kr
 .snowflake.qq.com
@@ -49241,6 +49251,10 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.onegg.site
+.log.smartclearpro.com
+.analytics.artworkout.net
+.event.mwm-bs.com
 .events.backtrace.io
 .logs.classdojo.com
 .api.arity.com
@@ -50468,6 +50482,7 @@
 .controlswim.com
 .convertbatch.com
 .cooingcoal.com
+.cookiestorybook.com
 .coolestcatcare.com
 .coolguesthouse.com
 .coordinatedcoat.com
@@ -50475,6 +50490,7 @@
 .copycarpenter.com
 .copyfranchise.com
 .copyrightaccesscontrols.com
+.copytweaks.com
 .copyvibes.com
 .coralcranes.com
 .coralreverie.com
@@ -50521,6 +50537,7 @@
 .cumbersomecake.com
 .cumbersomecarpenter.com
 .cupcakegem.com
+.curatedtea.com
 .curbminers.com
 .curbneon.com
 .curiouschalk.com
@@ -50610,6 +50627,7 @@
 .dreamycanyon.com
 .driftingchef.com
 .driftpizza.com
+.droidwiz.com
 .drollwharf.com
 .dustydime.com
 .dustyhammer.com
