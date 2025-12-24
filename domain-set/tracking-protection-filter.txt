@@ -4,6 +4,12 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.conduit-beacon-usw2.mtvnservices.com
+.tvp.tv
+.adsximg.com
+.static.terratraf.io
+.matomo.stackvaults.com
+.moengage.com
 .rapid-cdn.yottaa.com
 .rum-ingress-coralogix.com
 .elitebidder.com
@@ -45942,6 +45948,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.uxlog-api.danawa.com
+.matomo-prod.cgorod.pw
 .a.tampermonkey.net
 .event.kr.karrotmarket.com
 .log-bridge-mobile.kr.karrotmarket.com
@@ -50695,6 +50703,7 @@
 .forwardslashetc.com
 .fossilzero.com
 .fourpawsahead.com
+.foxlagoon.com
 .foxtrotdata.com
 .frailfruit.com
 .framebanana.com
@@ -50783,6 +50792,7 @@
 .grayoranges.com
 .grayreceipt.com
 .grayscaleart.com
+.graywords.net
 .greasegarden.com
 .greasysquare.com
 .gridbelow.com
