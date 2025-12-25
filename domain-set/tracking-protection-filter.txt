@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ctxcollect.com
 .conduit-beacon-usw2.mtvnservices.com
 .tvp.tv
 .adsximg.com
@@ -45948,6 +45949,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics.t-mobile.com
+.raw.vidyard.com
+.pushd-android-logs.s3.amazonaws.com
+.unif-id.ssp.inmobi.com
+.external-api.impression-neo.naver.com
 .uxlog-api.danawa.com
 .matomo-prod.cgorod.pw
 .a.tampermonkey.net
@@ -49152,6 +49158,10 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.vsn-analytics.aparentmedia.com
+.ihmonitor.luckincoffee.us
+.use-trk.monetune.com
+.telemetry.sdk.inmobi.com
 .unisdk.proxima.nie.easebar.com
 .ingest.m2catalyst.com
 .tnc-v2-boot.capcutapi.com

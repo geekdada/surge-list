@@ -615,6 +615,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.lemrock.com
 .tariffuxx.de
 .web-client.moveo.ai
 .affilizz.com
