@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.b-sing.com
+.client-sdk.hackle.io
 .t.jibeno.xyz
 .ctxcollect.com
 .conduit-beacon-usw2.mtvnservices.com
@@ -45950,6 +45952,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.pftk.temu.com
+.thtk.temu.com
 .apistats.rg.ru
 .analytics.t-mobile.com
 .raw.vidyard.com
@@ -50362,6 +50366,7 @@
 .coloradoserves.com
 .colorfulpet.com
 .coloringisland.com
+.coloroptimizer.com
 .colossalclouds.com
 .colossalcoat.com
 .colossalcry.com
@@ -50972,6 +50977,7 @@
 .juicingoasis.com
 .justconfig.com
 .justicejudo.com
+.justlagoon.com
 .justpickaname.com
 .justwebcards.com
 .justwowjars.com

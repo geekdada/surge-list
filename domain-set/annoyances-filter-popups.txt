@@ -392,6 +392,7 @@
 .loader.wisepops.com
 .system.promio-connect.com
 .signup.e2ma.net
+.forms.sonos.com
 .paywall.forbes.ua
 .u939.colgate.com
 .egoi.page
