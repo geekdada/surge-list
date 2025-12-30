@@ -564,6 +564,7 @@
 .loader.wisepops.com
 .system.promio-connect.com
 .signup.e2ma.net
+.subscribe-forms.beehiiv.com
 .forms.sonos.com
 .paywall.forbes.ua
 .u939.colgate.com
