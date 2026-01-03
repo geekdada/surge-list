@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.rtbuniverse.com
+.gw-usa-tracker.zmaticoo.com
+.data.deep-content.io
 .pingpong.us
 .protected-api.branch.io
 .pixel.visitiq.io
@@ -46723,6 +46726,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.a.streamed.pk
+.corfu.blogvault.net
 .analytics.inquirernetwork.net
 .analytics-webhook.doximity.com
 .crs.pa.br.de
@@ -49939,6 +49944,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.hotweathers.live
 .log.eufylife.com
 .dts-log.anker.com
 .perf.bblmw.com
