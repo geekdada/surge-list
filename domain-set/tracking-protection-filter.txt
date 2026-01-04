@@ -46726,6 +46726,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.use.hetzner.com
+.t.jasper.ai
 .a.streamed.pk
 .corfu.blogvault.net
 .analytics.inquirernetwork.net
@@ -51938,6 +51940,7 @@
 .monthlyhat.com
 .mooncrustpizza.com
 .moorshoes.com
+.morefolks.com
 .morefriendly.com
 .motionflowers.com
 .motionlessbelief.com
@@ -51974,6 +51977,7 @@
 .networklast.com
 .newarkdriving.com
 .newartreview.com
+.nicefollows.com
 .niftygraphs.com
 .niftyhospital.com
 .niftyjelly.com
