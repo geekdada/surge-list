@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.api.eventbus.me
+.rumt-sg.com
 .gm.mmstat.com
 .yazio-analytics.com
 .hightouch-events.com
@@ -47294,6 +47296,12 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.prd-collect-llm.xverse.cn
+.securemetrics.apple.com
+.graffiti-tags.apple.com
+.fem.gprod.postmedia.digital
+.t.hentaivox.com
+.tk.jtbc.co.kr
 .eventcom.api.np.km.playstation.net
 .pulsar.ebay.com
 .pixel-conversion.apps.seabroadnet.com
@@ -50522,6 +50530,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.sensorsdata-datasink.stardust-tv.com
+.event-api-cs.stardust-tv.com
+.mebed.dm-event.net
 .bstream.kzhi.tech
 .lklfwu-inapps.appsflyersdk.com
 .mob2.welltastic-app.com
@@ -52640,6 +52651,7 @@
 .pailcrime.com
 .pailpatch.com
 .painstakingpickle.com
+.paintmogul.com
 .paintpear.com
 .paleleaf.com
 .palmytree.com
@@ -52663,6 +52675,7 @@
 .perceivequarter.com
 .perfectfetch.com
 .perkyjade.com
+.petitechili.com
 .phonecup.com
 .phoneresult.com
 .photohints.com
