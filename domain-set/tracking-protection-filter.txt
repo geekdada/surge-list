@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.telemetry.tataritv.com
 .cpu-api.infor.pl
 .cse.rakanto.com
 .repo.rakanto.com
@@ -47301,6 +47302,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.r.anime-go.cc
+.doppler.hulu.com
 .events.insiad.com
 .hw-t.hypers.com.cn
 .prd-collect-llm.xverse.cn
@@ -49413,7 +49416,6 @@
 .log.ecgh.dk
 .log.enuri.com
 .log.g-enews.com
-.log.go.com
 .log.iyunmai.com
 .log.krs-ix.ru
 .log.mappy.net
@@ -50483,6 +50485,7 @@
 .analytics-sprint.qoqa.com
 .analytics.qoqa.ch
 .analytics.qoqa.com
+.skadsdk.appsflyersdk.com
 .attr.appsflyersdk.com
 .privacy-sandbox.appsflyersdk.com
 .adrevenue.appsflyer.com
@@ -50535,6 +50538,10 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.mab-mob2.websearchapp.com
+.news-events.apple.com
+.news-app-events.apple.com
+.news-sports-events.apple.com
 .track.applicaster.com
 .hb-mob2.optiword.com
 .telemetry.doxo.com
