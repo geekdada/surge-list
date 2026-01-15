@@ -4,6 +4,12 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.vinovo.si
+.cs.media.net
+.bidder.doceree.com
+.fpcdn.io
+.fpjs.io
+.winsurbox.com
 .telemetry.tataritv.com
 .cpu-api.infor.pl
 .cse.rakanto.com
@@ -47302,6 +47308,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.st.freedom24.com
+.rum.api.intuit.com
+.trafficmanager.anyclip.com
 .r.anime-go.cc
 .doppler.hulu.com
 .events.insiad.com
@@ -49416,6 +49425,7 @@
 .log.ecgh.dk
 .log.enuri.com
 .log.g-enews.com
+.log.go.com
 .log.iyunmai.com
 .log.krs-ix.ru
 .log.mappy.net
@@ -50538,6 +50548,9 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.events-stream-svc.cordial.io
+.events.gonative.io
+.matomo.podslink.net
 .mab-mob2.websearchapp.com
 .news-events.apple.com
 .news-app-events.apple.com
