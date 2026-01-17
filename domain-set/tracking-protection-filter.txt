@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.heap-api.com
 .analytics.vinovo.si
 .cs.media.net
 .bidder.doceree.com
@@ -47308,6 +47309,13 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.sp.pluto.tv
+.service-ad-image-ga-weighted.prd.pluto.tv
+.tracking.carfax.com
+.analytics.carvana.io
+.analytics.ticketmaster.com
+.track.opentable.com
+.mixpanel.tigocloud.net
 .analytics.launcherleaks.net
 .ingest.webcol.sdp.peacocktv.com
 .t.collectiveaudience.co
@@ -47852,7 +47860,6 @@
 .pixels.argusplatform.com
 .egg.afisha.ru
 .tracking-app.diginetica.net
-.c.us.heap-api.com
 .logging.g.sst.secureserver.net
 .metricreceiver.cellrebel.com
 .events.app-performance.music.amazon.dev
@@ -50551,6 +50558,13 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.ir-sdk.guardease.com
+.verifysession.uxcam.com
+.analytics.wachanga.app
+.usage.digitalconcerthall.com
+.report.starshort.online
+.engagelab.cc
+.global-sis.engagelab.com
 .app.siteperformancetest.net
 .events-stream-svc.cordial.io
 .events.gonative.io
@@ -53174,6 +53188,7 @@
 .squishybears.com
 .stageschine.com
 .stakedances.com
+.stakeschips.com
 .stakingbasket.com
 .stakingshock.com
 .stakingsmile.com
