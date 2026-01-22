@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.d1dxoqu0t5mb7j.cloudfront.net
 .js.pulseinsights.com
 .console.data4.net
 .heap-api.com
@@ -59600,6 +59601,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.insighttimer.com
+.trackinglibrary.prodperfect.com
+.stats.sirdata.eu
 .events-sandbox.data.msn.com
 .event-storage.netmonet.co
 .neviju.netmonet.co
@@ -62855,6 +62859,15 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.clearcleanerpro.live
+.client-telemetry-preauth.hingeprod.net
+.event-log-api-data-platform-data-lake-prod.gryphline.com
+.event-log-api-ipv6.gryphline.com
+.eventlog.gryphline.com
+.native-log-collect.gryphline.com
+.data-p.gryphline.com
+.fp-sa-it.fengkongcloud.com
+.api-fp-retry-sa.fengkongcloud.com
 .ir-sdk.guardease.com
 .verifysession.uxcam.com
 .analytics.wachanga.app
@@ -63749,6 +63762,7 @@
 .ulogs1.ksapisrv.com
 .ulogs2.ksapisrv.com
 .wlog.ksapisrv.com
+.log-va.tiktokv.com
 .mcs.tiktokw.us
 .sf16-telemetry-proxy-oci.tiktokcdn-us.com
 .log.tiktokv.com
@@ -65445,6 +65459,7 @@
 .sortstructure.com
 .soulclicking.com
 .soundstocking.com
+.sourcecodeinfo.com
 .sourceoak.com
 .sowlettuce.com
 .spaceaffinity.com
@@ -65693,6 +65708,7 @@
 .tritebadge.com
 .tritethunder.com
 .tritetongue.com
+.triumphbull.com
 .tropicalpal.com
 .troubleshade.com
 .truckstomatoes.com

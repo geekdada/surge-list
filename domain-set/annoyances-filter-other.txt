@@ -2,6 +2,7 @@
 .coinhive.com
 .point.widget.rakuten.co.jp
 .https-filtering-check.adtidy.org
+.smart-bdash.com
 .jobs.t3n.de
 .creatives-promo.telegraaf.nl
 .backgrounds.wetransfer.net
