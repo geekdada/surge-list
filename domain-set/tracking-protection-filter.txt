@@ -59601,6 +59601,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.frontier.capcutw.us
+.mssdk16-normal-us-ttp.capcutapi.us
+.pinpoint.espn.com
+.analytics.itbox.ua
 .stats.insighttimer.com
 .trackinglibrary.prodperfect.com
 .stats.sirdata.eu
@@ -65718,6 +65722,7 @@
 .tumbleicicle.com
 .tuneupcoffee.com
 .twistloss.com
+.typepredict.com
 .typewebsite.com
 .typicalairplane.com
 .typicalteeth.com
@@ -65753,6 +65758,7 @@
 .usabilitybook.com
 .uselesslumber.com
 .userballot.com
+.utopiaband.net
 .validmemo.com
 .valuebuttons.com
 .vanfireworks.com
