@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.trackhorizon.nnmtools.com
 .d1dxoqu0t5mb7j.cloudfront.net
 .js.pulseinsights.com
 .console.data4.net
@@ -64825,6 +64826,7 @@
 .madnessbuzz.com
 .madoverrice.com
 .magicaljoin.com
+.magicalpiano.com
 .magicminibox.com
 .majesticwaterscape.com
 .majesticwilderness.com
@@ -65786,6 +65788,7 @@
 .victoriousrequest.com
 .victoryideas.com
 .vilenexus.com
+.viralfoodie.net
 .virtualvincent.com
 .visitstor.com
 .vividcanopy.com
