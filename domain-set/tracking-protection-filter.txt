@@ -61617,6 +61617,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.logsk.glomancloud.gr
+.insights-tag.convertkit.com
+.b.trueanthem.com
 .matomo.eduwill.net
 .telemetry.eyeo.com
 .analytics.everythingstream.com
@@ -66760,6 +66763,7 @@
 .kindhush.com
 .kindlereunion.com
 .kitetuning.com
+.kittentacos.com
 .kittycatking.com
 .knewpenny.com
 .knifetreasury.com
