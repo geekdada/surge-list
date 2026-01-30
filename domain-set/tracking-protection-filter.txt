@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytic.is
 .hsadspixel.net
 .log.grm.gsretail.com
 .trackhorizon.nnmtools.com
@@ -61618,6 +61619,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.t.y8.com
 .cs.avito.ru
 .logsk.glomancloud.gr
 .insights-tag.convertkit.com
@@ -64886,6 +64888,10 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.ip.xindong.com
+.openlog.tapapis.com
+.logc-sg.tsd.xindong.com
+.e.tapdb.ap-sg.tapapis.com
 .track.onef.pro
 .log.weathertrip.net
 .log.clearcleanerpro.live
