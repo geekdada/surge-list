@@ -108,7 +108,6 @@
 .getbutton.io
 .widget.siteheart.com
 .widget.skobeeff.ru
-.widget.surveymonkey.com
 .widget.teletype.app
 .widget.textback.io
 .widget.webica.pro
