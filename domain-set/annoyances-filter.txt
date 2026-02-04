@@ -237,6 +237,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.dashboard.bildircin.az
 .connect.cdnsb.net
 .hotbbawese.cc
 .qepolax.com
@@ -762,6 +763,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.code.tidio.co
 .omniqa.ru
 .livechat.nextop.com
 .titanembeds.com

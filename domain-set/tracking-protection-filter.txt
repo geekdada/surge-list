@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.wtb-tag.mikmak.ai
+.get.civicscience.com
+.perfalytics.com
+.analytics.liine.com
 .netcoresmartech.com
 .verint-cdn.com
 .1mythtracker.xyz
@@ -64995,6 +64999,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.cdn-px-v1.metrix.az
 .event-tracker.inditex.com
 .t.y8.com
 .cs.avito.ru
@@ -68266,6 +68271,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.events.production.us1.pgw-pci.klarna.net
 .event-gateway.data.karrotmarket.com
 .h-adashx4id.ut.taobao.com
 .gjtrack.ucweb.com

@@ -64,6 +64,7 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.dashboard.bildircin.az
 .connect.cdnsb.net
 .hotbbawese.cc
 .qepolax.com

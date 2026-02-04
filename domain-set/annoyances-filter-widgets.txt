@@ -160,6 +160,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.code.tidio.co
 .omniqa.ru
 .livechat.nextop.com
 .titanembeds.com
