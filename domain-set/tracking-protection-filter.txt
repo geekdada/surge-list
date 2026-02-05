@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.participants.evolv.ai
+.media.evolv.ai
+.platform.datazoom.io
 .wtb-tag.mikmak.ai
 .get.civicscience.com
 .perfalytics.com
@@ -64999,6 +65002,14 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ins.connatix.com
+.lit.connatix.com
+.tracking.shopee.com.br
+.iv-datatracker.spx.shopee.sg
+.livetech.shopee.com.br
+.a.kupibilet.ru
+.clientlog.pwsdk.com
+.dlog.pwsdk.com
 .cdn-px-v1.metrix.az
 .event-tracker.inditex.com
 .t.y8.com
@@ -68271,6 +68282,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log1.cmpassport.com
+.bi-report.maxnapps.com
 .events.production.us1.pgw-pci.klarna.net
 .event-gateway.data.karrotmarket.com
 .h-adashx4id.ut.taobao.com
@@ -69704,6 +69717,7 @@
 .doggieshome.com
 .dollardelta.com
 .dollarthrill.com
+.domaincolumn.com
 .doomhedge.com
 .doubledefend.com
 .doubtdrawer.com
@@ -70339,6 +70353,7 @@
 .motionlessbelief.com
 .motionlessmeeting.com
 .mountedbattery.com
+.movableobject.com
 .movemeal.com
 .mowgoats.com
 .muddledaftermath.com
@@ -70405,6 +70420,7 @@
 .objectsnetwork.com
 .oblivionfleet.com
 .obscenesidewalk.com
+.obscurespace.com
 .obsidiangems.com
 .octaneblood.com
 .offerniche.com
@@ -70439,6 +70455,7 @@
 .overconfidentfood.com
 .overkick.com
 .overratedchalk.com
+.owlbees.com
 .owlreporter.com
 .owlsr.us
 .owlstwo.com
@@ -70467,6 +70484,7 @@
 .pawsnug.com
 .peacefullimit.com
 .pedropanther.com
+.peeringhost.net
 .pegsbuttons.com
 .perceivequarter.com
 .perfectfetch.com
