@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.log.ablyft.com
 .participants.evolv.ai
 .media.evolv.ai
 .platform.datazoom.io
@@ -65002,6 +65003,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.minimetrika.xsolla.com
+.um.merinfo.se
 .ins.connatix.com
 .lit.connatix.com
 .tracking.shopee.com.br
@@ -68229,6 +68232,7 @@
 .analytics-sprint.qoqa.com
 .analytics.qoqa.ch
 .analytics.qoqa.com
+.inapps.appsflyersdk.com
 .skadsdk.appsflyersdk.com
 .attr.appsflyersdk.com
 .privacy-sandbox.appsflyersdk.com
