@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.atomictrackercollector-i5adxi4wfq-uc.a.run.app
+.iconmediapixel-ipv4.com
+.iconmediapixel.com
+.whale.camera
 .log.ablyft.com
 .participants.evolv.ai
 .media.evolv.ai
@@ -65003,6 +65007,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.dd.g2.com
+.event.tradedealer.ru
+.analytics.editorialedomani.it
+.pixel.scoring.ru
 .minimetrika.xsolla.com
 .um.merinfo.se
 .ins.connatix.com
