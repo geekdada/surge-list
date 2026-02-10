@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.targetads.io
+.tp88trk.com
 .atomictrackercollector-i5adxi4wfq-uc.a.run.app
 .iconmediapixel-ipv4.com
 .iconmediapixel.com
@@ -65007,6 +65009,12 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.counter.reddigital.ru
+.pixel.udpauto.ru
+.tag.perx.ru
+.counter.powr.io
+.events1.avantisvideo.com
+.prebid.tapatalk.com
 .dd.g2.com
 .event.tradedealer.ru
 .analytics.editorialedomani.it
