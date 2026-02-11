@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.lighthouselabs.eu
+.adgeek.net
+.lgrckt-in.com
+.snssdk.gatedata.org
 .targetads.io
 .tp88trk.com
 .atomictrackercollector-i5adxi4wfq-uc.a.run.app
@@ -65009,6 +65013,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.mt.9gag.com
+.dwh-prod.moz.de
+.affiliate.hrkgame.com
 .counter.reddigital.ru
 .pixel.udpauto.ru
 .tag.perx.ru
@@ -70685,6 +70692,7 @@
 .rentpenny.com
 .repeatsweater.com
 .replaceroute.com
+.rescueothers.com
 .rescuerhino.com
 .resonantbrush.com
 .resonantrock.com
@@ -70746,6 +70754,7 @@
 .samuraibots.com
 .sandboxbid.com
 .sandstrophies.com
+.sandypocket.com
 .sapnest.com
 .satisfycork.com
 .savoryink.com
@@ -71233,6 +71242,7 @@
 .valuebuttons.com
 .vanfireworks.com
 .vanishmemory.com
+.vastmillions.com
 .velvetquasar.com
 .vengefulgrass.com
 .venomousvessel.com
@@ -71279,6 +71289,7 @@
 .wavesmachine.com
 .waxsirens.com
 .wayjoyfarm.com
+.weatherbytes.net
 .websitesdude.com
 .weeklybanner.com
 .wellgroomedapparel.com
