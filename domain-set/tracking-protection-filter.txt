@@ -65013,6 +65013,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.totem.tvmaze.com
 .mt.9gag.com
 .dwh-prod.moz.de
 .affiliate.hrkgame.com
@@ -68309,6 +68310,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.stats.norton.com
 .log1.cmpassport.com
 .bi-report.maxnapps.com
 .events.production.us1.pgw-pci.klarna.net
@@ -69293,6 +69295,7 @@
 .aliasanvil.com
 .alikeaddition.com
 .aliveachiever.com
+.allnewhost.com
 .alloutdubstep.com
 .allsunflowers.com
 .alltypo.com
@@ -69487,6 +69490,7 @@
 .callousbrake.com
 .calmcactus.com
 .calmstudent.com
+.calvarycards.com
 .calypsocapsule.com
 .cannonchange.com
 .canvasandsocks.com
