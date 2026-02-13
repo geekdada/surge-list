@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.at.artistchai.co.kr
+.data.artistchai.co.kr
 .lighthouselabs.eu
 .adgeek.net
 .lgrckt-in.com
@@ -65013,6 +65015,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.dls-account.di.atlas.samsung.com
+.karrot-pixel.business.daangn.com
+.lgecokr.api.useinsider.com
+.stats.jkdesa.com
 .totem.tvmaze.com
 .mt.9gag.com
 .dwh-prod.moz.de
@@ -69404,6 +69410,7 @@
 .binarykite.com
 .binspiredtees.com
 .birthdaybelief.com
+.blackbelted.com
 .blackbrake.com
 .bleachbubble.com
 .bleachscarecrow.com
@@ -69492,6 +69499,7 @@
 .calmstudent.com
 .calvarycards.com
 .calypsocapsule.com
+.cannonborough.com
 .cannonchange.com
 .canvasandsocks.com
 .capablecup.com
