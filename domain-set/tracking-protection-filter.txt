@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.measureadv.com
 .at.artistchai.co.kr
 .data.artistchai.co.kr
 .lighthouselabs.eu
@@ -65015,6 +65016,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.token.awswaf.com
+.trace.shengshu-ai.com
+.player-analytics.mp.lura.live
 .dls-account.di.atlas.samsung.com
 .karrot-pixel.business.daangn.com
 .lgecokr.api.useinsider.com
@@ -68316,6 +68320,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.trkcliq.com
 .stats.norton.com
 .log1.cmpassport.com
 .bi-report.maxnapps.com
@@ -69641,6 +69646,7 @@
 .cosplaygalaxy.com
 .costumeoffers.com
 .costwinner.com
+.couponrail.com
 .courageousbaby.com
 .coverlayer.com
 .cowbelltime.com
@@ -69693,6 +69699,7 @@
 .cutechin.com
 .cyclinghere.com
 .cyclopsdial.com
+.dailydomino.com
 .damagedadvice.com
 .damageddistance.com
 .damdoor.com
