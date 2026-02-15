@@ -65016,7 +65016,6 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
-.token.awswaf.com
 .trace.shengshu-ai.com
 .player-analytics.mp.lura.live
 .dls-account.di.atlas.samsung.com
@@ -70189,6 +70188,7 @@
 .jetskiscovers.com
 .jewelryforest.com
 .jewelrysprings.com
+.jigsawlucky.com
 .joblessdrum.com
 .jobmist.com
 .joyfulharbor.com
@@ -70482,6 +70482,7 @@
 .omgthink.com
 .onecrow.net
 .onedropocean.com
+.onespecify.com
 .onlinestarten.net
 .onlywoofs.com
 .opalquill.com
