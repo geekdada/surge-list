@@ -1,3 +1,4 @@
+.wix.consentik.com
 .cmp.springernature.com
 .api.consentjs.datagrail.io
 .consent.preference-center.com
