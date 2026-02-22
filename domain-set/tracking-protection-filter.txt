@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.location.dynabic.com
 .byoviral.com
 .sigmob.cn
 .sdk.beizi.biz
