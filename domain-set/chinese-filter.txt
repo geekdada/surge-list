@@ -211,6 +211,15 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.muxc8wxhv.com
+.z0vogb8ns.com
+.jvqo1iiej.com
+.contemplate23.top
+.1vd2esrss.com
+.gu4xxpoe9.com
+.rltwz2cmo.com
+.gbiltuj8w.com
+.fikppvmul.com
 .i2fxsez4f0.com
 .22eo9qlbpt.com
 .pcmxcdjbgo.com
@@ -5112,6 +5121,7 @@
 .ad.parkvv.com
 .adasset.ethersaga.online
 .27gh.cc
+.code.geonamebase.com
 .kdewa111.familydoctor.com.cn
 .5tmobi.cn
 .zgzxm.weathercn.com
@@ -5520,7 +5530,6 @@
 .dmym.fwol.cn
 .dnpz123.com
 .ds.ruanwengfa.com
-.code.geonamebase.com
 .du1.bbdj.com
 .edu.jiukang.org
 .ee.shixunwang.net
