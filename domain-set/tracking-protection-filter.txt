@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.gjirafa.net
 .siteperformancetest.net
 .convertiser.com
 .bidr.io
