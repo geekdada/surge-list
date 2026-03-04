@@ -1,3 +1,4 @@
+.ucookie.com.tr
 .wix.consentik.com
 .cmp.springernature.com
 .api.consentjs.datagrail.io
