@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mollyflow.com
+.citiservi.es
 .api.datahub-srgssr.ch
 .statisticslinks.com
 .metricslinks.com
@@ -75823,6 +75825,10 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.sweepycleanplus.com
+.log.photorecoverypicturerecovery.com
+.log.scanqrcodedesign.live
+.log.cleanerwish.live
 .trace-v1.free-reels.com
 .tracking.twelveapp.sh
 .trkcliq.com
@@ -76887,6 +76893,7 @@
 .bandborder.com
 .barbadoshello.com
 .barbarousbase.com
+.barbershirts.com
 .baseboosters.com
 .basilfish.com
 .basketballbelieve.com
@@ -77030,6 +77037,7 @@
 .carpentercomparison.com
 .carpoolqueen.com
 .carryenjoy.com
+.carsarace.com
 .cartelsalsa.com
 .cartkitten.com
 .carvecakes.com
