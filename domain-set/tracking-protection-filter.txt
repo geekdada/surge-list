@@ -140,7 +140,6 @@
 .event-api.hackle.io
 .tracking-api.g2.com
 .audiencelab.io
-.openpanel.dev
 .alphaupsell.s3.ap-northeast-2.amazonaws.com
 .trackingmyadsas.com
 .sa.openmedia.co
@@ -72508,6 +72507,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.api.openpanel.dev
+.lytics.fileditch.com
 .goto.suno.com
 .m-stratovibe.prod.suno.com
 .fel-api.prod.browse.bestbuy.com
@@ -75682,6 +75683,7 @@
 .essential-apps-analytics.herokuapp.com
 .d10vy5gom1ed53.cloudfront.net
 .um-public-panel-prod.s3.amazonaws.com
+.analytics-fe.digital-cloud-west.medallia.com
 .web-perf.booking.com
 .biv.gazeta.pl
 .dygassets.dygdigital.com
@@ -76906,6 +76908,7 @@
 .bedsberry.com
 .beewhispering.com
 .beginnerpancake.com
+.bentengine.com
 .berserkhydrant.com
 .bespokesandals.com
 .bestboundary.com
@@ -76956,6 +76959,7 @@
 .boilingmadsoup.com
 .boldbars.com
 .bonuscomplex.com
+.bookbeef.com
 .bookprobe.com
 .boomboomcloud.com
 .boostbehavior.com

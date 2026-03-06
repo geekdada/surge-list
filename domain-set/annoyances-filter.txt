@@ -766,6 +766,7 @@
 .torimochi-ad.net
 .gacraft.jp
 .api.popin.cc
+.app.davision.ai
 .zdorovyak.com
 .code.tidio.co
 .omniqa.ru
