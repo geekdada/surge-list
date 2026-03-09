@@ -72507,6 +72507,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.api.jformatter.com
 .analytics-api.penpencil.co
 .health.flowplayer.com
 .api.openpanel.dev
