@@ -239,6 +239,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.pushkite.com
 .smbtnupsh.com
 .dashboard.bildircin.az
 .connect.cdnsb.net
