@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.t-dsp.pinduoduo.com
 .elmasistatistik.com.tr
 .analystic.365av.net
 .mollyflow.com
@@ -78465,6 +78466,13 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log-nontt.bytegsdk.com
+.gpm-mon-va.bytegsdk.com
+.gplog-sg.byteoversea.com
+.gsdk-quic-gcp-va.bytegsdk.com
+.gsdk19-va.bytegsdk.com
+.gsdk-va.bytegsdk.com
+.global-report.ml.youngjoygame.com
 .bdtelemetry.amazon
 .rum.us-east-1.amazonaws.com
 .log.sweepycleanplus.com

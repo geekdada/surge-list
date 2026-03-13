@@ -189,7 +189,6 @@
 .ttauri.toptenreviews.com
 .controlpush.com
 .js.flashyapp.com
-.static.groobee.io
 .sdk.postscript.io
 .cdn.wheelio-app.com
 .pop.unitedgate.co.jp
@@ -239,6 +238,8 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.wstpush-mobile.terra.com
+.martabackrock.com
 .pushkite.com
 .smbtnupsh.com
 .dashboard.bildircin.az
