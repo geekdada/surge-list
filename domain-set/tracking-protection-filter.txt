@@ -75139,6 +75139,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.pulse.perfmetrics.netflix.com
+.eu-south-2.alb.pulse.perfmetrics.netflix.com
 .stats.gastronom.ru
 .dd.leboncoin.fr
 .audience-pccw.viu.com
@@ -79845,6 +79847,7 @@
 .cryptvalue.com
 .crystalboulevard.com
 .cubchannel.com
+.cubeglobal.net
 .cubepins.com
 .cuddlycake.com
 .cuddlylab.com
@@ -80068,6 +80071,7 @@
 .feedandpurr.com
 .feedten.com
 .feignedfaucet.com
+.femalecook.com
 .fencesync.com
 .fewjuice.com
 .fewkittens.com
@@ -80586,6 +80590,7 @@
 .muddledaftermath.com
 .muddledmemory.com
 .mundanenail.com
+.mushroomgods.com
 .mushywaste.com
 .musicflashcard.com
 .muteknife.com
