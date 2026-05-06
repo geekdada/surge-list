@@ -1,3 +1,4 @@
+.cookies.prod.tekla.com
 .ucookie.com.tr
 .wix.consentik.com
 .cmp.springernature.com
