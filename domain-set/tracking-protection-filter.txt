@@ -78170,6 +78170,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.temptcdn.com
 .opt.mocortech.com
 .analytics-proxy-501188673100.us-central1.run.app
 .stats.cinevibe.asia
