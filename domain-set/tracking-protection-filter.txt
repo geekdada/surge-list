@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mod.leftnewsex.com
 .magtorr.com
 .eventtrace.ru
 .kujsc5.ru
@@ -78170,6 +78171,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.mlm-tracking.meinestadt.de
 .stats.temptcdn.com
 .opt.mocortech.com
 .analytics-proxy-501188673100.us-central1.run.app
@@ -82998,6 +83000,7 @@
 .crowdedmass.com
 .cruisetourist.com
 .crunchcontrol.com
+.crypticgenius.com
 .cryptvalue.com
 .crystalboulevard.com
 .cubchannel.com
@@ -84384,6 +84387,7 @@
 .stakingsmile.com
 .stalesummer.com
 .starkscale.com
+.starrynets.com
 .starsmarter.com
 .startercost.com
 .startingcars.com
