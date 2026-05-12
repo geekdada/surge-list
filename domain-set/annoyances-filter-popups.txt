@@ -63,6 +63,7 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.fontmenice.com
 .townrdwarfer.com
 .wstpush-mobile.terra.com
 .martabackrock.com

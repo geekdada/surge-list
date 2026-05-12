@@ -239,6 +239,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.fontmenice.com
 .townrdwarfer.com
 .wstpush-mobile.terra.com
 .martabackrock.com
