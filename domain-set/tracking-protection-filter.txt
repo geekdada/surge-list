@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.dn666andut2j1.cloudfront.net
 .htplayground.com
 .mod.leftnewsex.com
 .magtorr.com
@@ -1752,7 +1753,6 @@
 .statafun.ru
 .sc.lfeeder.com
 .tr.lfeeder.com
-.am-trc-events.taboola.com
 .analytics.webads.eu
 .erandex.com
 .metrics-logger.spot.im
@@ -2673,7 +2673,6 @@
 .t.flix360.com
 .rt.flix360.com
 .flixsyndication.net
-.fluctuo.com
 .fluencymedia.com
 .fluidsurveys.com
 .flurry.com
@@ -3615,8 +3614,6 @@
 .synthasite.net
 .sysomos.com
 .t4ft.de
-.taboola.com.cn
-.taboola.com
 .tag4arm.com
 .tagsrvcs.com
 .tagtray.com
@@ -3922,6 +3919,23 @@
 .zoosnet.net
 .zoossoft.net
 .zqtk.net
+.taboola.com.cn
+.taboola.com
+.am-trc-events.taboola.com
+.beacon.taboola.com
+.api-events.taboola.com
+.trc.taboola.com
+.trc-events.taboola.com
+.imprammp.taboola.com
+.am-vid-events.taboola.com
+.am-match.taboola.com
+.vidstat.taboola.com
+.nr-events.taboola.com
+.cds.taboola.com
+.sync.taboola.com
+.hp.taboola.com
+.pm-widget.taboola.com
+.c2.taboola.com
 .bright-sdk.com
 .brightdata.com
 .brightdata.de
@@ -78172,6 +78186,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.marketing.trvl.yandex.net
+.t.stereogum.com
 .data-api.fenbi.com
 .mpecom-analyticevents-prod.boyner.com.tr
 .dlso-ap96.macgamingdb.app
@@ -83641,6 +83657,7 @@
 .logoshutter.com
 .lonelyflavor.com
 .longingtrees.com
+.longloops.com
 .loosecase.com
 .looseloaf.com
 .lorenzourban.com
@@ -83731,6 +83748,7 @@
 .metajaws.com
 .metalbold.com
 .metawelcome.com
+.midnightmead.com
 .mightyspiders.com
 .millswell.com
 .mimosamajor.com
