@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ezoicanalytics.com
 .dn666andut2j1.cloudfront.net
 .htplayground.com
 .mod.leftnewsex.com
