@@ -83663,7 +83663,6 @@
 .kernellife.com
 .kidpowers.com
 .kindasingle.com
-.kindhush.com
 .kindlereunion.com
 .kitesquirrel.com
 .kitetuning.com
@@ -84752,6 +84751,7 @@
 .trueselfkeys.com
 .tumbleicicle.com
 .tuneupcoffee.com
+.turtleface.net
 .twelvedawn.com
 .twistloss.com
 .typepredict.com
@@ -84848,6 +84848,7 @@
 .wavesmachine.com
 .waxsirens.com
 .wayjoyfarm.com
+.waylowrates.net
 .weatherbytes.net
 .weatherpush.net
 .websitesdude.com
