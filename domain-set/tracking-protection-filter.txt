@@ -3675,6 +3675,7 @@
 .touchclarity.com
 .tovery.net
 .trace-2000.com
+.trace-flow.ru
 .trace.events
 .traceworks.com
 .trackalyzer.com
@@ -78188,6 +78189,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.dsb.yahooapis.jp
+.clb.yahooapis.jp
 .marketing.trvl.yandex.net
 .t.stereogum.com
 .data-api.fenbi.com
@@ -84876,6 +84879,7 @@
 .wikiquotations.com
 .wikiwhatwhere.com
 .wildcommittee.com
+.wildpetalfarm.com
 .wildwoodavenue.com
 .windbeetle.com
 .windwardhollow.com
@@ -84892,6 +84896,7 @@
 .wizardbuck.com
 .wizardstrategy.com
 .wondermakings.com
+.woofweather.com
 .woolstapler.com
 .wordchip.com
 .workhorsefunds.com
