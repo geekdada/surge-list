@@ -83457,7 +83457,6 @@
 .gloriousbeef.com
 .glowingmeadow.com
 .gluedpixel.com
-.goddesslamps.com
 .godseedband.com
 .goldfishgrowth.com
 .goldstudies.com
@@ -83877,6 +83876,7 @@
 .naivestatement.com
 .nappyattack.com
 .nappyneck.com
+.naturebeans.com
 .nauticalfox.com
 .neatbadger.com
 .neatrule.com
