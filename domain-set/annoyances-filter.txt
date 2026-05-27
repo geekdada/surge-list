@@ -239,6 +239,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.app.pushaja.com
 .fontmenice.com
 .townrdwarfer.com
 .wstpush-mobile.terra.com
