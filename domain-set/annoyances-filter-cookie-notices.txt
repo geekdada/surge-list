@@ -1,3 +1,4 @@
+.cookie.boatadmin.com
 .cookies.prod.tekla.com
 .ucookie.com.tr
 .wix.consentik.com

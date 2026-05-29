@@ -1,3 +1,4 @@
+.cookie.boatadmin.com
 .cookies.prod.tekla.com
 .ucookie.com.tr
 .wix.consentik.com
@@ -239,6 +240,7 @@
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
+.bildirimat.com
 .app.pushaja.com
 .fontmenice.com
 .townrdwarfer.com
