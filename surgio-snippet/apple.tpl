@@ -130,8 +130,8 @@ DOMAIN-SUFFIX,ls.apple.com.edgesuite.net,{{ location_rule }}
 # Reserve
 DOMAIN,reserve-prime.apple.com,DIRECT
 # Push
-DOMAIN-KEYWORD,push-apple,{{ api_rule }}
-DOMAIN-KEYWORD,push.apple,{{ api_rule }}
+DOMAIN-KEYWORD,push-apple,DIRECT
+DOMAIN-KEYWORD,push.apple,DIRECT
 # GeoServices.framework
 DOMAIN-SUFFIX,ls.apple.com,{{ location_rule }}
 # Asset Cache Locator Service
