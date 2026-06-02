@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.handler.rgstats.com
 .identity.treeumapp.net
 .umommy.online
 .marcuscash.one
@@ -82768,6 +82769,7 @@
 .binspiredtees.com
 .biologylog.com
 .birthdaybelief.com
+.biztoolsbrief.com
 .blackbelted.com
 .bleachbubble.com
 .bleachscarecrow.com
@@ -82785,6 +82787,7 @@
 .bluevinebooks.com
 .blushingbeast.com
 .blushingbread.com
+.boardbumpers.com
 .boatcodeapp.com
 .boatpaper.com
 .boatsbuilding.com
