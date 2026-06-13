@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.insights.xyba.dev
+.sts.marketingsuite.jp
 .image-sap.sfmc-content.com
 .umami.vidup.to
 .umami.vidfast.pro
@@ -78199,6 +78201,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.sgtm.cmoa.jp
 .transporter.makemytrip.global
 .cchome-stage.adobe.io
 .cchome.adobe.io
@@ -83722,6 +83725,7 @@
 .marrowleaves.com
 .marsnextdoor.com
 .massivemark.com
+.masterenter.com
 .materialisticmoon.com
 .materialmilk.com
 .materialparcel.com
@@ -83867,6 +83871,7 @@
 .okaysurethat.com
 .oldfashionedoffer.com
 .oldportcoffee.com
+.omegaroutes.com
 .omgthink.com
 .onecrow.net
 .onedropocean.com
