@@ -78205,6 +78205,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.performance-events.guardianapis.com
 .tracker-proxy.getmimo.com
 .a.cineflix.st
 .adtech.abs-cbn.com
@@ -79660,7 +79661,6 @@
 .collector.reelevant.com
 .scripts-repo.reelevant.com
 .analytics.lunaweb.cloud
-.analytics.onedio.com
 .log-lb.skyperfectv.co.jp
 .ana.gomtv.com
 .log.gomlab.com
@@ -81647,6 +81647,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.stats-sdk.tange365.com
 .dc.oppomobile.com
 .aki-gb-sdklog.kurogames.net
 .log1.pwsdk.com
@@ -84463,6 +84464,7 @@
 .strivesquirrel.com
 .strokesystem.com
 .strongercity.com
+.studioalkaline.com
 .studycooking.com
 .stupendoussleet.com
 .stupendoussnow.com
@@ -84545,6 +84547,7 @@
 .texturetrick.com
 .thebigvan.com
 .thebrainybulb.com
+.thecounter.net
 .thecrazychili.com
 .thefishstops.com
 .thejavalane.com

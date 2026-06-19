@@ -633,6 +633,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.quizgo-widget.ru
 .cdn.helvia.io
 .lemrock.com
 .tariffuxx.de
