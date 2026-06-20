@@ -78205,6 +78205,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.blink.willowmovies.com
+.stats.mappl.tv
 .performance-events.guardianapis.com
 .tracker-proxy.getmimo.com
 .a.cineflix.st
