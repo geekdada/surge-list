@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.codedrink.com
 .mfilterit.net
 .metrics-web.help
 .nehalist.io
@@ -83051,6 +83052,7 @@
 .coralcranes.com
 .coralreverie.com
 .corgibeachday.com
+.correctedcode.com
 .cosmicsculptor.com
 .cosmosjackson.com
 .cosplaygalaxy.com
