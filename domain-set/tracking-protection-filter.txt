@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.avsplow.com
 .codedrink.com
 .mfilterit.net
 .metrics-web.help
@@ -78207,6 +78208,12 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.event-collector.analytics.onedio.com
+.obs.forseasky.com
+.t.ofsys.com
+.collector.umogames.com
+.collector.quizzop.com
+.collector.feedzop.com
 .blink.willowmovies.com
 .stats.mappl.tv
 .performance-events.guardianapis.com
@@ -83339,6 +83346,7 @@
 .fitnessmapper.com
 .fivesidedsquare.com
 .fixedfold.com
+.fjordsand.com
 .flakyfeast.com
 .flameuncle.com
 .flashtexting.com
