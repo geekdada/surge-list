@@ -1,3 +1,4 @@
+.privacy.advancelocal.com
 .cookie.boatadmin.com
 .cookies.prod.tekla.com
 .ucookie.com.tr
@@ -633,6 +634,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.widget.yourgood.app
 .quizgo-widget.ru
 .cdn.helvia.io
 .lemrock.com

@@ -1,3 +1,4 @@
+.privacy.advancelocal.com
 .cookie.boatadmin.com
 .cookies.prod.tekla.com
 .ucookie.com.tr
