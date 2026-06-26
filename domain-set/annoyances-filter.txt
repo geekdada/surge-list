@@ -1,3 +1,4 @@
+.app.cookiemate.pl
 .privacy.advancelocal.com
 .cookie.boatadmin.com
 .cookies.prod.tekla.com
