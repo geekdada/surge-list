@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.dsp-track-global.zmaticoo.com
 .opecloud.com
 .sf-insights.io
 .avsplow.com
