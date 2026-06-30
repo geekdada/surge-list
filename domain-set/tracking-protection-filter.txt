@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.telemetry.adsninja.ca
 .dsp-track-global.zmaticoo.com
 .opecloud.com
 .sf-insights.io
@@ -78211,6 +78212,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.posthog.football24.ua
 .analytics.wispbyte.com
 .trk.edf.fr
 .a.boredpanda.bio

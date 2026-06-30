@@ -229,6 +229,18 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.oe8mnxdtoi.com
+.y2ej3xxfve.com
+.tkpenntaispfdm.com
+.frustum77.top
+.e3eb4eq0v.com
+.opposite36.top
+.067oij53m.com
+.vhjjbdxycpdfrg.com
+.mxauvrtdm.com
+.rrsxes4oy.com
+.2eao5syzj.com
+.za5ww9yxg.com
 .rectangular18.com
 .opev2lhm7h.com
 .byuh78fy2m.com
@@ -5211,7 +5223,6 @@
 .pos.baidu.com
 .pro.cn
 .qtmojo.com
-.qwe0231141.bj.bcebos.com
 .re.taotaosou.com
 .show.kc.taotaosou.com
 .spcode.baidu.com
