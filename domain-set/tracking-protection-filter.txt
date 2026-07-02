@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.pcx-events.revbox.co
 .telemetry.adsninja.ca
 .dsp-track-global.zmaticoo.com
 .opecloud.com
@@ -78212,6 +78213,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.t.experte.de
+.rest.comfy.ua
 .litags.feedblitz.com
 .posthog.football24.ua
 .analytics.wispbyte.com
@@ -83019,6 +83022,7 @@
 .coalkitchen.com
 .coatfood.com
 .cobaltoverture.com
+.coffeefire.net
 .coffeesidehustle.com
 .coldbalance.com
 .coldcallpro.com
@@ -83410,6 +83414,7 @@
 .fronttoad.com
 .frozekitchen.com
 .frugalfiestas.com
+.fuelfever.net
 .fuelinspector.com
 .fullrestore.net
 .fumblingform.com
