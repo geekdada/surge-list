@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.reportmyads.com
 .pcx-events.revbox.co
 .telemetry.adsninja.ca
 .dsp-track-global.zmaticoo.com
@@ -78213,6 +78214,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.streams-scores.rbl.ms
+.sync.inmobi.com
+.pl.primis.tech
 .t.experte.de
 .rest.comfy.ua
 .litags.feedblitz.com
@@ -82799,6 +82803,7 @@
 .bagsurprise.com
 .bahamashello.com
 .baitbaseball.com
+.balancenotes.com
 .balloonbelieve.com
 .ballsbanana.com
 .bananabarrel.com
