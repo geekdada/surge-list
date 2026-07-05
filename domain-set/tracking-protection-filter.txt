@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.getjan.io
 .lkqivtsnfvriw.website
 .fireanalytics.firestream.to
 .reportmyads.com
