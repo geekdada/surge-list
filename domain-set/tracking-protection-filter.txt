@@ -216,6 +216,7 @@
 .monitoring.hackle.io
 .event-api.hackle.io
 .tracking-api.g2.com
+.litix.io
 .audiencelab.io
 .alphaupsell.s3.ap-northeast-2.amazonaws.com
 .trackingmyadsas.com
@@ -1801,7 +1802,6 @@
 .astat.nikkei.com
 .interactive-circle.jp
 .stats.streamhub.io
-.litix.io
 .cdn.glassboxcdn.com
 .metrics0.com
 .glassboxdigital.io
@@ -78217,6 +78217,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.jitsu.ixbt.games
 .streams-scores.rbl.ms
 .sync.inmobi.com
 .pl.primis.tech
@@ -82813,6 +82814,7 @@
 .bandborder.com
 .barbarousbase.com
 .barbershirts.com
+.barkfactor.com
 .barqueue.com
 .baseboosters.com
 .basilfish.com
@@ -82995,6 +82997,7 @@
 .chaosmonitor.com
 .chargecracker.com
 .charmingplate.com
+.chemistrycore.com
 .cherriescare.com
 .chessbranch.com
 .chesscolor.com
@@ -83161,6 +83164,7 @@
 .debonairdust.com
 .debonairtree.com
 .decidedrum.com
+.decisionhut.com
 .decisivebase.com
 .decisivedrawer.com
 .decklibrary.com
