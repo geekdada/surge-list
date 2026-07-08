@@ -6,10 +6,15 @@ DOMAIN-KEYWORD,claude
 # Others
 DOMAIN-KEYWORD,perplexity
 DOMAIN-SUFFIX,grazie.aws.intellij.net
-DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-KEYWORD,agumentcode
 DOMAIN-KEYWORD,diabrowser
+
+# Cursor & Grok
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-KEYWORD,grok
+DOMAIN-SUFFIX,graphite.com
 
 # Global
 DOMAIN-SUFFIX,ai
