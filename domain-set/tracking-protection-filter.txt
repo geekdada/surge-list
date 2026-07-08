@@ -78217,6 +78217,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.omnimove.tourradar.com
 .jitsu.ixbt.games
 .streams-scores.rbl.ms
 .sync.inmobi.com
@@ -83182,6 +83183,7 @@
 .deployinput.com
 .derbypops.com
 .desertgates.com
+.designdew.com
 .designsgrid.com
 .desirebucket.com
 .desiredirt.com
@@ -83257,6 +83259,7 @@
 .elusivecascade.com
 .embellishedmeadow.com
 .emberwhisper.com
+.embossedpaper.com
 .eminentbubble.com
 .eminentend.com
 .emptyboats.com
