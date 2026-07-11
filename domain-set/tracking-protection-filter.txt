@@ -78220,6 +78220,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.anonymized-metrics.rmbl.ws
+.m.privatesportshop.es
 .analytics.pextra.cloud
 .jitsu.www1.ru
 .telemetry.data.nvidia.com
@@ -82970,6 +82972,7 @@
 .cannonchange.com
 .canvasandsocks.com
 .canyonpizza.net
+.capitalopera.com
 .capriciouscorn.com
 .captainstick.com
 .captivatingcanyon.com
@@ -83944,7 +83947,9 @@
 .omgthink.com
 .onecrow.net
 .onedropocean.com
+.onekindmarket.com
 .onespecify.com
+.onioncomic.com
 .onlinestarten.net
 .onlywoofs.com
 .opalquill.com
