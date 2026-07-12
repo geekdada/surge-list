@@ -19,6 +19,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.widster.ru
 .widget.yourgood.app
 .quizgo-widget.ru
 .cdn.helvia.io
