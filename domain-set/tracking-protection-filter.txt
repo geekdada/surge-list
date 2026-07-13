@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.infraloods.nl
 .bidmachine.io
 .rum.catchmetrics.io
 .mradx.net
@@ -84214,6 +84215,7 @@
 .roaddynamics.com
 .roamhousing.com
 .robotgarages.com
+.robotrefinery.com
 .robotsrefinery.com
 .rockagainst.com
 .rockstarwriter.com
