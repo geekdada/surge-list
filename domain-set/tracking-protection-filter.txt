@@ -78222,6 +78222,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.akutagawa.consumer.gopuff.com
+.1414.hexa.su
+.c.bubutv.top
 .anonymized-metrics.rmbl.ws
 .m.privatesportshop.es
 .analytics.pextra.cloud
@@ -78262,7 +78265,6 @@
 .sgtm.cmoa.jp
 .transporter.makemytrip.global
 .cchome-stage.adobe.io
-.cchome.adobe.io
 .analytics.trbna.com
 .udderstack.allstar.gg
 .plausible.root-nation.net
@@ -83997,6 +83999,7 @@
 .partnerhut.com
 .partplanes.com
 .passivepolo.com
+.passwordbyte.com
 .pastoralroad.com
 .pawsnug.com
 .peacefullimit.com
@@ -84033,6 +84036,7 @@
 .placidperson.com
 .planebasin.com
 .plantcourse.com
+.playerhappy.com
 .playfulriver.com
 .pleasantpump.com
 .plotparent.com
@@ -84218,10 +84222,12 @@
 .robotrefinery.com
 .robotsrefinery.com
 .rockagainst.com
+.rocketmonitor.com
 .rockstarwriter.com
 .rollconnection.com
 .roseincome.com
 .rottenray.com
+.routebug.com
 .rovememoirs.com
 .royalespring.com
 .royalsbagels.com
