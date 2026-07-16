@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.external-tag.mysquadbeyond.com
+.heatmap.support-inc.co.jp
 .clktrkd.com
 .analytics.infraloods.nl
 .bidmachine.io
@@ -84583,6 +84585,7 @@
 .surfacesmedia.com
 .sustaindenim.com
 .swankysquare.com
+.swanwebcreations.com
 .sweetslope.com
 .swellstocking.com
 .swiftintro.com
