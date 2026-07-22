@@ -78227,6 +78227,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.s1.bss.2gis.com
+.t.mmganalytics.com
+.stat.ip.sb
 .bzrcdn.openai.com
 .franken-analytics.makeup.global
 .l.ovhcloud.com
@@ -83262,6 +83265,7 @@
 .doubtdrawer.com
 .dq95d35.com
 .dragonbats.com
+.dragontamer.net
 .drainpaste.com
 .dramaticdirection.com
 .dreamsdome.com
@@ -83281,8 +83285,10 @@
 .earthyfarm.com
 .easysyncnews.com
 .eatablesquare.com
+.eatinglate.com
 .echoacloud.com
 .echoinghaven.com
+.echoturkey.com
 .economysoil.com
 .educationcar.com
 .effervescentcoral.com
@@ -83329,6 +83335,7 @@
 .equablekettle.com
 .esoterictools.com
 .essaygiants.com
+.essayplanet.com
 .essayspin.com
 .etherealbamboo.com
 .ethereallagoon.com
@@ -83402,6 +83409,7 @@
 .fillthemap.com
 .filtercutter.com
 .finalizeforce.com
+.finaloptics.com
 .financefear.com
 .findyourdelight.com
 .firecatfilms.com
