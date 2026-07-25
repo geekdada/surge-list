@@ -78227,6 +78227,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.athena.archive.org
 .s1.bss.2gis.com
 .t.mmganalytics.com
 .stat.ip.sb
@@ -83487,7 +83488,6 @@
 .functionalfeather.com
 .funoverbored.com
 .funoverflow.com
-.funtoyplanet.com
 .furryfork.com
 .fusedcontent.com
 .futuristicfifth.com
@@ -84070,6 +84070,7 @@
 .planebasin.com
 .plantcourse.com
 .playerhappy.com
+.playerscache.com
 .playfulriver.com
 .pleasantpump.com
 .plotparent.com
@@ -84131,6 +84132,7 @@
 .propsynergy.com
 .protectpool.com
 .protestcopy.com
+.provingmagic.com
 .psychedelicarithmetic.com
 .pubfs.com
 .pubimgs.com
@@ -84167,6 +84169,7 @@
 .quixoticnebula.com
 .quizzicalpartner.com
 .quizzicalzephyr.com
+.rabbitboots.com
 .rabbitbreath.com
 .rabbitrifle.com
 .rackforstorage.com
@@ -84397,6 +84400,7 @@
 .signaturepod.com
 .silentcredit.com
 .silentjackal.com
+.silentsingle.com
 .siliconslow.com
 .sillyscrew.com
 .simplenaming.com
