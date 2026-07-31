@@ -5,7 +5,6 @@
 .xlog.snssdk.com
 .log.snssdk.com
 .analytics.xxcontent.lol
-.aladinia.app
 .cdp.customer.io
 .cloud.monolytics.app
 .acv.mira-dsp.com
@@ -78232,6 +78231,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats-cdn.polyspeak.ai
+.dap.hindustantimes.com
 .analyticsehnwe.servicebus.windows.net
 .flow-control.profitroom.net
 .e2.sy-d.io
@@ -82744,6 +82745,7 @@
 .abjectattempt.com
 .aboardamusement.com
 .aboardlevel.com
+.aboutcorgis.com
 .abovechat.com
 .abruptroad.com
 .absentairport.com
@@ -82794,6 +82796,7 @@
 .allthelogs.com
 .alltypo.com
 .alluringbucket.com
+.allycoop.com
 .almondbuns.com
 .alohamiles.com
 .aloofmetal.com
@@ -84512,7 +84515,9 @@
 .sparkgoal.com
 .sparklingshelf.com
 .specialscissors.com
+.specialtypin.com
 .spectacularstamp.com
+.speedysteaks.com
 .spellingthoughts.com
 .spellknight.com
 .spellmist.com
