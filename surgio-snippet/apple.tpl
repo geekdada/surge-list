@@ -168,10 +168,13 @@ DOMAIN-SUFFIX,itunes.com,{{ api_rule }}
 DOMAIN-SUFFIX,itunes.apple.com,{{ api_rule }}
 DOMAIN-SUFFIX,apple,{{ api_rule }}
 DOMAIN,weather-analytics-events.apple.com,{{ api_rule }}
-# iCloud 上传和下载
+# Fallback
 DOMAIN-SUFFIX,icloud-content.com,{{ api_rule }}
 DOMAIN-SUFFIX,me.com,{{ api_rule }}
 DOMAIN-SUFFIX,apple.com,{{ api_rule }}
 DOMAIN-SUFFIX,icloud.com,{{ api_rule }}
 DOMAIN-SUFFIX,apple-cloudkit.com,{{ api_rule }}
+DOMAIN-SUFFIX,apple.com.edgesuite.net,{{ api_rule }}
+DOMAIN-SUFFIX,apple.com.akadns.net,{{ api_rule }}
+DOMAIN-SUFFIX,apple.com.edgekey.net,{{ api_rule }}
 {% endmacro %}
