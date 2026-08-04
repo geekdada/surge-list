@@ -37,13 +37,10 @@
 .analytics.ekonsilio.io
 .insights.xyba.dev
 .sts.marketingsuite.jp
-.umami.vidup.to
-.umami.vidfast.pro
-.umami.vidcore.net
 .g10498469755.co
 .handler.rgstats.com
 .identity.treeumapp.net
-.umommy.online
+.umommy.cyou
 .marcuscash.one
 .vm.target-video.com
 .tagmanager.andata.ru
@@ -650,7 +647,6 @@
 .tr.dec-connect.decsuite.com
 .yatr.ru
 .analytics-fe.digital-cloud.medallia.eu
-.umami.aigenerations.net
 .brilliantcollector.com
 .flag.lab.amplitude.com
 .pop.devil.services
@@ -78377,7 +78373,6 @@
 .static-rmr.reworldmediafactory.com
 .cca-lite.coinbase.com
 .roas-service.store-services-prod.remarkable.com
-.umami.syg.ma
 .event.dxmdp.com
 .beacon.cdnpure.com
 .r.cdnpure.com
@@ -78687,7 +78682,6 @@
 .analytics.edaily.co.kr
 .adgbb.io.naver.com
 .sp.justwatch.com
-.umami.spencerdevs.xyz
 .data.client.openweb.bid
 .launch-analytics-plugin.launchpotato.com
 .d2zd0wa1vpt7j9.cloudfront.net
@@ -79169,7 +79163,6 @@
 .analytics.raenonx.cc
 .analytics.vixcloud.co
 .plausible.pronouns.cc
-.umami.subdavis.com
 .lptag.liveperson.net
 .sks.mrkhub.com
 .measuring-pixel-service.alza.cz
@@ -83398,6 +83391,7 @@
 .fancycolorlist.net
 .fancydune.com
 .fangfeeling.com
+.fanless.net
 .farethief.com
 .farmergoldfish.com
 .farshake.com
@@ -83668,6 +83662,7 @@
 .hystericalfinger.com
 .icywinter.com
 .idlecollect.com
+.idsmodules.com
 .illinvention.com
 .illustriousoatmeal.com
 .imagebuffer.com
