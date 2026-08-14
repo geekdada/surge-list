@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.api.firwinds.site
+.geniuslinkcdn.com
+.opendatastats.net
 .assets.onedollarstats.com
 .u.lessbutbetter.studio
 .analytics.autoodb.com
@@ -81732,6 +81735,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.adashx.m.taobao.com
 .logs.profi.ru
 .w.inmobi.com
 .pbs.inmobi.com
@@ -83200,7 +83204,6 @@
 .cumbersomecarpenter.com
 .curatedtea.com
 .curbminers.com
-.curbneon.com
 .curiouschalk.com
 .curiousmetal.com
 .curioussuccess.com
@@ -84818,6 +84821,7 @@
 .turtleface.net
 .twelvedawn.com
 .twistloss.com
+.twisty.net
 .typepredict.com
 .typewebsite.com
 .typicalairplane.com
@@ -84891,7 +84895,9 @@
 .voidgoo.com
 .volatileprofit.com
 .volatilevessel.com
+.volumesystem.com
 .voraciousgrip.com
+.wafflemakers.net
 .waitingnumber.com
 .wantingwindow.com
 .warmafterthought.com
@@ -84906,9 +84912,11 @@
 .waylowrates.net
 .weatherbytes.net
 .weatherpush.net
+.webpagekit.com
 .websitesdude.com
 .wellgroomedapparel.com
 .wellgroomedhydrant.com
+.westsideglobe.com
 .whimsicalcanyon.com
 .whimsicalgrove.com
 .whimsicalvantage.com
