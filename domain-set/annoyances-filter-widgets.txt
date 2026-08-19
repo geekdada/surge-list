@@ -1,3 +1,4 @@
+.ar-cdn.net
 .re.trigs-sockets.com
 .feedgrabbr.com
 .rss.solty.biz
