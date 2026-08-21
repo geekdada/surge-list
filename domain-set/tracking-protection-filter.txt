@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.fairanalytics.de
+.fml-x.com
 .analytics.talentegy.com
 .cdn.mgln.ai
 .whoas.xyz
@@ -99453,6 +99455,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.scollect.17173.com
 .beacon.errorception.com
 .analytics.byub.org
 .analytics-api.byub.org
@@ -104013,6 +104016,7 @@
 .adorableattention.com
 .adventurousamount.com
 .aerialapps.com
+.afeteforfood.com
 .affectionknit.com
 .afraidlanguage.com
 .agencysignals.com
@@ -104116,6 +104120,7 @@
 .bananabarrel.com
 .bandborder.com
 .bandboxprints.com
+.bannerave.com
 .barbarousbase.com
 .barbershirts.com
 .barcodetool.com
@@ -104248,6 +104253,7 @@
 .bungeesleeves.com
 .burgersalt.com
 .burnbubble.com
+.burningclock.com
 .businessupdater.com
 .bustlingbook.com
 .busybabybee.com
@@ -104285,6 +104291,7 @@
 .captivatingperformance.com
 .carbongarden.net
 .cardmethod.com
+.cardproducer.com
 .carefuldolls.com
 .caringcast.com
 .carloforward.com
@@ -105588,7 +105595,6 @@
 .rainyhand.com
 .rainyrule.com
 .rambunctiousflock.com
-.randisphotos.com
 .rangecake.com
 .rangeplayground.com
 .rangergustav.com
