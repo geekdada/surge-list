@@ -104595,6 +104595,7 @@
 .driftpizza.com
 .droidwiz.com
 .drollwharf.com
+.drumfills.com
 .drydrum.com
 .dualping.com
 .dustydime.com
@@ -106316,6 +106317,7 @@
 .vividplume.com
 .vocalsure.com
 .voicepins.com
+.voicewinds.com
 .voidgoo.com
 .volatileprofit.com
 .volatilevessel.com
