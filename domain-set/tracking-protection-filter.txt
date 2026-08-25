@@ -99457,6 +99457,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.p.softmedia.cz
 .analytics.sportera.fans
 .analytics.sen.go.kr
 .scollect.17173.com
@@ -102968,6 +102969,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.visit-server.inmobi-choice.io
 .adashx.m.taobao.com
 .logs.profi.ru
 .w.inmobi.com
@@ -105135,6 +105137,7 @@
 .lessonsnetwork.com
 .libraryfacts.com
 .libraryvalue.com
+.lifecoverdirect.com
 .liftedknowledge.com
 .lightenafterthought.com
 .lighttalon.com
@@ -105241,6 +105244,7 @@
 .memopilot.com
 .memorizematch.com
 .memorizeneck.com
+.mentalreef.com
 .menteechain.com
 .mentorsticks.com
 .meowcustom.com
@@ -105268,6 +105272,7 @@
 .miscjewelry.com
 .miscreantmoon.com
 .missionrewards.com
+.missvent.com
 .mistervillas.com
 .mistyhorizon.com
 .mittencattle.com
@@ -105332,6 +105337,7 @@
 .networklast.com
 .newarkdriving.com
 .newsbotnet.com
+.newscompiler.com
 .newsuccesssecret.com
 .nexttopchef.com
 .nicefollows.com
@@ -105365,6 +105371,7 @@
 .nudgeduck.com
 .nullnorth.com
 .nullradar.com
+.numericblog.com
 .numerousnest.com
 .oafishchance.com
 .oafishobservation.com
