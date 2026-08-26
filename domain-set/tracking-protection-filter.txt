@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.beaconimages.netflix.net
 .xstats.st
 .sumetrika.com
 .fairanalytics.de
@@ -99457,6 +99458,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.excess-ga.duolingo.com
+.excess.duolingo.com
 .p.softmedia.cz
 .analytics.sportera.fans
 .analytics.sen.go.kr
@@ -104082,6 +104085,7 @@
 .arclet.net
 .aromamirror.com
 .arrivegrowth.com
+.artbranch.net
 .articledemon.com
 .arubahello.com
 .askdriver.com
@@ -104098,6 +104102,7 @@
 .attractionbanana.com
 .attractivecap.com
 .audioarctic.com
+.autoappearancetraining.com
 .automaticside.com
 .automaticturkey.com
 .availablerest.com
@@ -104161,6 +104166,7 @@
 .betazebra.com
 .bewilderedbattle.com
 .bewilderedblade.com
+.beyondgoodness.com
 .bhcumsc.com
 .bidpapers.com
 .bigfishapparel.com
@@ -104192,6 +104198,7 @@
 .blitzcampaigns.com
 .blockdial.com
 .bloomsend.com
+.bluecollarmuse.com
 .blueeyedblow.com
 .bluelionlabs.net
 .bluenest.net
