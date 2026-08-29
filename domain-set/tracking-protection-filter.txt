@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.northstar.cr
 .thinkingdata.cn
 .bidscube.com
 .eu-stsdk.vivoglobal.com
@@ -103593,6 +103594,7 @@
 .vgs-collect-keeper.apps.verygood.systems
 .g.analytics.versa-ai.com
 .analytics.rayjump.com
+.analytics-ios-tcp.rayjump.com
 .events.ifunny.co
 .telemetry.navigatorapp.net
 .pathfinder.analytics.komoot.net
@@ -104617,6 +104619,7 @@
 .drollwharf.com
 .drumfills.com
 .drydrum.com
+.dryerwasher.com
 .dualping.com
 .dustydime.com
 .dustyhammer.com
@@ -104762,6 +104765,7 @@
 .fieldconfig.com
 .figsprotein.com
 .figurehunter.net
+.fileshareengine.com
 .fillthemap.com
 .filtercutter.com
 .finalizeforce.com
@@ -105489,6 +105493,7 @@
 .peoplebrain.net
 .pepperrun.com
 .perfectfetch.com
+.permagroove.com
 .petitechili.com
 .phonecup.com
 .phoneresult.com
@@ -105518,6 +105523,7 @@
 .placidperson.com
 .planebasin.com
 .plantcourse.com
+.plantscafe.net
 .playerhappy.com
 .playerscache.com
 .playfulriver.com
