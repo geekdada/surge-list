@@ -4,6 +4,10 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cdnet.nasmob.com
+.trackhaven.com
+.rtbscale.com
+.gaconnector.com
 .northstar.cr
 .thinkingdata.cn
 .bidscube.com
@@ -2181,7 +2185,6 @@
 .55labs.com
 .6sc.co
 .77tracking.com
-.7bpeople.com
 .7eer.net
 .99stats.com
 .9nl.eu
@@ -99464,6 +99467,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ue.a-bly.com
+.pixel-frontend.avito.ru
+.pausible.flaq.ai
+.stats.reanime.to
+.stats.flixcloud.cc
 .posthog.worldshopping.global
 .aka.asiae.co.kr
 .analytics.watchott.org
@@ -99995,7 +100003,6 @@
 .analytics.org.coveo.com
 .analytics.zdassets.com
 .analytics.flexclip.com
-.iws2.io.naver.com
 .clog.tanshudata.com
 .gw.stape.fr
 .analytics-ipv6.tiktokw.us
@@ -101028,8 +101035,6 @@
 .analytics.aklamio.com
 .collect.hollisterco.com
 .d17tqr44y57o31.cloudfront.net
-.analytics-mkt.wemakeprice.com
-.ad-log.wemakeprice.com
 .analytics.ubports.com
 .tracker.dcdn.baidu.com
 .apetite.index.hr
@@ -101624,7 +101629,6 @@
 .daq0d0aotgq0f.cloudfront.net
 .data-collector.wefi.com
 .data.mob.com
-.dc8xl0ndzn2cb.cloudfront.net
 .dcs.maxthon.com
 .dct.mango-office.ru
 .dd6zx4ibq538k.cloudfront.net
@@ -101886,7 +101890,6 @@
 .logcollect.totalcms.ncloud.or.kr
 .logconfig.polarisoffice.com
 .logger.applovefrom.com
-.logger.bzu.kr
 .logger.goeuro.com
 .logger.nerdwallet.com
 .logger.snackly.co
@@ -102312,7 +102315,6 @@
 .static.cloudflareinsights.com
 .static.parsely.com
 .statistics.11880.com
-.statistics.crowdynews.com
 .statistics.daktilo.com
 .statistics.fppressa.ru
 .statistics.mailerlite.com
@@ -102667,7 +102669,6 @@
 .webvitals.luxnet.ua
 .widget.perfectmarket.com
 .wl.yna.co.kr
-.wlog.tmon.co.kr
 .wstat.ozon.ru
 .wt.soundestlink.com
 .wtbevents.pricespider.com
@@ -102876,7 +102877,6 @@
 .statistic.gamona.de
 .stats.computecmedia.de
 .web-t.9gag.com
-.webmetrics.nintendo-europe.com
 .webstat.freaks4u.com
 .https-filtering-check.adtidy.org
 .adeventtracker.spotify.com
@@ -105555,9 +105555,11 @@
 .popliquids.com
 .popmixradio.com
 .popplantation.com
+.porksoda.com
 .possibleboats.com
 .possiblepencil.com
 .potatoinvention.com
+.potentmagic.com
 .powerfulblends.com
 .powerfulcopper.com
 .powertoolwiki.com
@@ -105584,6 +105586,7 @@
 .pristinegale.com
 .probablepartner.com
 .processplantation.com
+.procollecting.com
 .producecopy.com
 .producepickle.com
 .productsurfer.com
