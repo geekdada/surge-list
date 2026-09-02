@@ -830,7 +830,6 @@
 .livechat.oyunfor.com
 .chatbot.akbank.com
 .k-pilot.kariyer.net
-.ws.nperf.com
 .date.forumodua.com
 .hawk.laptopmag.com
 .script.marquiz.ru
