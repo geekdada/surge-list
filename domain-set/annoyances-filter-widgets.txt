@@ -158,6 +158,7 @@
 .perimeterx.widget.insent.ai
 .gubagootracking.com
 .cdn.gubagoo.io
+.cubot.eigene.io
 .go.pardot.com
 .dl.metabar.ru
 .plista.com
