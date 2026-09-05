@@ -786,6 +786,7 @@
 .gacraft.jp
 .api.popin.cc
 .comm100.com
+.dante-ai.com
 .app.davision.ai
 .zdorovyak.com
 .code.tidio.co
