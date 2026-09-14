@@ -11,6 +11,7 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.rival-contents.com
 .controlpush.com
 .js.flashyapp.com
 .sdk.postscript.io
