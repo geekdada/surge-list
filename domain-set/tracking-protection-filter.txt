@@ -4,6 +4,19 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.a.ussp.io
+.bidderstack.com
+.cs.ifedata.ru
+.myweb3id.io
+.targetrtb.com
+.mpartner.digital
+.onetarget.ru
+.intent.ai
+.rtb.dynotech.io
+.sp.linkssp.ru
+.sync.adsp.io
+.sync.gonet-ads.com
+.smartcallback.ru
 .inmobicdn.net
 .mydatascript.bubbleup.com
 .getads.ru
@@ -99465,6 +99478,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.p.food.ru
 .7lzwgj.donaukurier.de
 .events.plutus.ninja
 .metrics.earlygame.com
@@ -104643,6 +104657,7 @@
 .drainpaste.com
 .dramaticdirection.com
 .dreamsdome.com
+.driedwheat.com
 .driftingchef.com
 .driftpizza.com
 .droidwiz.com
@@ -104744,6 +104759,7 @@
 .extramonies.com
 .exuberantedge.com
 .fabcharting.com
+.fabledglory.com
 .fabledsoul.com
 .fabulousbooking.com
 .facilitatebreakfast.com
@@ -104775,6 +104791,7 @@
 .fatcoil.com
 .faucetfoot.com
 .faultycanvas.com
+.faxardent.net
 .faxcoupons.com
 .fearfulfish.com
 .fearfulmint.com
@@ -104806,6 +104823,7 @@
 .findyourdelight.com
 .firecatfilms.com
 .fireworkcamp.com
+.firmasset.com
 .firstendpoint.com
 .firstscreenshot.com
 .fishersfinds.com
@@ -106240,6 +106258,7 @@
 .thebestpaints.com
 .thebigvan.com
 .thebrainybulb.com
+.thecodingpad.com
 .thecounter.net
 .thecrazychili.com
 .thefishstops.com

@@ -64,6 +64,7 @@
 .smetrics.telegraph.co.uk
 .https-filtering-check.adtidy.org
 .sdk.chirpyweb.com
+.app.notirabbit.com
 .push.brownbrothers.io
 .push.testabcd.top
 .bildirimat.com
