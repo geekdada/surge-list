@@ -99485,6 +99485,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics.sportigio.com
 .bzr.openai.com
 .rlog.baifentan.com
 .analytics.laxamentum.tech
@@ -102881,6 +102882,9 @@
 .essential-apps-analytics.herokuapp.com
 .d10vy5gom1ed53.cloudfront.net
 .um-public-panel-prod.s3.amazonaws.com
+.tracker.telegram.hr
+.beam.telegram.hr
+.campaign.telegram.hr
 .o11y-proxy-otel-frontend.meli.com
 .mon.avito.ru
 .analytics-fe.digital-cloud-west.medallia.com
@@ -105809,6 +105813,7 @@
 .reversetickets.com
 .reviewacousticguitar.com
 .revivalvoice.com
+.rewardangels.com
 .rhetoricalactivity.com
 .rhetoricalloss.com
 .rhetoricalveil.com
@@ -106369,6 +106374,7 @@
 .topcrazypress.com
 .topicalcartel.com
 .topicjungle.com
+.toplaunch.net
 .topsecretapp.net
 .topthrowbacks.com
 .tortoisepage.com
@@ -106378,6 +106384,7 @@
 .tracecontent.com
 .traderbyte.com
 .tradetooth.com
+.trainingreality.com
 .tranquilcan.com
 .tranquilplume.com
 .tranquilveil.com
@@ -106464,6 +106471,7 @@
 .velvetquasar.com
 .vengefulgrass.com
 .venomousvessel.com
+.venturemen.com
 .venusgloria.com
 .verbacademy.com
 .verdantanswer.com
@@ -106507,6 +106515,7 @@
 .wackysketch.com
 .wafflemakers.net
 .waitingnumber.com
+.walkourworld.com
 .wantingwindow.com
 .warmafterthought.com
 .warnwing.com
@@ -106522,6 +106531,7 @@
 .weatherbytes.net
 .weatherpush.net
 .webbyword.net
+.webclarion.com
 .webfountains.com
 .webpagekit.com
 .websitesdude.com
