@@ -1,3 +1,4 @@
+.compliance.datacamp.com
 .mydatascript.bubbleup.com
 .consentpro.com
 .dadoslegais.com

@@ -99485,6 +99485,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.users.vidy.st
+.hits.letras.mus.br
+.tracking.dpmlol.com
 .beam.telegram.hr
 .tracker.telegram.hr
 .campaign.telegram.hr
@@ -100145,7 +100148,6 @@
 .web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 .log.realelements.live
 .metrics.cs.money
-.counter-mdpr.freetls.fastly.net
 .vortex-dual.hulu.com
 .alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 .xpu.samsungelectronics.com
@@ -104188,6 +104190,7 @@
 .awaybound.com
 .awzbijw.com
 .axiomaticanger.com
+.axonsite.com
 .azuremystique.com
 .azurestealth.com
 .backupcat.com
@@ -105121,6 +105124,7 @@
 .hybridburst.com
 .hydraconcept.com
 .hypercarart.com
+.hyperfrost.net
 .hyperlegend.com
 .hypnoticwound.com
 .hystericalcloth.com
