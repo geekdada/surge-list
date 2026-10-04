@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev
 .ymzu9eeo1y.ru
 .a3kvau184uea.com
 .ck4hkyq3myt6.com
@@ -106311,6 +106312,7 @@
 .tangibleteam.com
 .tangyamount.com
 .tangycover.com
+.tapoutmusic.com
 .taskdelight.com
 .tasselapp.com
 .tastelesstrees.com
