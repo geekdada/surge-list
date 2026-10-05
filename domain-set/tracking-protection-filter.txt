@@ -664,6 +664,7 @@
 .timon.zijieapi.com
 .view.zijieapi.com
 .mcs.zijieapi.com
+.mon.zijieapi.com
 .pa-cd.com
 .covatic.io
 .cdn.gpmdata.ru
@@ -904,7 +905,6 @@
 .sensors-log.dongqiudi.com
 .jokerly.com
 .analytics.gnetworks.xyz
-.mon.zijieapi.com
 .statgw.devtodev.com
 .dmpmetrics.rcsmetrics.it
 .cdn.granify.com
@@ -99575,6 +99575,7 @@
 .t.mmganalytics.com
 .stat.ip.sb
 .bzrcdn.openai.com
+.lc-event.pixiv.net
 .franken-analytics.makeup.global
 .l.ovhcloud.com
 .h2tcbox.baidu.com
@@ -99648,6 +99649,7 @@
 .sst.stickerei-stoiber.ch
 .sst.stickerei-stoiber.de
 .tagging.trined.nl
+.tagging.utwente.nl
 .tagging.voordeelvanger.nl
 .tggng.suitable.de
 .tds.vss-security.nl
@@ -99722,6 +99724,7 @@
 .utsssl.gmarket.co.kr
 .weblog.eseoul.go.kr
 .qa-track.ssg.com
+.track.ssg.com
 .ssgmanual.snov.io
 .metrics-content.duckduckgo.com
 .analytics.morphe.software
@@ -99948,6 +99951,7 @@
 .applytics.napps-1.com
 .z.cdn.protect-ad.com
 .sb1.mangataro.org
+.sgtm.yubico.com
 .ins.oberpfalzmedien.de
 .hbrcv.adobe.com
 .hbrt.adobe.com
@@ -100108,7 +100112,6 @@
 .collect.trendyol.com
 .en-collect.trendyol.com
 .demeter-tr-core-collect.trendyol.com
-.lc-event.pixiv.net
 .d30qdagvt44524.cloudfront.net
 .tracker-beam.aktuality.sk
 .collector.fullxh.com
@@ -100133,7 +100136,6 @@
 .analytics.python.org
 .t.danielwellington.com
 .analytics.emforce.co.kr
-.track.ssg.com
 .proxima.midjourney.com
 .e.aimerce.ai
 .j0v36abmdj.execute-api.us-east-1.amazonaws.com
@@ -100228,7 +100230,6 @@
 .tagging.seniorenalarmen.nl
 .tagging.stieglitz.nl
 .tagging.systemyzawieszen.pl
-.tagging.utwente.nl
 .tagging.veda.ch
 .tagging.vhdakkapellen.nl
 .tagging.woodtex.be
@@ -100372,6 +100373,7 @@
 .pixel.web.roku.com
 .analytics.cloudevo.ai
 .qbrth.ezcontacts.com
+.intake-analytics.wikimedia.org
 .lgforbes.akamaized.net
 .event.wondershare.com
 .collector.abc.net.au
@@ -100407,7 +100409,9 @@
 .atom-qa.warnermedia.com
 .tralut.chatpdf.com
 .tracking.leadspark.io
+.femetrics.grammarly.io
 .media-stat.mail.ru
+.telemetry.tradingview.com
 .analytics.shorthand.com
 .gh.fanatical.com
 .heartbeat.crackle.com
@@ -100532,7 +100536,6 @@
 .sgtm.tagmanageritalia.it
 .sgtm.technikboerse.com
 .sgtm.tennis-point.de
-.sgtm.yubico.com
 .ss.esade.edu
 .sst.colemanfurniture.com
 .sst.shopware.com
@@ -100647,6 +100650,7 @@
 .ny77jj.washingtonpost.com
 .spoor-api.ft.com
 .temp.twicomi.com
+.tracking.carsales.com.au
 .beacon.nc-net.or.jp
 .lhe-beacon.team-rec.jp
 .gtmfsstatic.getgoogletagmanager.com
@@ -100663,7 +100667,6 @@
 .ingest.make.rvohealth.com
 .segment-api.goodrx.com
 .zion-telemetry-nonprod.api.cnn.io
-.femetrics.grammarly.io
 .realtimeanalytics.yext.com
 .stats.indianpornempire.com
 .analytics.verfacto.com
@@ -101175,7 +101178,6 @@
 .lists.ccmbg.com
 .track-srv.vietnamnet.vn
 .stats.tirexo.blue
-.intake-analytics.wikimedia.org
 .tracking.univtec.com
 .counter.sberbank.ru
 .mxpl.9gag.com
@@ -102502,7 +102504,6 @@
 .telemetry.jivosite.com
 .telemetry.malwarebytes.com
 .telemetry.soundcloud.com
-.telemetry.tradingview.com
 .temptation.ad.nl
 .teralog.techhub.co.kr
 .thj.astrakhan.ru
@@ -102630,7 +102631,6 @@
 .tracking.bdi-services.de
 .tracking.bloomberg.com
 .tracking.bonnier.news
-.tracking.carsales.com.au
 .tracking.chacha.com
 .tracking.channelsight.com
 .tracking.conduit.com
@@ -106405,6 +106405,7 @@
 .topicalcartel.com
 .topicjungle.com
 .toplaunch.net
+.topratedwaterfilter.com
 .topsecretapp.net
 .topthrowbacks.com
 .tortoisepage.com
