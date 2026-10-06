@@ -99487,6 +99487,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.apm.volccdn.com
+.apmplus.volces.com
+.evs.segwww.incident.io
 .scout.data.funkedigital.de
 .sp.data.funkedigital.de
 .nao.kagane.to
@@ -106529,6 +106532,7 @@
 .viowrel.com
 .viralfoodie.net
 .virtualvincent.com
+.visualcommservices.com
 .vividcache.com
 .vividcanopy.com
 .vividfrost.com
