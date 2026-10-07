@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,hls-amt.itunes.apple.com,{{ default_rule }}
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,{{ default_rule }}
 DOMAIN-SUFFIX,cdn-apple.com,{{ default_rule }}
 DOMAIN,cdn.apple-cloudkit.com,{{ default_rule }}
+AND,((DOMAIN-SUFFIX,tv.apple.com), (DOMAIN-KEYWORD,vod)),{{ default_rule }}
 # Developer
 DOMAIN,devimages-cdn.apple.com,{{ default_rule }}
 DOMAIN,devstreaming-cdn.apple.com,{{ default_rule }}
