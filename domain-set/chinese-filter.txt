@@ -240,11 +240,19 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .cupfox.app
+.gb742ld0c.com
+.juggler36.com
+.bdxwfvlszerxbi.com
 .w8n97pkzn6.com
 .leotard54.com
 .dabetlewtbdppi.com
 .vfqhky3tos.com
 .w4b52osbr5.com
+.g86a0qbf1h.com
+.dn1pvim4v1.com
+.zr7f20uk8y.com
+.5bfjvunmrp.com
+.g2dgmgl9dy.com
 .trampoline12.com
 .0i2nax2di.com
 .ifnb6hfem.com
@@ -5271,7 +5279,6 @@
 .ads.sohu.com
 .ads.yeeyi.com
 .adsc.wasu.tv
-.adsclick.yx.js.cn
 .adshows.21cn.com
 .adsmind.gdtimg.com
 .adt.xdrig.com
@@ -6090,7 +6097,6 @@
 .qc1.cheshipin.com
 .qdzyspjx.com
 .qifake.com
-.qiji1.jdwx.info
 .qiyeb.iaskbus.com
 .qiyegongqiu1.qiyegongqiu.com
 .ql.uzuzuz.com

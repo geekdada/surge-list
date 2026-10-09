@@ -132,6 +132,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.consentement.quebecor.com
 .didomi.foodvisor.io
 .widgets.openli.com
 .dse-cookiebanner.ford.com
