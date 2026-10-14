@@ -102954,6 +102954,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.tracking.broadpeak.io
 .a.wing.st
 .metrics.elcomercio.es
 .ad-manager.matsukiyococokara-online.com
@@ -108011,6 +108012,7 @@
 .combcompetition.com
 .cometquote.com
 .comfortablecheese.com
+.commitlogs.com
 .comparereaction.com
 .compilework.com
 .condemnedcomb.com
@@ -108225,6 +108227,7 @@
 .drydrum.com
 .dryerwasher.com
 .dualping.com
+.duetcode.com
 .dusthorses.com
 .dustydime.com
 .dustyhammer.com
