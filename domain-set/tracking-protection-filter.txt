@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.g.rtbrain.app
+.adtasukaru.com
 .manus-analytics.com
 .rt.buzzni.com
 .did.kr
@@ -102955,6 +102957,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.config.trackingplan.com
+.eu-tracks.trackingplan.com
+.tracks.trackingplan.com
+.log.mopo.de
 .tracking.broadpeak.io
 .a.wing.st
 .metrics.elcomercio.es
@@ -108614,6 +108620,7 @@
 .exportdialog.com
 .extracover.net
 .extractobservation.com
+.extraliner.com
 .extralocker.com
 .extramonies.com
 .exuberantedge.com
@@ -108692,6 +108699,7 @@
 .fishspies.com
 .fitgreatest.com
 .fitnessmapper.com
+.fitnesssponsor.com
 .fitwithalpine.com
 .fivesidedsquare.com
 .fixedfold.com
@@ -108760,6 +108768,7 @@
 .fronttoad.com
 .frozekitchen.com
 .frugalfiestas.com
+.ftpmagic.com
 .fudgegenie.com
 .fuelfever.net
 .fuelinspector.com

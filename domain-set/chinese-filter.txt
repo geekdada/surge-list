@@ -239,6 +239,11 @@
 .51tongji.trafficmanager.net
 .cnzz.trafficmanager.net
 .hash.trafficmanager.net
+.0grzr3u2t.com
+.cavalcade86.com
+.bobztdbqdxrdng.com
+.1nvnkyg65.com
+.9sgckbc7e.com
 .w6n00vtw6.com
 .8icep0mqi.com
 .p5jrngqnp.com
@@ -247,6 +252,10 @@
 .equestrian22.com
 .dlfhhlfoguddba.com
 .x2w54giecw.com
+.mqgxw8ng75.com
+.do7gsv4xsf.com
+.geet3xanxc.com
+.89y84ta6xg.com
 .03mnj87wir.com
 .051ss3usg.com
 .0bhl1k9hi.com
@@ -4909,7 +4918,6 @@
 .100.pncdn.cn
 .2016.bkill.net
 .5y9nfpes.52pk.com
-.614514.com
 .7xsf3h.com1.z0.glb.clouddn.com
 .8jkx.com
 .9fum.ifeng.com
@@ -4927,7 +4935,6 @@
 .ad-api.cnblogs.com
 .ad-img.diyidan.net
 .ad.52av.one
-.ad.52av.tv
 .ad.bobi.tw
 .ad.byfuh.com
 .ad.ccement.com
@@ -5026,7 +5033,6 @@
 .gg.0598yu.com
 .gg.blueidea.com
 .gg.cs090.com
-.gg.gsdlcn.com
 .gg.kugou.com
 .gg.sonhoo.com
 .gg.uuu9.com
