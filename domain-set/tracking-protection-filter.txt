@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.stats.curd.io
 .jisao12.cyou
 .ptrack.xyz
 .atlas.atsptp.com
@@ -105086,6 +105087,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.data.vzhh.de
+.applytics.zwyr157wwiu6eior.com
 .zwjvbnvhnzme.heise.de
 .b.allegrocdp.com
 .metrics.shasetsu.jp
@@ -112277,6 +112280,7 @@
 .maliciousmusic.com
 .manamoment.com
 .manateemotors.com
+.manawell.net
 .manydiamonds.com
 .manyfishes.com
 .mapbasin.com
@@ -113112,6 +113116,7 @@
 .spuriousair.com
 .spurioussquirrel.com
 .spuriousstranger.com
+.spyrep.com
 .spysubstance.com
 .squadtee.net
 .squalidscrew.com
@@ -113515,6 +113520,7 @@
 .webspa.net
 .webspires.net
 .weeklycurrents.com
+.wellbeingforce.com
 .wellgroomedapparel.com
 .wellgroomedhydrant.com
 .westsideglobe.com
@@ -113554,6 +113560,7 @@
 .wistfulwaste.com
 .withsharks.com
 .withsounds.com
+.wittyfamous.com
 .wittypopcorn.com
 .wittyshack.com
 .wizardbuck.com
