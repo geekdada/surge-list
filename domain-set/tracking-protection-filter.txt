@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.metrics.selectel.ru
+.collect.pravdastat.com
 .search-monitor.11st.co.kr
 .a.cdn-lab.shop
 .stats.curd.io
@@ -108548,7 +108550,12 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.umami.vidfast.vc
+.umami.vidup.to
+.bigdata.downza.com
+.zenstats.yzhy19.cn
 .data.vzhh.de
+.telemetry.paypay.ne.jp
 .applytics.zwyr157wwiu6eior.com
 .zwjvbnvhnzme.heise.de
 .b.allegrocdp.com
@@ -115425,6 +115432,7 @@
 .granlite.com
 .gravitygive.com
 .gravitykick.com
+.gravitypics.com
 .graychalk.com
 .grayoranges.com
 .grayreceipt.com
@@ -115436,6 +115444,7 @@
 .gripcorn.com
 .grocerycrew.com
 .grocerydog.com
+.groglog.com
 .groovespacing.com
 .groovyornament.com
 .grouchybrothers.com
@@ -115476,6 +115485,7 @@
 .harmonywing.com
 .hayweb.net
 .hazmatworkshop.com
+.headbandeau.com
 .headydegree.com
 .healflowers.com
 .healthyclad.com
@@ -116155,6 +116165,7 @@
 .queenskart.com
 .questionate.com
 .quicklyedit.com
+.quickpints.com
 .quicktattoo.com
 .quicktrick.net
 .quietknowledge.com

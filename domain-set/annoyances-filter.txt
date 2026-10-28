@@ -791,6 +791,7 @@
 .gacraft.jp
 .api.popin.cc
 .comm100.com
+.widget.brambles.ai
 .barry3.controld.com
 .dante-ai.com
 .app.davision.ai
