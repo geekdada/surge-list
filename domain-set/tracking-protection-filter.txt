@@ -108550,6 +108550,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.spidersense.xyz
+.umami.vidcore.net
 .umami.vidfast.vc
 .umami.vidup.to
 .bigdata.downza.com
@@ -115491,6 +115493,7 @@
 .healthyclad.com
 .heartbreakingmind.com
 .hearthow.com
+.heatrave.com
 .heavydetail.com
 .heavyplayground.com
 .hellospur.com
@@ -115498,7 +115501,9 @@
 .helpcollar.com
 .helpflame.com
 .helpingbits.com
+.hensonempire.com
 .heycomputers.com
+.heyhotshots.com
 .hfc195b.com
 .highfalutinbox.com
 .highfalutinhoney.com
@@ -116180,6 +116185,7 @@
 .rabbitboots.com
 .rabbitbreath.com
 .rabbitrifle.com
+.racerpets.com
 .rackforstorage.com
 .radexports.com
 .radiantcanopy.com
@@ -116203,6 +116209,7 @@
 .reactjspdf.com
 .reactwizard.com
 .readingguilt.com
+.readourminds.com
 .readymoon.com
 .readysetcard.com
 .readysnails.com
@@ -116234,6 +116241,7 @@
 .regularplants.com
 .regulatesleet.com
 .rehabilitatereason.com
+.reignfans.com
 .relationrest.com
 .releasepath.com
 .rememberdiscussion.com
