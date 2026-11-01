@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.ubbrobccheck20.cc
 .radar.snitcher.com
 .cdn.snitcher.com
 .claydar.com
@@ -114849,6 +114850,7 @@
 .ciderfeast.com
 .cinemabonus.com
 .cinemafair.com
+.circascope.com
 .circlelevel.com
 .citizensactive.com
 .citydeal.net
@@ -115622,6 +115624,8 @@
 .j93557g.com
 .jailbulb.com
 .jamexport.com
+.jazzdocumentary.com
+.jazzpianofast.com
 .jellyfinstream.com
 .jetskiscovers.com
 .jewelryforest.com
@@ -115630,6 +115634,7 @@
 .joblessdrum.com
 .jobmist.com
 .joshpaintings.com
+.joybegins.com
 .joyfulharbor.com
 .joyouspool.com
 .joyoussurprise.com
@@ -115658,6 +115663,7 @@
 .kartbarriersystem.com
 .keenquill.com
 .kernellife.com
+.keymono.net
 .kidpowers.com
 .kidrobotgames.com
 .kindhush.com
