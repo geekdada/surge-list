@@ -1,3 +1,5 @@
+.privacy.fcbcookies.cat
+.cookiethough.dev
 .static-cmp22.ciaopeople.it
 .compliance.datacamp.com
 .mydatascript.bubbleup.com
@@ -792,6 +794,7 @@
 .gacraft.jp
 .api.popin.cc
 .comm100.com
+.chat.loopsai.com
 .widget.brambles.ai
 .barry3.controld.com
 .dante-ai.com
