@@ -794,6 +794,7 @@
 .gacraft.jp
 .api.popin.cc
 .comm100.com
+.web.moveo.ai
 .chat.loopsai.com
 .widget.brambles.ai
 .barry3.controld.com
