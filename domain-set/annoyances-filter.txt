@@ -135,6 +135,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.cmp.sklep.motogo.pl
 .consentement.quebecor.com
 .didomi.foodvisor.io
 .widgets.openli.com
@@ -581,6 +582,7 @@
 .push.delivery.ethinking.de
 .gu7socdn.txxx.com
 .cdn.pushowl.com
+.subscribe-forms.beehiiv.com
 .wheelify-front.carecart.io
 .ext.spinwheelapp.com
 .omnisnippet1.com

@@ -135,6 +135,7 @@
 .clickio.mgr.consensu.org
 .cdn.consentmanager.mgr.consensu.org
 .quantcast.mgr.consensu.org
+.cmp.sklep.motogo.pl
 .consentement.quebecor.com
 .didomi.foodvisor.io
 .widgets.openli.com
