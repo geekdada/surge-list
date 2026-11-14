@@ -9,8 +9,12 @@ DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,ai.com
 DOMAIN-KEYWORD,agumentcode
 DOMAIN-KEYWORD,diabrowser
+DOMAIN-KEYWORD,openrouter
+DOMAIN-KEYWORD,ampcode
+DOMAIN-SUFFIX,factory.ai
 
 # Cursor & Grok
+DOMAIN-KEYWORD,xai
 DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,graphite.com
