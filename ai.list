@@ -11,8 +11,7 @@ DOMAIN-KEYWORD,agumentcode
 DOMAIN-KEYWORD,diabrowser
 
 # Cursor & Grok
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursor.sh
+DOMAIN-KEYWORD,cursor
 DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,graphite.com
 
