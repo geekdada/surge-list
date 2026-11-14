@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.viewanalitycs.org
 .actone.app
 .anakhoki168.com
 .bbzyk.lol
@@ -110556,6 +110557,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.events.plus.yandex.net
 .20251117mix.zgstongji.vip
 .2702.anglicanledger.org
 .98f316a886735460.pornfans.st
@@ -111460,7 +111462,6 @@
 .s2.gameanswers.net
 .server-side-tagging-ycy2jyrtma-uc.a.run.app
 .serverside.myticket.de
-.sgimage.netmarble.com
 .sgtm.arezki.cloud
 .sgtm.ebikecenter.fi
 .sgtm.rhenus-office.pl
@@ -119769,6 +119770,7 @@
 .rockagainst.com
 .rockcarving.com
 .rocketmonitor.com
+.rocketserver.net
 .rockspreading.com
 .rockstarwriter.com
 .roguephilosopher.com
@@ -120048,6 +120050,7 @@
 .spareapp.com
 .sparkgoal.com
 .sparklingshelf.com
+.spasmgame.com
 .specialreview.net
 .specialscissors.com
 .specialtypin.com
@@ -120238,6 +120241,7 @@
 .tastesnake.com
 .tawdryson.com
 .taxisubsea.com
+.taxiwear.com
 .tealjewel.com
 .teamstatus.net
 .tearfulglass.com
@@ -120256,6 +120260,7 @@
 .teeshining.com
 .telephoneapparatus.com
 .tempertrick.com
+.tempowraps.com
 .temptteam.com
 .tendertest.com
 .tenhourweek.com
@@ -120562,6 +120567,7 @@
 .wtaccesscontrol.com
 .yachtloft.com
 .yellowscissors.com
+.yetiminis.com
 .yieldingwoman.com
 .youcandrawanything.com
 .yourgiftedbaby.com
