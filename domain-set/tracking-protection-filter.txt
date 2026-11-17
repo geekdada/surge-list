@@ -110557,6 +110557,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.proxypurity.com
+.cast-imp.jtbc.co.kr
 .beacon.viafoura.io
 .events.plus.yandex.net
 .20251117mix.zgstongji.vip
@@ -120080,6 +120082,7 @@
 .spoonsilk.com
 .sportsclubstat.com
 .sportsnearby.com
+.sportswidows.com
 .sportybrains.com
 .sportyforum.com
 .spotlessstamp.com
@@ -120333,6 +120336,7 @@
 .topcrazypress.com
 .topicalcartel.com
 .topicjungle.com
+.topicspin.com
 .toplaunch.net
 .topratedwaterfilter.com
 .topsecretapp.net
@@ -120360,6 +120364,7 @@
 .treatoceans.com
 .tremendousplastic.com
 .tremendoustime.com
+.trendcone.com
 .trialowl.com
 .trickfile.com
 .triplelarge.com
@@ -120465,6 +120470,7 @@
 .viowrel.com
 .viralfoodie.net
 .virtualvincent.com
+.vistacool.net
 .visualcommservices.com
 .vividcache.com
 .vividcanopy.com
@@ -120489,10 +120495,12 @@
 .warnwing.com
 .warpedwaffle.com
 .washbanana.com
+.waterloco.com
 .waterywave.com
 .waveinverter.com
 .wavesimple.com
 .wavesmachine.com
+.waxguide.com
 .waxsirens.com
 .wayjoyfarm.com
 .waylowrates.net
