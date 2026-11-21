@@ -297,7 +297,7 @@
 .api.eventbus.me
 .rumt-sg.com
 .gm.mmstat.com
-.yazio-analytics.com
+.event-ingestion.yazio-analytics.com
 .hightouch-events.com
 .rtbuniverse.com
 .gw-usa-tracker.zmaticoo.com
@@ -113756,7 +113756,6 @@
 .fxgate.baidu.com
 .p.controld.com
 .collector.bsg.brave.com
-.sy.ameba.jp
 .tracker.uira.live
 .col.surfside.io
 .tsn.dmcmedia.co.kr
@@ -118309,6 +118308,7 @@
 .coldcrucible.com
 .coloradoserves.com
 .colorandnoise.com
+.colorfilter.net
 .colorfulneon.com
 .colorfulpet.com
 .coloroptimizer.com
@@ -118989,6 +118989,7 @@
 .hospitablehall.com
 .hospitablehat.com
 .hostchutney.com
+.housewheels.com
 .howdoesthislook.com
 .hubcapcafe.net
 .humbleroots.net
@@ -119242,6 +119243,7 @@
 .marsnextdoor.com
 .mascguys.com
 .maskedadmin.com
+.masondown.com
 .masseurexpress.com
 .massivemark.com
 .masterenter.com
@@ -119389,6 +119391,7 @@
 .nimbleplot.com
 .nimbuswatersystem.com
 .ninjatravels.com
+.nitrojiveband.com
 .noblecables.com
 .noblefellow.com
 .nodenotify.com
@@ -119459,6 +119462,7 @@
 .orangebirdie.com
 .orchidgenius.com
 .orderjumper.com
+.ordinalzero.com
 .orgbackups.com
 .orientedargument.com
 .originblocks.com
@@ -119693,6 +119697,7 @@
 .rangeplayground.com
 .rangergustav.com
 .rankaddict.com
+.rapidscraper.com
 .rarelyfans.com
 .raresummer.com
 .razzweb.com
