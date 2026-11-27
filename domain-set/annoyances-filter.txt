@@ -251,6 +251,7 @@
 .trbo.com
 .widget.pico.tools
 .widget.privy.com
+.campaign.denikn.cz
 .vote.sibnet.ru
 .smetrics.telegraph.co.uk
 .sdk.chirpyweb.com
