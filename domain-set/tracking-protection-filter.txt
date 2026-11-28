@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cdn.diginetica.net
 .adcanvas.com
 .clerk-telemetry.com
 .ghtinc.com
@@ -113466,6 +113467,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ac.avito.ru
 .ap-prd-edge-clientlog.nexon.com
 .toy.log.nexon.io
 .pan.pazarama.com
@@ -122178,6 +122180,7 @@
 .materialisticmoon.com
 .materialmilk.com
 .materialparcel.com
+.mathrevolt.com
 .maxcruisers.com
 .maybetony.com
 .meadowlullaby.com
@@ -122193,6 +122196,7 @@
 .melodiousharmony.com
 .melodioussymphony.com
 .melodyglobe.com
+.melodyivory.com
 .meltmilk.com
 .membernook.com
 .memeorigin.com
@@ -122211,6 +122215,7 @@
 .mesaviewlodge.com
 .messagelists.com
 .messmonster.com
+.messrod.com
 .messyoranges.com
 .metajaws.com
 .metalsfactory.com
@@ -122274,6 +122279,7 @@
 .mutualdocs.com
 .mysketchpad.com
 .mysticalagoon.com
+.mythweaver.net
 .nablounge.com
 .naillearn.com
 .naivestatement.com
@@ -122444,6 +122450,7 @@
 .pedropanther.com
 .peeringhost.net
 .pegsbuttons.com
+.penbuzz.com
 .peoplebrain.net
 .pepperrun.com
 .perfectfetch.com
@@ -122472,6 +122479,7 @@
 .piquantprice.com
 .piquantvortex.com
 .pitmanmusic.com
+.pivotfresh.com
 .pixeledhub.com
 .pixelmoonstudio.com
 .pixeltrouble.com
@@ -123398,6 +123406,7 @@
 .usabilitybook.com
 .uselesslumber.com
 .userballot.com
+.usersays.com
 .utopiaband.net
 .vacationsgolf.com
 .validmemo.com
